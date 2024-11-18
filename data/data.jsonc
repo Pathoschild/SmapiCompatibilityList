@@ -17179,6 +17179,13 @@
 			}
 		},
 		{
+			"name": "OmniFarmEx",
+			"author": "GlimmerDev",
+			"id": "glimmerDev.OmnifarmEx",
+			"nexus": 21492,
+			"github": "GlimmerDev/StardewValleyMod_OmniFarmEx",
+		},
+		{
 			"name": "Omni Swing",
 			"author": "Alejandro Akbal",
 			"id": "AlejandroAkbal.OmniSwing",
