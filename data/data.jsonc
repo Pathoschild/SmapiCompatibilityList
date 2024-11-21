@@ -9688,7 +9688,8 @@
 			"author": "barteke22",
 			"id": "barteke22.FIshingInfoOverlays",
 			"nexus": 8970,
-			"github": "barteke22/StardewMods"
+			"github": "barteke22/StardewMods",
+			"brokeIn": "Stardew Valley 1.6.14",
 		},
 		{
 			"name": "Fishing Logbook",
