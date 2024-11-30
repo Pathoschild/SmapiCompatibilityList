@@ -17352,9 +17352,9 @@
 		{
 			"name": "OMC - OMEGAlinc's Commands",
 			"author": "OMEGAlinc, OMEGAlincYT",
-			"id": "OMEGAlinc.OMC, OMEGAlinc.NPCAnimalCommands", // changed in 1.1.0
+			"id": "OMEGAlinc.OMC",
 			"nexus": 29329,
-			"github": null
+			"github": "OMEGAlinc/OMC",
 		},
 		{
 			"name": "OmniFarm",
