@@ -15744,6 +15744,24 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "More Wedding Venues",
+			"author": "bigeyedkitteh",
+			"id": "bigeyedkitteh.moreweddingvenues",
+			"nexus": 16555,
+			"github": "null",
+
+			"brokeIn": "Stardew Valley 1.3",
+			"status": "workaround",
+			"summary": "use [Custom Wedding Ceremony](#) instead."
+		},
+		{
+			"name": "Custom Wedding Ceremony",
+			"author": "AirynS",
+			"id": "Airyn.CWC",
+			"nexus": 29885,
+			"github": "null"
+		},		
+		{
 			"name": "Morning Auto-Pause",
 			"author": "Zamiel",
 			"id": "Zamiel.MorningAutoPause",
@@ -26063,10 +26081,7 @@
 			"author": "DaLion",
 			"id": "DaLion.Professions, DaLion.ImmersiveProfessions, DaLion.AwesomeProfessions, thelion.AwesomeProfessions", // changed in republished 0.2.0, ?, changed in 3.0.0?, changed in 2.0.7
 			"nexus": 24355,
-			"github": "daleao/sdv",
-
-			"brokeIn": "Stardew Valley 1.6.9",
-			"retestWhenCompatible": [ "DaLionheart" ] // dependency
+			"github": "daleao/sdv"
 		},
 		{
 			"name": "Walkshop",
