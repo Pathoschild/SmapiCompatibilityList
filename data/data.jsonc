@@ -3455,6 +3455,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Building Menu Anywhere",
+			"author": "OMEGAlinc, OMEGAlincYT",
+			"id": "OMEGAlinc.BuildingMenuAnywhere",
+			"nexus": 29906,
+			"github": "OMEGAlinc/BuildingMenuAnywhere"
+		},
+		{
 			"name": "Bulk Animal Purchase",
 			"author": "aedenthorn, Erinthe",
 			"id": "aedenthorn.BulkAnimalPurchase",
