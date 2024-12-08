@@ -15744,24 +15744,6 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
-			"name": "More Wedding Venues",
-			"author": "bigeyedkitteh",
-			"id": "bigeyedkitteh.moreweddingvenues",
-			"nexus": 16555,
-			"github": "null",
-
-			"brokeIn": "Stardew Valley 1.3",
-			"status": "workaround",
-			"summary": "use [Custom Wedding Ceremony](#) instead."
-		},
-		{
-			"name": "Custom Wedding Ceremony",
-			"author": "AirynS",
-			"id": "Airyn.CWC",
-			"nexus": 29885,
-			"github": "null"
-		},		
-		{
 			"name": "Morning Auto-Pause",
 			"author": "Zamiel",
 			"id": "Zamiel.MorningAutoPause",
@@ -27221,6 +27203,17 @@
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
 			"summary": "use [The Return Of More Backpack Upgrades](https://www.nexusmods.com/stardewvalley/mods/21591) instead."
+		},
+		{
+			"name": "More Wedding Venues",
+			"author": "bigeyedkitteh",
+			"id": "bigeyedkitteh.moreweddingvenues",
+			"nexus": 16555,
+			"github": null,
+
+			"brokeIn": "Stardew Valley 1.3",
+			"status": "workaround",
+			"summary": "use [Custom Wedding Ceremony](https://www.nexusmods.com/stardewvalley/mods/29885) instead."
 		},
 		{
 			"name": "Overgrown Fairy Buildings",
