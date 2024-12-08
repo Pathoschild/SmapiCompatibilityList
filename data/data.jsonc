@@ -27211,6 +27211,8 @@
 			"nexus": 16555,
 			"github": null,
 
+			"contentPackFor": "Content Patcher",
+
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
 			"summary": "use [Custom Wedding Ceremony](https://www.nexusmods.com/stardewvalley/mods/29885) instead."
