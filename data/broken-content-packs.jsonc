@@ -233,6 +233,17 @@
 			"unofficialUpdate": {
 				"version": "1.2.1-unofficial",
 				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-124427"
+		},
+		{
+			"name": "Van NPC",
+			"author": "OMEGAlinc",
+			"id": "OMEGAlinc.VanNPC",
+			"nexus": 18388,
+			"github": null,
+			
+			"contentPackFor": "Content Patcher",
+			
+			"status": "abandoned"
 			}
 		}
 	]
