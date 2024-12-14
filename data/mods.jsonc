@@ -19599,6 +19599,13 @@
 			"github": null
 		},
 		{
+			"name": "Quick Eat Keybinds",
+			"author": "OMEGAlinc, OMEGAlincYT",
+			"id": "OMEGAlinc.QuickEatKeybinds",
+			"nexus": 30081,
+			"github": "OMEGAlinc/QuickEatKeybinds"
+		},
+		{
 			"name": "Quick Forward Dash, Warp Mod",
 			"author": "Vexorth",
 			"id": "Vexorth.Warp",
