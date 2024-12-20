@@ -5051,9 +5051,7 @@
 			"author": "stardemod",
 			"id": "stardemod.CookingOverhaul",
 			"nexus": 24845,
-			"github": null,
-
-			"brokeIn": "Stardew Valley 1.6.9"
+			"github": null
 		},
 		{
 			"name": "Cooking Skill",
