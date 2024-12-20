@@ -6982,28 +6982,14 @@
 			"id": "maxvollmer.deepwoodsmod",
 			"curse": 992429,
 			"nexus": 2571,
-			"github": "maxvollmer/DeepWoodsMod",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "maxvollmer/DeepWoodsMod"
 		},
 		{
 			"name": "Deep Woods Seasonal Obelisk",
 			"author": "Sandman53",
 			"id": "maxvollmer.deepwoodsmod.seasonalobelisk",
 			"nexus": 5016,
-			"github": null,
-
-			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "Deep Woods" ], // dependency
-
-			"overrideModData": [
-				{
-					"type": "remoteVersion",
-					"from": "2.11.0",
-					"to": "2.1.0",
-					"reason": "[mod page](https://www.nexusmods.com/stardewvalley/mods/5016) has wrong version format"
-				}
-			]
+			"github": null
 		},
 		{
 			"name": "Deep Woods Warp Network Integration",
