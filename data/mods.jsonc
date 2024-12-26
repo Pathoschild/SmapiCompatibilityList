@@ -5069,7 +5069,18 @@
 			"author": "gaussfire",
 			"id": "gaussfire.ConvenientInventory",
 			"nexus": 10384,
-			"github": "alanperrow/StardewModding"
+			"github": "alanperrow/StardewModding",
+
+			"brokeIn": "Stardew Valley 1.6.9",
+			"status": "workaround",
+			"summary": "use [Convenient Inventory (Unofficial Update)](#) instead."
+		},
+		{
+			"name": "Convenient Inventory (Unofficial Update)",
+			"author": "gaussfire and DespairScent",
+			"id": "gaussfire.ConvenientInventory",
+			"nexus": 30204,
+			"github": "DespairScent/alanperrow-StardewModding/tree/unofficial-update/ConvenientInventory"			
 		},
 		{
 			"name": "Cooking Overhaul",
