@@ -2477,7 +2477,12 @@
 			"nexus": 8992,
 			"github": "ceruleandeep/CeruleanStardewMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.2-MaximillianRW",
+				"url": "http://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-151596"
+			}
+
 		},
 		{
 			"name": "Better Junimos Forestry Redux",
