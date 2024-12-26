@@ -26954,7 +26954,12 @@
 			"nexus": 3654,
 			"github": "jahangmar/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6.9"
+			"brokeIn": "Stardew Valley 1.6.9",
+			"unofficialUpdate": {
+				"version": "1.5.4-unofficial.2-Sparky56p",
+				"url": "http://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-154388"
+			}
+
 		},
 		{
 			"name": "World Maps, World Maps Everywhere",
