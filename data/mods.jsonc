@@ -17621,7 +17621,16 @@
 			"nexus": 10918,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Painting Display - Continued](#) instead."
+		},
+		{
+			"name": "Painting Display - Continued",
+			"author": "aedenthorn and FlyingTNT",
+			"id": "FlyingTNT.PaintingDisplay",
+			"nexus": 30352,
+			"github": "FlyingTNT/StardewValleyMods"
 		},
 		{
 			"name": "Pan Hats, Pan Hat Slot",
