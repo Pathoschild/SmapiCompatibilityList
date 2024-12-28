@@ -8980,9 +8980,6 @@
 			"moddrop": 1099838,
 			"nexus": 10924,
 			"github": "atravita-mods/StardewMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Farm Computer Plus",
