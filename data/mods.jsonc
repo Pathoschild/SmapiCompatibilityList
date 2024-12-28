@@ -5605,7 +5605,7 @@
 			"author": "mushymato",
 			"id": "mushymato.CueSwap",
 			"nexus": 29445,
-			"github": null
+			"github": "Mushymato/CueSwap"
 		},
 		{
 			"name": "Current Location",
@@ -9878,7 +9878,7 @@
 			"author": "mushymato",
 			"id": "mushymato.FishPondering",
 			"nexus": 29422,
-			"github": null
+			"github": "Mushymato/FishPondering"
 		},
 		{
 			"name": "Fish Preview",
@@ -15057,7 +15057,7 @@
 			"author": "mushymato",
 			"id": "mushymato.MMAP",
 			"nexus": 28423,
-			"github": "Mushymato/StardewMods"
+			"github": "Mushymato/MiscMapActionsProperties"
 		},
 		{
 			"name": "Misophonia Accessibility, Remove Eat Sound", // changed in 2.0
@@ -24684,7 +24684,9 @@
 			"nexus": 21900,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6.9"
+			"brokeIn": "Stardew Valley 1.6.9",
+			"status": "workaround",
+			"summary": "use [Fish Pondering](#) instead."
 		},
 		{
 			"name": "The Twlight Traveller - Custom NPC (API), APICut",
