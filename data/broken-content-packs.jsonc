@@ -67,6 +67,8 @@
 			"moddrop": 43037,
 			"github": null,
 
+			"contentPackFor": "Content Patcher",
+
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "abandoned",
 			"summary": "remove this mod (no longer maintained; use [Champagne Wishes Continued](#) instead)."
@@ -76,7 +78,9 @@
 			"author": "Shads4242",
 			"id": "Shads42.ChampagneWishesContinued",
 			"nexus": 30226,
-			"github": null
+			"github": null,
+
+			"contentPackFor": "Content Patcher"
 		},
 		{
 			"name": "Cuter Slimes",
