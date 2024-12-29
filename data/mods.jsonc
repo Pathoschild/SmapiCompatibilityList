@@ -3929,26 +3929,6 @@
 			"github": "Jaksha6472/ChallengingCommunityCenterBundles"
 		},
 		{
-			"name": "Champagne Wishes",
-			"author": "fwippy",
-			"id": "fwippy.champagnewishes",
-			"nexus": 43037,
-			"github": null,
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Champagne Wishes Continued](#) instead."
-
-		},
-		{
-			"name": "Champagne Wishes Continued",
-			"author": "Shads4242",
-			"id": "Shads42.ChampagneWishesContinued",
-			"nexus": 120029,
-			"github": null
-
-		},
-		{
 			"name": "Chance Cubes",
 			"author": "Turkey2349",
 			"id": "turkey2349.chancecubes",
