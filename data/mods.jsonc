@@ -2477,14 +2477,23 @@
 			"nexus": 8992,
 			"github": "ceruleandeep/CeruleanStardewMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Better Junimos Forestry Redux](#) instead."
 		},
 		{
 			"name": "Better Junimos Forestry Redux",
 			"author": "Afropenguinn, Kristian Skistad",
 			"id": "SkistadStudios.BetterJunimosForestryRedux",
 			"nexus": 29130,
-			"github": null
+			"github": null,
+
+			// mod is technically not broken, but the unofficial update fixes a missing manifest
+			// dependency which led to errors loading the mod if Better Junimos wasn't loaded first.
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.2-MaximillianRW",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-151596"
+			}
 		},
 		{
 			"name": "Better Lightning Rods",
@@ -9718,7 +9727,13 @@
 			"author": "barteke22",
 			"id": "barteke22.FIshingInfoOverlays",
 			"nexus": 8970,
-			"github": "barteke22/StardewMods"
+			"github": "barteke22/StardewMods",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "1.2.3-unofficial.1-Sparky56p",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-154771"
+			}
 		},
 		{
 			"name": "Fishing Logbook",
@@ -26944,7 +26959,11 @@
 			"nexus": 3654,
 			"github": "jahangmar/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6.9"
+			"brokeIn": "Stardew Valley 1.6.9",
+			"unofficialUpdate": {
+				"version": "1.5.4-unofficial.2-Sparky56p",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-154388"
+			}
 		},
 		{
 			"name": "World Maps, World Maps Everywhere",
