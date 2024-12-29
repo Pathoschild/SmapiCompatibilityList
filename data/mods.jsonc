@@ -13833,9 +13833,6 @@
 			"nexus": 10959,
 			"moddrop": 1102538,
 			"github": "atravita-mods/StardewMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Less Strict Over-Exertion, AntiExhaustion",
