@@ -11544,6 +11544,15 @@
 			"github": null
 		},
 		{
+			"name": "Champagne Wishes Continued",
+			"author": "Shads4242",
+			"id": "Shads42.ChampagneWishesContinued",
+			"nexus": 30226,
+			"github": null,
+
+			"contentPackFor": "Content Patcher"
+		},
+		{
 			"name": "Greenhouse Gatherers",
 			"author": "PeacefulEnd",
 			"id": "PeacefulEnd.GreenhouseGatherers",
