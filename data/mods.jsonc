@@ -16934,9 +16934,19 @@
 			"summary": "use [Producer Framework Mod](#) instead."
 		},
 		{
-			"name": "New Years Eve → Fireworks",
-			"author": "sophiesalacia",
-			"id": "sophie.Fireworks",
+			"name": "New Years Eve",
+			"author": "Yri",
+			"id": "yri.NYE",
+			"nexus": 15277,
+			"github": "sophiesalacia/StardewMods",
+
+			"brokeIn": "Stardew Valley 1.6.9",
+			"retestWhenCompatible": [ "Stats as Tokens" ] // dependency
+		},
+		{
+			"name": "New Years Eve",
+			"author": "Yri",
+			"id": "yri.NYE",
 			"nexus": 15277,
 			"github": "sophiesalacia/StardewMods",
 
