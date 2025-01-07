@@ -1975,11 +1975,11 @@
 			"github": "Mizzion/MyStardewMods"
 		},
 		{
-			"name": "BarleyZP's Allergies, BarleyZP Allergies",
+			"name": "BarleyZP's Allergies, BZP Allergies",
 			"author": "BarleyZP",
 			"id": "BarleyZP.BzpAllergies",
 			"nexus": 21238,
-			"github": "lisyce/SDV_Allergies_Mod"
+			"github": "lisyce/StardewValleyMods"
 		},
 		{
 			"name": "Barn Incubator Support",
@@ -9985,7 +9985,7 @@
 			"author": "BarleyZP",
 			"id": "BarleyZP.FishingTackleTooltip",
 			"nexus": 24751,
-			"github": null
+			"github": "lisyce/StardewValleyMods"
 		},
 		{
 			"name": "Fishing Trawler",
@@ -13360,7 +13360,7 @@
 			"author": "BarleyZP",
 			"id": "BarleyZP.ItemsHaveWeight",
 			"nexus": 26693,
-			"github": null
+			"github": "lisyce/StardewValleyMods"
 		},
 		{
 			"name": "Item Tooltips",
