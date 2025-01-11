@@ -60,6 +60,29 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Champagne Wishes",
+			"author": "fwippy",
+			"id": "fwippy.champagnewishes",
+			"nexus": 5721,
+			"moddrop": 43037,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "abandoned",
+			"summary": "remove this mod (no longer maintained; use [Champagne Wishes Continued](#) instead)."
+		},
+		{
+			"name": "Champagne Wishes Continued",
+			"author": "Shads4242",
+			"id": "Shads42.ChampagneWishesContinued",
+			"nexus": 30226,
+			"github": null,
+
+			"contentPackFor": "Content Patcher"
+		},
+		{
 			"name": "Cuter Slimes",
 			"author": "Amaryn",
 			"id": "Amaryn.CuterSlimes",
