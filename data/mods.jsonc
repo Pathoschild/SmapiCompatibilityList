@@ -22082,7 +22082,11 @@
 			"id": "Cherry.ShopTileFramework",
 			"nexus": 5005,
 			"moddrop": 716384,
-			"github": "ChroniclerCherry/stardew-valley-mods"
+			"github": "ChroniclerCherry/stardew-valley-mods",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "obsolete",
+			"summary": "remove this mod (no longer maintained; use the game's new built-in shop data instead instead)."
 		},
 		{
 			"name": "Shovel Tool Upgrades, Upgradable Shovel",
