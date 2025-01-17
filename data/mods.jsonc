@@ -14996,8 +14996,11 @@
 			"id": "ceruleandeep.MarketDay",
 			"nexus": 11778,
 			"github": "ceruleandeep/CeruleanStardewMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "1.1.7-unofficial.5-NCarigon",
+				"url": "https://github.com/ncarigon/CeruleanStardewMods/releases"
+			}
 		},
 		{
 			"name": "Market Town, Food Store", // changed in 3.0.0
