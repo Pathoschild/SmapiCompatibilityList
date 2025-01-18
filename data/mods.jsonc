@@ -14530,7 +14530,6 @@
 			"status": "workaround",
 			"summary": "use [Price Buffs](#) instead."
 		},
-		},
 		{
 			"name": "Lost Book Menu",
 			"author": "bungus",
@@ -19347,7 +19346,7 @@
 		{
 			"name": "Price Buffs",
 			"author": "Bennoloth",
-			"id": "bennoloth.pricebuffs",
+			"id": "bennoloth.PriceBuffs",
 			"nexus": 16209,
 			"github": null
 		},
