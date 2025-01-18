@@ -14526,7 +14526,10 @@
 			"nexus": 2658,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Price Buffs](#) instead."
+		},
 		},
 		{
 			"name": "Lost Book Menu",
@@ -19340,6 +19343,13 @@
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
 			"summary": "use [CJB Show Item Sell Price](#) instead."
+		},
+		{
+			"name": "Price Buffs",
+			"author": "Bennoloth",
+			"id": "bennoloth.pricebuffs",
+			"nexus": 16209,
+			"github": null
 		},
 		{
 			"name": "Price Tooltips",
