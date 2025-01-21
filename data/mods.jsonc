@@ -19717,9 +19717,23 @@
 			"github": "Mizzion/MyStardewMods"
 		},
 		{
-			"name": "Qingfeng - Custom NPC, Red Panda Bazaar Code",
-			"author": "Lilaoliu, WhaleK233",
+			"name": "Red Panda Bazaar",
+			"author": "Lilaoliu",
+			"id": "Lilaoliu.RedPandaBazaar",
+			"nexus": 30982,
+			"github": null
+		},
+		{
+			"name": "Red Panda Bazaar Code",
+			"author": "WhaleK233",
 			"id": "WhaleK233.RedPandaBazaarCode",
+			"nexus": 30982,
+			"github": null
+		},
+		{
+			"name": "Qingfeng - Custom NPC",
+			"author": "Lilaoliu",
+			"id": "Lilaoliu.QingfengCP",
 			"nexus": 24934,
 			"github": null
 		},
