@@ -10598,6 +10598,13 @@
 			"summary": "Use [Scroll To Blank](#) instead."
 		},
 		{
+			"name": "Freeze Time in Events",
+			"author": "OMEGAlinc, OMEGAlincYT",
+			"id": "OMEGAlinc.FreezeTimeinEvents",
+			"nexus": 31086,
+			"github": "OMEGAlinc/FreezeTimeinEvents"
+		},
+		{
 			"name": "Freeze Time Multiplayer",
 			"author": "mori_seneri, Alcatraz773",
 			"id": "mori_sensei.FreezeTime",
