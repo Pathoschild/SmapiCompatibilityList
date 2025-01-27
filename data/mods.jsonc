@@ -3428,8 +3428,9 @@
 			"id": "Omegasis.BuildEndurance",
 			"nexus": 445,
 			"github": "janavarro95/Stardew_Valley_Mods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"summary": "use [Build Endurance Resurrected](https://www.nexusmods.com/stardewvalley/mods/31049) instead",
+			"status": "workaround"
 		},
 		{
 			"name": "Builder's List",
