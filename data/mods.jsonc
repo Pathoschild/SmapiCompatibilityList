@@ -3429,9 +3429,15 @@
 			"nexus": 445,
 			"github": "janavarro95/Stardew_Valley_Mods",
 			"brokeIn": "Stardew Valley 1.6",
-			"summary": "use [Build Endurance Resurrected](https://www.nexusmods.com/stardewvalley/mods/31049) instead",
+			"summary": "uuse [Build Endurance Resurrected](#) instead.",
 			"status": "workaround"
 		},
+		{
+			"name": "Build Endurance Resurrected",
+			"author": "Zerashk07 (originally Alpha_Omegasis)",
+			"id": "ZerashkO7.BuildEnduranceResurrected",
+			"nexus": 31049,
+		}
 		{
 			"name": "Builder's List",
 			"author": "bmarquismarkail, Space Baby",
