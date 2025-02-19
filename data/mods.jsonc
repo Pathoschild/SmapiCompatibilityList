@@ -24868,6 +24868,13 @@
 			"status": "abandoned"
 		},
 		{
+			"name": "Summon NPCs",
+			"author": "OMEGAlinc, OMEGAlincYT",
+			"id": "OMEGAlinc.SummonNPCs",
+			"nexus": 31767,
+			"github": "OMEGAlinc/SummonNPCs"
+		},
+		{
 			"name": "Sundrop City",
 			"author": "The Sundrop Team",
 			"id": "SundropCity.Main, SundropTeam.SundropCity", // changed in 0.2
