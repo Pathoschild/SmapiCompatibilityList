@@ -1,3 +1,6 @@
 # generated for local validation
 compiled
 node_modules
+
+# local IDE settings
+.idea
