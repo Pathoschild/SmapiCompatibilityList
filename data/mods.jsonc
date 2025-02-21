@@ -1185,6 +1185,17 @@
 			"github": null
 		},
 		{
+			"name": "Archaeology Skill for Stardew 1.5, Excavation Skill, New Skill - Archaeology",
+			"author": "moonslime",
+			"id": "moonslime.ExcavationSkill",
+			"nexus": 15793,
+			"github": null,
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Archaeology Skill for 1.6](#) instead."
+		},
+		{
 			"name": "Archery",
 			"author": "PeacefulEnd",
 			"id": "PeacefulEnd.Archery",
@@ -8803,17 +8814,6 @@
 			"github": "Digus/StardewValleyMods"
 		},
 		{
-			"name": "Excavation Skill, New Skill - Archaeology, Archaeology Skill for Stardew 1.5",
-			"author": "moonslime",
-			"id": "moonslime.ExcavationSkill",
-			"nexus": 15793,
-			"github": null,
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Archaeology Skill for 1.6](#) instead."
-		},
-		{
 			"name": "Exhaustion Tweaks",
 			"author": "mytigio",
 			"id": "mytigio.exhaustiontweaks",
@@ -12718,6 +12718,15 @@
 			"id": "JohnPeters.ICaughtThis",
 			"nexus": 27632,
 			"github": null
+		},
+		{
+			"name": "Iconic Framework, Toolbar Icons", // renamed in 3.0.0
+			"author": "LeFauxMatt",
+			"id": "furyx639.ToolbarIcons",
+			"curse": 871834,
+			"moddrop": 1547451,
+			"nexus": 11026,
+			"github": "LeFauxMatt/StardewMods"
 		},
 		{
 			"name": "Identifiable Combined Rings",
@@ -20422,7 +20431,9 @@
 			"author": "RainKuro",
 			"id": "RainKuro.RainsInteractionMod",
 			"nexus": 18850,
-			"github": null
+			"github": null,
+
+			"status": "abandoned"
 		},
 		{
 			"name": "Raised Garden Beds",
@@ -24884,7 +24895,9 @@
 			"nexus": 9418,
 			"github": "spacechase0/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Filtered Chest Hopper](#) instead."
 		},
 		{
 			"name": "Super Sleeper",
@@ -25815,15 +25828,6 @@
 			"github": "ofts-cqm/ToolAssembly",
 
 			"brokeIn": "Stardew Valley 1.6.9"
-		},
-		{
-			"name": "Toolbar Icons",
-			"author": "LeFauxMatt",
-			"id": "furyx639.ToolbarIcons",
-			"curse": 871834,
-			"moddrop": 1547451,
-			"nexus": 11026,
-			"github": "LeFauxMatt/StardewMods"
 		},
 		{
 			"name": "Toolbar Tooltips",
