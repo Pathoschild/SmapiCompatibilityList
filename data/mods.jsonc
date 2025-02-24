@@ -28122,6 +28122,20 @@
 			"id": "slO.FarmerMotion",
 			"nexus": 30710,
 			"github": null
+		},
+		{
+			"name": "Expanded Artisanal Goods",
+			"author": "MajorBonghits",
+			"id": "bonghits.cp.BearHoneyMead",
+			"nexus": 31786,
+			"github": "STRHercules/BonghitsStardewMods"
+		},
+		{
+			"name": "Woods Elsewhere Unofficial Update",
+			"author": "MajorBonghits",
+			"id": "bonghits.woodsupdate",
+			"nexus": 31801,
+			"github": "STRHercules/BonghitsStardewMods"
 		}
 	]
 }
