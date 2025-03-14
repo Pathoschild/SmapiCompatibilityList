@@ -2634,7 +2634,9 @@
 			"nexus": 935,
 			"github": "bmarquismarkail/SV_BetterQualityMoreSeeds",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Seed Maker Quality](#) instead."
 		},
 		{
 			"name": "Better Quarry",
