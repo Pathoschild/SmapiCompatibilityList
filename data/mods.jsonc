@@ -23500,7 +23500,13 @@
 			"id": "aedenthorn.SlimeHutchWaterSpots",
 			"curse": 868735,
 			"nexus": 13778,
-			"github": "aedenthorn/StardewValleyMods"
+			"github": "aedenthorn/StardewValleyMods",
+			
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "0.1.2-unofficial",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-161196"
+			}
 		},
 		{
 			"name": "Slime Minerals",
