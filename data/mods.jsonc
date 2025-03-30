@@ -18949,12 +18949,16 @@
 		{
 			"name": "Personal Traveling Cart",
 			"author": "aedenthorn, Erinthe",
-			"id": "aedenthorn.PersonalTravellingCart",
+			"id": "aedenthorn.PersonalTravelingCart, aedenthorn.PersonalTravellingCart", // changed in 0.3.6-unofficial.1
 			"curse": 868722,
 			"nexus": 14087,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "0.3.6-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#PersonalTravelingCart"
+			}
 		},
 		{
 			"name": "Personal Trees",
