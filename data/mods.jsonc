@@ -10313,13 +10313,7 @@
 			"author": "barteke22",
 			"id": "barteke22.FIshingInfoOverlays",
 			"nexus": 8970,
-			"github": "barteke22/StardewMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "1.2.3-unofficial.2-Sparky56p",
-				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-164847"
-			}
+			"github": "barteke22/StardewMods"
 		},
 		{
 			"name": "Fishing Logbook",
