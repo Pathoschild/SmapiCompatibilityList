@@ -2650,17 +2650,6 @@
 			"github": "Achtuur/StardewMods"
 		},
 		{
-			"name": "Better Quality More Seeds",
-			"author": "bmarquismarkail, Space Baby",
-			"id": "SpaceBaby.BetterQualityMoreSeeds, SB_BQMS", // changed in 2.0.0-4
-			"nexus": 935,
-			"github": "bmarquismarkail/SV_BetterQualityMoreSeeds",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Seed Maker Quality](#) instead."
-		},
-		{
 			"name": "Better Quarry",
 			"author": "Nishtra",
 			"id": "BetterQuarry",
@@ -3565,8 +3554,6 @@
 			"id": "SpaceBaby.BuildersList, SB_BuildersList", // changed in 0.0.2
 			"nexus": 5347,
 			"github": "bmarquismarkail/SV_BuildersList",
-
-			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Build Health",
@@ -27817,8 +27804,6 @@
 			"id": "SB_VerticalToolMenu",
 			"nexus": 943,
 			"github": "bmarquismarkail/SV_VerticalToolMenu",
-
-			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Vibrant Pastoral Redrawn → Vibrant Pastoral C#",
