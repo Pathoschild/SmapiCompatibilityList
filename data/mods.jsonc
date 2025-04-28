@@ -19692,9 +19692,7 @@
 			"id": "aedenthorn.PlaygroundMod",
 			"curse": 868719,
 			"nexus": 14125,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6.9"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Play Prairie King With NPCs, Two Player Prairie King",
