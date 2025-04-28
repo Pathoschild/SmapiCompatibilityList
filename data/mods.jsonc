@@ -10280,13 +10280,7 @@
 			"id": "aedenthorn.FishingChestsExpanded",
 			"curse": 868866,
 			"nexus": 7694,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "0.4.3-unofficial.3-mouahrara",
-				"url": "https://github.com/mouahrara/aedenthorn#FishingChestsExpanded"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Fishing Don't Stop Time",
