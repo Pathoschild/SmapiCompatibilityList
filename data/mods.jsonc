@@ -8211,24 +8211,6 @@
 			]
 		},
 		{
-			"name": "Dynamic Map Tiles",
-			"author": "aedenthorn, Erinthe",
-			"id": "aedenthorn.DynamicMapTiles",
-			"curse": 868915,
-			"nexus": 14566,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"summary": "use [Dynamic Map Tiles - Continued](#) instead."
-		},
-		{
-			"name": "Dynamic Map Tiles - Continued",
-			"author": "Datamancer",
-			"id": "datamancer.DynamicMapTiles",
-			"nexus": 21084,
-			"github": null
-		},
-		{
 			"name": "Dynamic Night Time",
 			"author": "Sakorona, Kylindra, KoihimeNakamura",
 			"id": "knakamura.dynamicnighttime",
