@@ -16942,7 +16942,11 @@
 			"nexus": 2054,
 			"github": "spacechase0/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "1.2.4-unofficial.1-chiccen",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-173170"
+
 		},
 		{
 			"name": "More Secret Notes, PEEM (Not MEEP)",
