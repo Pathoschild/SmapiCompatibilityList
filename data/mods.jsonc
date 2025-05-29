@@ -18449,7 +18449,9 @@
 			"author": "trashcan9",
 			"id": "trashcan9.NPCMapLocations.ExtraConfig",
 			"nexus": 16236,
-			"github": null
+			"github": null,
+			
+			"brokeIn": "Stardew Valley 1.6.9"
 		},
 		{
 			"name": "NPC Map Locations for Android",
