@@ -1328,7 +1328,9 @@
 			"author": "Goldenrevolver",
 			"id": "ddde5195-8f85-4061-90cc-0d4fd5459358, Goldenrevolver.ATappersDream", // changed in 1.4.2-unofficial.1
 			"nexus": 260,
-			"github": "Goldenrevolver/Stardew-Valley-Mods"
+			"github": "Goldenrevolver/Stardew-Valley-Mods",
+
+			"brokeIn": "StardewValley 1.6.9"
 		},
 		{
 			"name": "Atelier Cauldron, Cauldron",
