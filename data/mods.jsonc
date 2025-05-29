@@ -14385,7 +14385,11 @@
 			"nexus": 8937,
 			"github": "ceruleandeep/CeruleanStardewMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "1.0.7-unofficial.1-cyanfire",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-173750"
+			}
 		},
 		{
 			"name": "Junimo Farm",
