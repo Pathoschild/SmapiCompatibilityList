@@ -1774,6 +1774,13 @@
 			"github": null
 		},
 		{
+			"name": "Auto Planting",
+			"author": "daitsuku",
+			"id": "daitsuku.AutoPlantingMod",
+			"nexus": 33683,
+			"github": null
+		},
+		{
 			"name": "Auto Refresh Mine Shaft",
 			"author": "weizinai",
 			"id": "weizinai.AutoRefreshMineShaft",
@@ -2313,6 +2320,13 @@
 			"summary": "use [Convenient Inventory](#) instead."
 		},
 		{
+			"name": "Better Collection Sorting",
+			"author": "Snake",
+			"id": "Snake.BetterCollectionSorting",
+			"nexus": 34102,
+			"github": "slserpent/Stardew-Valley-Mods"
+		},
+		{
 			"name": "Better Crab Pots",
 			"author": "Sonozuki",
 			"id": "EpicBellyFlop45.BetterCrabPots",
@@ -2395,11 +2409,7 @@
 			"id": "aedenthorn.BetterElevator",
 			"curse": 868746,
 			"nexus": 12802,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Better Elevator - Continued](#) instead."
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Better Elevator - Continued",
@@ -3006,6 +3016,13 @@
 			"id": "Entoarox.BiggerFridges",
 			"nexus": 21678,
 			"github": null
+		},
+		{
+			"name": "Bigger Machines",
+			"author": "Jok",
+			"id": "Jok.BiggerMachines",
+			"nexus": 33660,
+			"github": "jokthefoo/StardewMods"
 		},
 		{
 			"name": "Bigger Riverlands Farm",
@@ -3808,6 +3825,13 @@
 			"id": "sophie.Calcifer",
 			"nexus": 20628,
 			"github": "sophiesalacia/StardewMods"
+		},
+		{
+			"name": "Caleb - Custom NPC, Caleb Code",
+			"author": "Shiiteyanyo",
+			"id": "Shiiteyan.CalebCode",
+			"nexus": 32814,
+			"github": null
 		},
 		{
 			"name": "Calendar Anywhere",
@@ -4727,6 +4751,13 @@
 			"github": "FawazTakahji/CloudSync"
 		},
 		{
+			"name": "CloudSync → Google Drive",
+			"author": "FawazT",
+			"id": "FawazT.CloudSync.GoogleDrive",
+			"nexus": 33421,
+			"github": "FawazTakahji/CloudSync"
+		},
+		{
 			"name": "Cloudy Skies",
 			"author": "Khloe Leclair",
 			"id": "leclair.cloudyskies",
@@ -5063,7 +5094,9 @@
 			"author": "sophiesalacia",
 			"id": "sophie.ConfigurableBundleCosts, Vertigon.ConfigurableBundleCosts", // before 1.0.1
 			"nexus": 9444,
-			"github": "sophiesalacia/StardewMods"
+			"github": "sophiesalacia/StardewMods",
+
+			"status": "abandoned"
 		},
 		{
 			"name": "Configurable Cellar Extension (with tillable soil), Boogies Cellar Soil Fix",
@@ -5174,6 +5207,13 @@
 			"id": "JohnPeters.ConfirmMineLadder",
 			"nexus": 27825,
 			"github": "emurphy42/ConfirmMineLadder"
+		},
+		{
+			"name": "Confirm Sleep",
+			"author": "John Peters, John Peters (you know, the farmer?)",
+			"id": "JohnPeters.ConfirmSleep",
+			"nexus": 34083,
+			"github": "emurphy42/ConfirmSleep"
 		},
 		{
 			"name": "Confirm Totem, Confirm Warp Totem", // changed in 1.1.0
@@ -5339,7 +5379,7 @@
 			"author": "SummerFleur",
 			"id": "SummerFleur.ConvenientChests",
 			"nexus": 32558,
-			"github": "SummerFleur/ConvenientChests"
+			"github": "SummerFleur2997/ConvenientChests"
 		},
 		{
 			"name": "Convenient Inventory",
@@ -5561,13 +5601,7 @@
 			"id": "aedenthorn.CraftAndBuildFromContainers, aedenthorn.CraftFromContainers", // changed in 0.3.2-unofficial.1
 			"curse": 868683,
 			"nexus": 15341,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "0.3.2-unofficial.2-mouahrara",
-				"url": "https://github.com/mouahrara/aedenthorn#CraftAndBuildFromContainers"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Craft Anything",
@@ -9206,13 +9240,7 @@
 			"id": "aedenthorn.ExpertSitting",
 			"curse": 868870,
 			"nexus": 7435,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "SMAPI 4.0.8",
-			"unofficialUpdate": {
-				"version": "0.3.2-unofficial.1-greg6",
-				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-134928"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Explodable Bushes",
@@ -10198,6 +10226,13 @@
 			"id": "pneuma163.FindingFailedFruitTrees",
 			"nexus": 33035,
 			"github": null
+		},
+		{
+			"name": "Find Item",
+			"author": "ogahalo00",
+			"id": "ogahlo00.Find_Item",
+			"nexus": 34024,
+			"github": "QuangBM138/Find-Item"
 		},
 		{
 			"name": "Find Object Mod",
@@ -11904,6 +11939,13 @@
 			"github": "Gaphodil/GlobalConfigSettings"
 		},
 		{
+			"name": "Global Config Settings Rewrite",
+			"author": "FawazT",
+			"id": "FawazT.GlobalConfigSettingsRewrite",
+			"nexus": 33653,
+			"github": "FawazTakahji/GlobalConfigSettingsRewrite"
+		},
+		{
 			"name": "Glory Of Efficiency",
 			"author": "hackswell",
 			"id": "hackswell.GloryOfEfficiency",
@@ -11954,6 +11996,13 @@
 			"id": "selph.CrackerExtractor",
 			"nexus": 27071,
 			"github": "zombifier/My_Stardew_Mods"
+		},
+		{
+			"name": "Goldenglow",
+			"author": "ForNext",
+			"id": "ForNext.GoldenglowTrinket",
+			"nexus": 26574,
+			"github": null
 		},
 		{
 			"name": "Goodbye American English",
@@ -12389,7 +12438,7 @@
 			"author": "Liliet",
 			"id": "Liliet.HappyHunting",
 			"nexus": 32298,
-			"github": null
+			"github": "LilietB/HappyHunting"
 		},
 		{
 			"name": "Hardcore Combat",
@@ -13154,6 +13203,20 @@
 			"github": null
 		},
 		{
+			"name": "I Am Fishing Master, 我是钓鱼大师",
+			"author": "ZEMYK, 中二魔王夜空",
+			"id": "ZEMWYK.IamFishingMaster",
+			"nexus": 33763,
+			"github": "40022808/SMAPI_MOD_IamFishingMaster"
+		},
+		{
+			"name": "I Am Sports Students, 我是体育生",
+			"author": "ZEMWYK, 中二魔王夜空",
+			"id": "ZEMWYK.IamSportsStudents",
+			"nexus": 33717,
+			"github": "40022808/SMAPI_MOD_IamSportsStudents"
+		},
+		{
 			"name": "I Caught This",
 			"author": "John Peters",
 			"id": "JohnPeters.ICaughtThis",
@@ -13784,6 +13847,13 @@
 			"github": "jahangmar/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Interactive Emotes",
+			"author": "saikanyass",
+			"id": "saikanyass.InteractiveEmotes",
+			"nexus": 33624,
+			"github": "saikanyas/InteractiveEmotes"
 		},
 		{
 			"name": "Internationalization",
@@ -14711,6 +14781,13 @@
 			"github": "yuri-moens/LadderLocator"
 		},
 		{
+			"name": "Ladder Outline",
+			"author": "ogahalo00",
+			"id": "ogahalo00.LadderOutline",
+			"nexus": 33976,
+			"github": "QuangBM138/LadderOutline"
+		},
+		{
 			"name": "Land Grants, Land Grants - Unlimited Players and Farms in Multiplayer",
 			"author": "Platonymous",
 			"id": "Platonymous.LandGrants",
@@ -15272,6 +15349,13 @@
 			"author": "RTGOAT",
 			"id": "RTGOAT.Longevity",
 			"nexus": 649,
+			"github": null
+		},
+		{
+			"name": "Longzelanggu",
+			"author": "pinkxzkb",
+			"id": "pinkxzkb.Longzelanggu",
+			"nexus": 33802,
 			"github": null
 		},
 		{
@@ -16441,6 +16525,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Modular Tools",
+			"author": "Jok",
+			"id": "Jok.ModularTools",
+			"nexus": 33581,
+			"github": null
+		},
+		{
 			"name": "Modular Zen Garden, Modular Zen Gardens Furniture",
 			"author": "leroymilo",
 			"id": "leroymilo.ModularZenGarden",
@@ -16676,6 +16767,13 @@
 			"github": null
 		},
 		{
+			"name": "More Abandoned Joja Bundles",
+			"author": "juminos",
+			"id": "juminos.MoreAbandonedJojaBundles",
+			"nexus": 33744,
+			"github": null
+		},
+		{
 			"name": "More Animals, More Pets",
 			"author": "Entoarox",
 			"id": "Entoarox.MoreAnimals, Entoarox.MorePets, 821ce8f6-e629-41ad-9fde-03b54f68b0b6MOREPETS", // changed in 2.0 and 1.3
@@ -16748,6 +16846,13 @@
 			"github": "p-holodynski/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "More Collections - Armory and Attire",
+			"author": "looooor & scayze, scayze",
+			"id": "scayze.CollectionsMod",
+			"nexus": 34000,
+			"github": "scayze/MoreCollections"
 		},
 		{
 			"name": "More Conversation Topics",
@@ -17072,13 +17177,6 @@
 			}
 		},
 		{
-			"name": "mouahrara's Module Collection",
-			"author": "mouahrara",
-			"id": "mouahrara.mouahrarasModuleCollection",
-			"nexus": 18973,
-			"github": "mouahrara/mouahrarasModuleCollection"
-		},
-		{
 			"name": "Mouse Fishing",
 			"author": "ruggerbuns",
 			"id": "ruggerbuns.MouseFishing",
@@ -17168,9 +17266,7 @@
 			"id": "aedenthorn.MoveIt",
 			"curse": 868688,
 			"nexus": 15163,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Movement Mod, Movement Modifier",
@@ -17533,6 +17629,13 @@
 			"curse": 1018922,
 			"nexus": 22953,
 			"github": "recon88/Multi-Save-Continued"
+		},
+		{
+			"name": "MultiSleep",
+			"author": "Kaito Kid",
+			"id": "KaitoKid.ArchipelagoStandaloneMods.MultiSleep",
+			"nexus": 33722,
+			"github": "agilbert1412/ArchipelagoStandaloneMods"
 		},
 		{
 			"name": "Multitool",
@@ -18467,6 +18570,13 @@
 			"warnings": [ "Only compatible with Android." ]
 		},
 		{
+			"name": "NPC Nametags",
+			"author": "John Peters, John Peters (you know, the farmer?)",
+			"id": "JohnPeters.NPCNametags",
+			"nexus": 34092,
+			"github": "emurphy42/NPCNametags"
+		},
+		{
 			"name": "NPC Path Displayer, Path Display",
 			"author": "Akago",
 			"id": "akago.PathDisplay",
@@ -18564,6 +18674,13 @@
 			"id": "LokiG4m3r.OcarinaOfTimeMelodies",
 			"nexus": 21819,
 			"github": null
+		},
+		{
+			"name": "Odd Quality of Life",
+			"author": "Ltoddy, Lt_oddy",
+			"id": "Lt_oddy.Odd_Quality_of_Life",
+			"nexus": 33779,
+			"github": "Logoddy/Odd-Quality-of-Life"
 		},
 		{
 			"name": "OK Night Check",
@@ -19041,7 +19158,9 @@
 			"author": "DecidedlyHuman and fellowclown",
 			"id": "DecidedlyHuman.ClownSharp, DecidedlyHuman.ClownsSqueakyTools", // changed in 2.0.0
 			"nexus": 22600,
-			"github": null
+			"github": null,
+
+			"status": "abandoned"
 		},
 		{
 			"name": "Passive Friendship",
@@ -20772,6 +20891,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "QOL Essentials, mouahrara's Module Collection", // changed in 2.1.0
+			"author": "mouahrara",
+			"id": "mouahrara.QOLEssentials, mouahrara.mouahrarasModuleCollection", // changed in 2.1.0
+			"nexus": 18973,
+			"github": "mouahrara/QOLEssentials"
+		},
+		{
 			"name": "Quaint Wooden Bridge For Your Farm, Quaint Farm Bridge",
 			"author": "Prismuth",
 			"id": "<Prismuth.QuaintFarmBridge",
@@ -21174,6 +21300,13 @@
 			"github": "b-b-blueberry/RaisedGardenBeds",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Ranch Helper Mod",
+			"author": "ExNecro",
+			"id": "ExNecro.RanchHelperMod",
+			"nexus": 33918,
+			"github": null
 		},
 		{
 			"name": "Ranching Tool Upgrades",
@@ -22454,6 +22587,13 @@
 			"github": "BinaryLip/ScheduleViewer"
 		},
 		{
+			"name": "Science Is A Liar Sometimes",
+			"author": "MonsoonSheep",
+			"id": "MonsoonSheep.WrongForecast",
+			"nexus": 33740,
+			"github": null
+		},
+		{
 			"name": "Scream",
 			"author": "Taskmaster",
 			"id": "Taskmaster.Scream",
@@ -23045,9 +23185,7 @@
 			"author": "aedenthorn, Erinthe",
 			"id": "aedenthorn.SewerSlimes",
 			"nexus": 18195,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Shadow for Mazes, Maze",
@@ -23392,7 +23530,8 @@
 			"nexus": 13186,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "abandoned"
 		},
 		{
 			"name": "Show Real Time",
@@ -23500,6 +23639,13 @@
 			"author": "skn",
 			"id": "skn.HungerMod",
 			"nexus": 3270, // was 1127 before re-release
+			"github": null
+		},
+		{
+			"name": "Simple Location Display",
+			"author": "Kkthnx",
+			"id": "Kkthnx.SimpleLocationDisplay",
+			"nexus": 33749,
 			"github": null
 		},
 		{
@@ -24065,6 +24211,13 @@
 			"author": "Darkmushu1",
 			"id": "Darkmushu.SlimeSpawnerMod",
 			"nexus": 32259,
+			"github": null
+		},
+		{
+			"name": "Slime Tamer",
+			"author": "Zeak6464",
+			"id": "Zeak6464.SlimeTamerLogic",
+			"nexus": 33704,
 			"github": null
 		},
 		{
@@ -24989,6 +25142,13 @@
 			"github": "thimadera/StardewMods"
 		},
 		{
+			"name": "Stack Everything Redux (Unofficial)",
+			"author": "ogahalo00",
+			"id": "ogahalo00.StackEverythingRedux.unofficial",
+			"nexus": 34043,
+			"github": "QuangBM138/Stack-Everything-Redux-Unofficial"
+		},
+		{
 			"name": "Stack More Things",
 			"author": "gellingly",
 			"id": "gellingly.StackMoreThings",
@@ -25470,6 +25630,13 @@
 			"github": null
 		},
 		{
+			"name": "Stardew Valley - Grind Mode",
+			"author": "MoorTarPetal",
+			"id": "MoorTarPetal.GrindySDVCode",
+			"nexus": 34032,
+			"github": null
+		},
+		{
 			"name": "Stardew Valley Randomizer",
 			"author": "Tooshi",
 			"id": "Tooshi.Randomizer",
@@ -25547,6 +25714,13 @@
 			"id": "zunderscore.StardewWebApi",
 			"nexus": 22540,
 			"github": "zunderscore/StardewWebApi"
+		},
+		{
+			"name": "Stardio",
+			"author": "Jok",
+			"id": "Jok.Stardio",
+			"nexus": 34075,
+			"github": null
 		},
 		{
 			"name": "Stardust Core",
@@ -25721,6 +25895,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Steps Taken RNG Prediction on Screen, Ytloe's Steps Taken RNG Prediction",
+			"author": "Ytloe",
+			"id": "Ytloe.StepsTakenOnScreen",
+			"nexus": 33896,
+			"github": "ytloe/Steps-Taken-RNG-Prediction"
+		},
+		{
 			"name": "Stone Bridge Over Pond, Pond With Bridge",
 			"author": "Advize and jinxiewinxie",
 			"id": "jinxiewinxie.StoneBridgeOverPond",
@@ -25740,6 +25921,13 @@
 			"author": "BongWater",
 			"id": "BongWater.StonerValley",
 			"nexus": 32742,
+			"github": null
+		},
+		{
+			"name": "Stop Binge Eating",
+			"author": "TanukiStar",
+			"id": "TanukiStar.StopBingeEat",
+			"nexus": 33803,
 			"github": null
 		},
 		{
@@ -26853,10 +27041,7 @@
 			"id": "aedenthorn.ToolSmartSwitch",
 			"curse": 868687,
 			"nexus": 15216,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"summary": "use [Tool Smart Switch (Updated)](#) instead."
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Tool Smart Switch (Updated)",
