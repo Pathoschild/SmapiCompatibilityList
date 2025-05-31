@@ -8749,7 +8749,9 @@
 			"nexus": 2952,
 			"github": "Ilyaki/Elevator",
 
-			"brokeIn": "Stardew Valley 1.5"
+			"brokeIn": "Stardew Valley 1.5",
+			"status": "workaround",
+			"summary": "use [SinZational Shared Spaces](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.2.0-unofficial.kokirichild",
