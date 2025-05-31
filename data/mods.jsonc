@@ -216,6 +216,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Adjustable Bite Rate Fishing, Faster Fishing SMAPI Only",
+			"author": "ChatGPT, Inferior Gaming",
+			"id": "ChatGPT.FasterFishingSMAPIOnly",
+			"nexus": 34262,
+			"github": null
+		},
+		{
 			"name": "Adjustable Building Costs",
 			"author": "Skalaki",
 			"id": "Skalaki.AdjustableBuildingCosts",
@@ -2645,6 +2652,13 @@
 			"summary": "use [Re-Mixed Seeds](#) or [Seed Overhaul](https://www.nexusmods.com/stardewvalley/mods/22495) instead."
 		},
 		{
+			"name": "Better Movement",
+			"author": "GeorgeTR",
+			"id": "GeorgeTR.betterMovement",
+			"nexus": 34342,
+			"github": "GeorgeTR1/BetterMovement"
+		},
+		{
 			"name": "Better Panning",
 			"author": "AairTheGreat",
 			"id": "AairTheGreat.BetterPanning",
@@ -2936,6 +2950,13 @@
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
 			"summary": "use [Workbench Helper](#) instead."
+		},
+		{
+			"name": "Better Zoom",
+			"author": "DadSaysImCool",
+			"id": "DadSaysImCool.BetterZoom",
+			"nexus": 34282,
+			"github": null
 		},
 		{
 			"name": "Betwitched",
@@ -3424,6 +3445,13 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Break Geodes in Bulk",
+			"author": "Darkmushu1",
+			"id": "Darkmushu1.BreakGeodesInBulk",
+			"nexus": 34257,
+			"github": "jessevang/BreakGeodesInBulk"
 		},
 		{
 			"name": "Breath of Fire 3 Fishing Sounds",
@@ -7463,6 +7491,13 @@
 			"github": null
 		},
 		{
+			"name": "Deep Woods - Unlockable Bundles Multiplayer Compatibility Fix, Unlockable Bundles DeepWoods Fix",
+			"author": "MrHatmann",
+			"id": "mrhatmann.UBDWFix",
+			"nexus": 34103,
+			"github": null
+		},
+		{
 			"name": "Deep Woods Warp Network Integration",
 			"author": "Tlitookilakin",
 			"id": "tlitookilakin.deepwoodswarpnet",
@@ -9459,6 +9494,13 @@
 			"github": "janavarro95/Stardew_Valley_Mods"
 		},
 		{
+			"name": "Fall Paintings",
+			"author": "Zexu2K",
+			"id": "Zexu2K.Fall_Paintings_by_Zexu2K_C",
+			"nexus": 34352,
+			"github": null
+		},
+		{
 			"name": "Fall To Autumn",
 			"author": "jahangmar",
 			"id": "jahangmar.FallToAutumn",
@@ -10507,6 +10549,13 @@
 			"github": "lisyce/StardewValleyMods"
 		},
 		{
+			"name": "Fishing Trainer",
+			"author": "Windmill_City",
+			"id": "Windmill_City.FishingTrainer",
+			"nexus": 34289,
+			"github": "Windmill-City/FishingTrainer"
+		},
+		{
 			"name": "Fishing Trawler",
 			"author": "PeacefulEnd",
 			"id": "PeacefulEnd.FishingTrawler",
@@ -10888,6 +10937,13 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Flute Block Pitch Menu, CP or AT - ENGloomy's Flute Blocks and Pitch Menu",
+			"author": "ENGloomy",
+			"id": "ENGloomy.FluteBlockPitchMenu",
+			"nexus": 34361,
+			"github": "Floogen/AlternativeTextures"
 		},
 		{
 			"name": "Flying Start Loan",
@@ -11489,6 +11545,13 @@
 			"moddrop": 1318487,
 			"nexus": null,
 			"github": "drbirbdev/StardewValley"
+		},
+		{
+			"name": "Game Of Thrones Theme, Beach Sound Mod",
+			"author": "bengisusagir",
+			"id": "ChatGPT.BeachSoundMod",
+			"nexus": 34046,
+			"github": null
 		},
 		{
 			"name": "Game Reminder",
@@ -17780,6 +17843,13 @@
 			"github": "justastranger/MushroomLogAdditions"
 		},
 		{
+			"name": "Mushroom Log Framework",
+			"author": "BarleyZP",
+			"id": "BarleyZP.MushroomLogFramework",
+			"nexus": 34328,
+			"github": "lisyce/StardewValleyMods"
+		},
+		{
 			"name": "Mushroom Propagator Automation",
 			"author": "blueberry and Oddshot",
 			"id": "blueberry.BlueberryMushroomAutomation",
@@ -20824,6 +20894,13 @@
 			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
+			"name": "Push and Pull, Push Pull",
+			"author": "aedenthorn",
+			"id": "aedenthorn.PushPull",
+			"nexus": 34375,
+			"github": null
+		},
+		{
 			"name": "Pussle",
 			"author": "Platonymous",
 			"id": "Platonymous.Pussle",
@@ -22224,7 +22301,9 @@
 			"author": "tekladis",
 			"id": "tekladis.Rollback",
 			"nexus": 33138,
-			"github": "tekladis/sv-rollback"
+			"github": "tekladis/sv-rollback",
+
+			"status": "abandoned"
 		},
 		{
 			"name": "Romantic Revenue",
@@ -23821,9 +23900,7 @@
 			"author": "chiccen",
 			"id": "chiccen.Skateboard",
 			"nexus": 24074,
-			"github": null,
-
-			"status": "abandoned" // mod page hidden
+			"github": "chiccenDev/StardewValleyMods"
 		},
 		{
 			"name": "Skillful Clothes",
@@ -25148,7 +25225,10 @@
 			"author": "ogahalo00",
 			"id": "ogahalo00.StackEverythingRedux.unofficial",
 			"nexus": 34043,
-			"github": "QuangBM138/Stack-Everything-Redux-Unofficial"
+			"github": "QuangBM138/Stack-Everything-Redux-Unofficial",
+
+			"status": "abandoned",
+			"summary": "remove this mod (no longer maintained; use [Stack Everything Redux](#) instead)."
 		},
 		{
 			"name": "Stack More Things",
@@ -25722,6 +25802,13 @@
 			"author": "Jok",
 			"id": "Jok.Stardio",
 			"nexus": 34075,
+			"github": null
+		},
+		{
+			"name": "StarDojo",
+			"author": "stardojo",
+			"id": "stardojo.StardojoMod",
+			"nexus": 34175,
 			"github": null
 		},
 		{
@@ -26321,11 +26408,29 @@
 			"github": "Stingrayss/StardewValley"
 		},
 		{
+			"name": "Teleportation Portal, Teleportation Mod",
+			"author": "Horace Mann Sun and Gungor, BSTG",
+			"id": "BSTG.TeleportationMod",
+			"nexus": 34201,
+			"github": null
+		},
+		{
 			"name": "Teleportation Tool",
 			"author": "jeWel",
 			"id": "jeWel.TeleportationToolModCode",
 			"nexus": 22534,
 			"github": null
+		},
+		{
+			"name": "Teleport Back Home, Teleport",
+			"author": "cctz, cctz_hm",
+			"id": "cctz_hm.Teleport",
+			"nexus": 34295,
+			"github": null,
+
+			"warnings": [
+				"Released mod has incorrect file structure; open the download, unzip the file at 'bin/Debug/net6.0/Teleport 1.0.0.zip', and put that unzipped folder in your Mods folder instead."
+			]
 		},
 		{
 			"name": "Teleporter",
@@ -27767,6 +27872,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Unified Experience System",
+			"author": "Darkmushu1",
+			"id": "Darkmushu.UnifiedExperienceSystem",
+			"nexus": 34216,
+			"github": "jessevang/UnifiedExperienceSystem"
+		},
+		{
 			"name": "Unique Children",
 			"author": "Shaklin",
 			"id": "shaklin.uniquechildren",
@@ -28136,6 +28248,13 @@
 			"brokeIn": "Stardew Valley 1.5.5"
 		},
 		{
+			"name": "Village Gratitude, Daily Money Mod",
+			"author": "Ismael1508",
+			"id": "ismael1508.DailyMoneyMod",
+			"nexus": 34162,
+			"github": null
+		},
+		{
 			"name": "Villager Compass",
 			"author": "Jboss",
 			"id": "Jboss.VillagerCompass",
@@ -28468,6 +28587,13 @@
 			"nexus": 3539,
 			"moddrop": 661368,
 			"github": "Mizzion/MyStardewMods"
+		},
+		{
+			"name": "Water Depth Overlay",
+			"author": "Fai0",
+			"id": "Fai0.WaterDepthOverlay",
+			"nexus": 34207,
+			"github": "LinHuiGD/StardewValleyMods"
 		},
 		{
 			"name": "Water Flow",
