@@ -78,6 +78,36 @@ for (const mod of mods) {
 		}
 	}
 
+	// check unofficial URL format
+	if (mod.unofficialUpdate?.url) {
+		// parse URL
+		let url: URL;
+		try {
+			url = new URL(mod.unofficialUpdate.url);
+		}
+		catch {
+			hasErrors = utilities.logModError(mod, `has unofficial update URL '${mod.unofficialUpdate.url}', which isn't a valid URL.`);
+			continue;
+		}
+
+		// make sure it's a permalink
+		if (url.hostname === "forums.stardewvalley.net" && !url.pathname.includes("/post-")) {
+			if (url.pathname.startsWith("/threads/") && url.hash.startsWith("#post-")) {
+				const threadKey = url.pathname.split('/')[2];
+				hasErrors = utilities.logModError(mod, `has unofficial update URL '${mod.unofficialUpdate.url}', which isn't a permalink. Expected format: https://${url.hostname}/threads/${threadKey}/${url.hash.substring(1)}`);
+			}
+			else
+				hasErrors = utilities.logModError(mod, `has unofficial update URL '${mod.unofficialUpdate.url}', which doesn't seem to be a permalink (ending with /post-XXX).`);
+			continue;
+		}
+
+		// make sure it's HTTPS
+		if (url.protocol !== "https:") {
+			hasErrors = utilities.logModError(mod, `has unofficial update URL '${mod.unofficialUpdate.url}', which isn't an HTTPS link.`);
+			continue;
+		}
+	}
+
 	// check 'retest when compatible' field
 	if (mod.retestWhenCompatible) {
 		if (mod.status === "ok" || mod.status === "optional")
