@@ -1263,9 +1263,7 @@
 			"curse": 485718,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "abandoned",
-			"abandonedReason": "hidden" // TODO: no longer hidden
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Ars Venefici",
@@ -5359,10 +5357,7 @@
 			"author": "Pillow",
 			"id": "Pillow.ConsoleCoordinates",
 			"nexus": 8957,
-			"github": null,
-
-			"status": "abandoned",
-			"abandonedReason": "hidden" // TODO: no longer hidden
+			"github": null
 		},
 		{
 			"name": "Content Code",
@@ -6406,8 +6401,7 @@
 			"nexus": 10861,
 			"github": "purrplingcat/CustomEmotes",
 
-			"status": "abandoned",
-			"abandonedReason": "hidden" // TODO: no longer hidden
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Custom Emotes Menu, Emote's",
@@ -6425,10 +6419,8 @@
 			"moddrop": 793926,
 			"github": "Platonymous/Stardew-Valley-Mods",
 
-			"status": "abandoned",
-			"abandonedReason": "hidden", // TODO: no longer hidden
-			"summary": "remove this mod (no longer maintained; use [Producer Framework Mod](#) instead.",
-			"brokeIn": "Stardew Valley 1.4.4"
+			"brokeIn": "Stardew Valley 1.4.4",
+			"summary": "use [Producer Framework Mod](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "2.12.10-unofficial.1-minervamaga",
@@ -6444,9 +6436,7 @@
 			"github": "Platonymous/Stardew-Valley-Mods",
 
 			"brokeIn": "Automate 1.15",
-			"status": "abandoned",
-			"abandonedReason": "hidden", // TODO: no longer hidden
-			"summary": "remove this mod (no longer maintained; use [Producer Framework Mod → PFMAutomate](#) instead."
+			"summary": "use [Producer Framework Mod → PFMAutomate](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "2.12.10-unofficial.1-minervamaga",
@@ -6550,8 +6540,7 @@
 			"nexus": 3464,
 			"github": null,
 
-			"status": "abandoned",
-			"abandonedReason": "hidden" // TODO: no longer hidden
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Custom Greenhouse, Custom-Made Greenhouse",
@@ -7819,10 +7808,7 @@
 			"author": "PurrplingCat",
 			"id": "PurrplingCat.DialogueEmotes",
 			"nexus": 6537,
-			"github": "purrplingcat/DialogueEmotes",
-
-			"status": "abandoned",
-			"abandonedReason": "hidden" // TODO: no longer hidden
+			"github": "purrplingcat/DialogueEmotes"
 		},
 		{
 			"name": "Dialogue Extension",
@@ -10947,9 +10933,7 @@
 			"github": "MouseyPounds/stardew-mods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"status": "abandoned",
-			"abandonedReason": "hidden", // TODO: no longer hidden
-			"summary": "remove this mod (shadows can now be changed via Content Patch)"
+			"summary": "remove this mod (shadows can now be changed via [Content Patcher](#))."
 		},
 		{
 			"name": "Flower Bombs",
@@ -14178,9 +14162,7 @@
 			"nexus": 14775,
 			"github": "LeFauxMatt/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "abandoned",
-			"abandonedReason": "hidden" // TODO: no longer hidden
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Island Gatherers",
@@ -20337,9 +20319,7 @@
 			"nexus": 13471,
 			"github": "LeFauxMatt/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "abandoned",
-			"abandonedReason": "hidden" // TODO: no longer hidden
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Portable TV",
@@ -21269,8 +21249,8 @@
 			"nexus": 8827,
 			"github": "purrplingcat/StardewMods",
 
-			"status": "abandoned",
-			"abandonedReason": "hidden" // TODO: no longer hidden
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Quest Framework" ] // dependency
 		},
 		{
 			"name": "Quest Framework",
@@ -27182,10 +27162,7 @@
 			"id": "KoihimeNakamura.TimeReminder",
 			"nexus": 1000,
 			"moddrop": 664035,
-			"github": "Sakorona/SDVMods",
-
-			"status": "abandoned",
-			"abandonedReason": "hidden" // TODO: no longer hidden
+			"github": "Sakorona/SDVMods"
 		},
 		{
 			"name": "Timescale Display",
