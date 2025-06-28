@@ -1,4 +1,5 @@
 import * as ajv from "ajv";
+import AjvErrors from 'ajv-errors';
 import * as utilities from "./utilities";
 
 // read args (format: `nodeExecutable scriptPath schemaPath jsonFilePath+`)
@@ -15,8 +16,14 @@ catch (error) {
 	process.exit(1);
 }
 
+// load schema
+const schema = new ajv.Ajv({
+	allErrors: true,
+	strictTypes: false // avoid error about the use of `anyOf { requires }`
+});
+AjvErrors(schema); // add support for 'errorMessages' extension to JSON Schema
+
 // load schema validator
-const schema = new ajv.Ajv({ allErrors: true, strictTypes: false }); // scriptTypes: false avoids error about the use of `anyOf { requires }`
 let validator: ajv.ValidateFunction<unknown>;
 try {
 	validator = schema.compile(rawSchema);

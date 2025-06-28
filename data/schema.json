@@ -91,9 +91,15 @@
 
 				"status": {
 					"title": "Compatibility status",
-					"description": "The mod's compatibility with the latest versions of Stardew Valley and SMAPI.\n\nThe possible values are...\n- ok: mod is compatible.\n- optional: mod is compatible if you use a secondary download on the mod page.\n-unofficial: mod is compatible if you use an unofficial update.\n- workaround: mod is not compatible, but the player there's a good alternative (must specify the `summary` field).\n- broken: mod is not compatible.\n- abandoned: mod is no longer maintained by the author, and an unofficial update or continuation is unlikely. This should only be used when the author has definitively abandoned the mod (either explicitly, or by removing the mod page or downloads).\n- obsolete: mod is no longer needed and should be removed.\n- unknown: the mod's compatibility status hasn't been tested. This should only be used as a placeholder (e.g., when adding a new beta), it should never be used long since that defeats the purpose of the compatibility list.\n\nIf not specified, it defaults to 'unofficial' if an `unofficialUpdate` is given, else 'broken' if `brokeIn` is specified, else 'ok'.",
+					"description": "The mod's compatibility with the latest versions of Stardew Valley and SMAPI.\n\nThe possible values are...\n- ok: mod is compatible.\n- optional: mod is compatible if you use a secondary download on the mod page.\n-unofficial: mod is compatible if you use an unofficial update.\n- workaround: mod is not compatible, but the player there's a good alternative (must specify the `summary` field).\n- broken: mod is not compatible.\n- abandoned: mod is no longer maintained by the author, and an unofficial update or continuation is unlikely. This should only be used when the author has definitively abandoned the mod (either explicitly, or by removing the mod page or downloads). You must also specify the `abandonedReason` field with this status.\n- obsolete: mod is no longer needed and should be removed.\n- unknown: the mod's compatibility status hasn't been tested. This should only be used as a placeholder (e.g., when adding a new beta), it should never be used long since that defeats the purpose of the compatibility list.\n\nIf not specified, it defaults to 'unofficial' if an `unofficialUpdate` is given, else 'broken' if `brokeIn` is specified, else 'ok'.",
 					"type": "string",
 					"enum": [ "ok", "optional", "unofficial", "workaround", "broken", "abandoned", "obsolete", "unknown" ]
+				},
+				"abandonedReason": {
+					"title": "Abandoned reason",
+					"description": "The reason the mod is marked abandoned. This must be set if the status is 'abandoned', and must be omitted if not. The allowed values are:\n- 'author' (the mod has been explicitly and definitively abandoned by the author);\n- 'deleted' or 'hidden' (the mod pages or files have been deleted/hidden, so the mod is no longer officially available).",
+					"type": "string",
+					"enum": [ "author", "hidden", "deleted" ]
 				},
 				"summary": {
 					"title": "Compatibility summary",
@@ -179,6 +185,30 @@
 			"anyOf": [
 				{ "required": [ "github" ] },
 				{ "required": [ "source" ] }
+			],
+			"allOf": [
+				{
+					"if": {
+						"properties": {
+							"status": { "const": "abandoned" }
+						},
+						"required": [ "status" ]
+					},
+					"then": {
+						"required": [ "abandonedReason" ],
+						"errorMessage": {
+							"required": {
+								"abandonedReason": "When the status is 'abandoned', the 'abandonedReason' field must be set too."
+							}
+						}
+					},
+					"else": {
+						"not": {
+							"required": [ "abandonedReason" ]
+						},
+						"errorMessage": "The 'abandonedReason' field must be omitted if the status is not 'abandoned'."
+					}
+				}
 			]
 		},
 		"BrokenContentPack": {

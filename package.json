@@ -8,6 +8,7 @@
 		"@tsconfig/node-lts": "^22.0.1",
 		"@types/node": "^22.10.0",
 		"ajv": "^8.17.1",
+		"ajv-errors": "^3.0.0",
 		"strip-json-comments-cli": "^3.0.0",
 		"typescript": "^5.7.2"
 	}
