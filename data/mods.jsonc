@@ -2,13 +2,6 @@
 	"$schema": "schema.json",
 	"mods": [
 		{
-			"name": "0 Profit margins",
-			"author": "Ytloe",
-			"id": "Ytloe.0_Profit_margins",
-			"nexus": 33496,
-			"github": null
-		},
-		{
 			"name": "24h Clock",
 			"author": "Lajna",
 			"id": "Lajna.24hClock",
@@ -758,7 +751,9 @@
 			"nexus": 8823,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "abandoned",
+			"abandonedReason": "hidden"
 		},
 		{
 			"name": "Ancient Seed Expended, More Ancient Seeds C",
@@ -986,7 +981,7 @@
 		},
 		{
 			"name": "Animal Squeeze Through",
-			"author": "selph, Selph aka zombifier",
+			"author": "selph, zombifier",
 			"id": "selph.AnimalSqueezeThrough",
 			"nexus": 33514,
 			"github": "zombifier/My_Stardew_Mods"
@@ -1708,7 +1703,7 @@
 			"id": "Trapyy.AutomatetoolSwap",
 			"curse": 1001901,
 			"nexus": 21050,
-			"github": "Caua-Oliveira/StardewValley-AutomateToolSwap"
+			"github": "Caua-Oliveira/StardewMods"
 		},
 		{
 			"name": "Automatic Gates",
@@ -1860,11 +1855,32 @@
 			"summary": "remove this mod (added in Stardew Valley 1.4)."
 		},
 		{
+			"name": "Auto Toggle Placement Preview",
+			"author": "Astral",
+			"id": "Astral.AutoTogglePreview",
+			"nexus": 34828,
+			"github": null
+		},
+		{
 			"name": "Auto Tool Select",
 			"author": "lolmaj",
 			"id": "lolmaj.AutoToolSelect",
 			"nexus": 3883,
 			"github": "MaciejMarkuszewski/StardewValleyAutoToolSelect"
+		},
+		{
+			"name": "Auto Touch Statue",
+			"author": "lauirf",
+			"id": "lauirf.AutoTouchStatue",
+			"nexus": 34710,
+			"github": "xxfttkx/AutoTouchStatue"
+		},
+		{
+			"name": "Auto Translator",
+			"author": "mahsouto",
+			"id": "mahsouto.AutoTranslator",
+			"nexus": 35031,
+			"github": null
 		},
 		{
 			"name": "Auto Trash",
@@ -2413,6 +2429,13 @@
 			"status": "abandoned",
 			"abandonedReason": "deleted",
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Better Display Of Tree Fertilizers",
+			"author": "FmQ, 浮梦祁",
+			"id": "浮梦祁.BetterDisplayOfTreeFertilizers",
+			"nexus": 34723,
+			"github": null
 		},
 		{
 			"name": "Better Doors",
@@ -3747,6 +3770,13 @@
 			"github": "ncarigon/StardewValleyMods"
 		},
 		{
+			"name": "Bundles Preview, Preview Bundles",
+			"author": "strawberria",
+			"id": "strawberria.PreviewBundles",
+			"nexus": 34910,
+			"github": null
+		},
+		{
 			"name": "Bundles Rework, Joja Route Balance",
 			"author": "Gatty, RjDarSh",
 			"id": "Gatty.JojaRouteBalance",
@@ -4192,6 +4222,13 @@
 			"curse": 1198526,
 			"nexus": 8000,
 			"github": "Pathoschild/StardewMods"
+		},
+		{
+			"name": "Certain NPCs Snore",
+			"author": "Dylan James",
+			"id": "dylanjames.snoresounds",
+			"nexus": 34582,
+			"github": "doodlum/nexusmods-widgets"
 		},
 		{
 			"name": "Challenger",
@@ -5285,7 +5322,7 @@
 		},
 		{
 			"name": "Confirm Sleep",
-			"author": "John Peters, John Peters (you know, the farmer?)",
+			"author": "John Peters",
 			"id": "JohnPeters.ConfirmSleep",
 			"nexus": 34083,
 			"github": "emurphy42/ConfirmSleep"
@@ -5460,6 +5497,13 @@
 			"id": "gaussfire.ConvenientInventory",
 			"nexus": 10384,
 			"github": "alanperrow/StardewModding"
+		},
+		{
+			"name": "Conversation System",
+			"author": "YunHikari",
+			"id": "YunHikari.ConversationSystem",
+			"nexus": 35054,
+			"github": null
 		},
 		{
 			"name": "Conversation Topic Utilities",
@@ -5845,6 +5889,13 @@
 			"github": "MouseyPounds/stardew-mods"
 		},
 		{
+			"name": "Crop Encyclopedia",
+			"author": "gellingly",
+			"id": "gellingly.CropEncyclopedia",
+			"nexus": 35032,
+			"github": "gellingly/stardewmods"
+		},
+		{
 			"name": "Crop Extension",
 			"author": "Platonymous",
 			"id": "Platonymous.CropExtension",
@@ -5957,6 +6008,13 @@
 			"github": "Pathoschild/StardewMods"
 		},
 		{
+			"name": "Crops Need Light",
+			"author": "glossamer",
+			"id": "glossamer.CropsNeedLight",
+			"nexus": 34772,
+			"github": null
+		},
+		{
 			"name": "Crops Survive Season Change",
 			"author": "aedenthorn, Erinthe",
 			"id": "aedenthorn.CropsSurviveSeasonChange",
@@ -6054,6 +6112,14 @@
 			"id": "CrowdControl.CrowdControl",
 			"nexus": 31751,
 			"github": "WarpWorld/CCPack-PC-StardewValley"
+		},
+		{
+			"name": "Crypto Trader",
+			"author": "Arizona Adi Pradana, Arizonapradana",
+			"id": "Arizoenna.CryptoTrader",
+			"moddrop": 1692984,
+			"nexus": null,
+			"github": null
 		},
 		{
 			"name": "Crystal Ball",
@@ -6208,7 +6274,7 @@
 		},
 		{
 			"name": "Custom Carpenters, Custom Builders",
-			"author": "selph, Selph aka zombifier",
+			"author": "selph, zombifier",
 			"id": "selph.CustomBuilders",
 			"nexus": 32864,
 			"github": "zombifier/My_Stardew_Mods"
@@ -6773,6 +6839,13 @@
 			"github": "Platonymous/Stardew-Valley-Mods",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Custom Museum Framework (CMF)",
+			"author": "Spiderbuttons",
+			"id": "Spiderbuttons.CMF",
+			"nexus": 34530,
+			"github": "Spiderbuttons/CustomMuseumFramework"
 		},
 		{
 			"name": "Custom Music",
@@ -8435,6 +8508,13 @@
 			"github": null
 		},
 		{
+			"name": "Dynamic Map Tiles Extended",
+			"author": "aedenthorn, aedenthorn MindMeltMax",
+			"id": "aedenthorn.DynamicMapTilesExtended",
+			"nexus": 33900,
+			"github": "aedenthorn/StardewValleyMods"
+		},
+		{
 			"name": "Dynamic Night Time",
 			"author": "Sakorona, Kylindra, KoihimeNakamura",
 			"id": "knakamura.dynamicnighttime",
@@ -9035,6 +9115,13 @@
 				"version": "1.4.2-unofficial.2-huancz",
 				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-138720"
 			}
+		},
+		{
+			"name": "Energy Tonic Fixed",
+			"author": "Sgracefun",
+			"id": "Sgracefun.EnergyTonicFixed",
+			"nexus": 35095,
+			"github": null
 		},
 		{
 			"name": "Enhanced Loot Magnet - Continued",
@@ -10544,6 +10631,13 @@
 			"retestWhenCompatible": [ "Bookcase" ] // dependency
 		},
 		{
+			"name": "Fishing Minigame Music",
+			"author": "Aiden, Mindstormman",
+			"id": "Mindstormman.FishingMusicPlayer",
+			"nexus": 35071,
+			"github": null
+		},
+		{
 			"name": "Fishing Minigames",
 			"author": "barteke22 (Here Fishy base by aedenthorn)",
 			"id": "barteke22.FisingMinigames",
@@ -10704,7 +10798,7 @@
 		},
 		{
 			"name": "Fish Pond Aquaponics",
-			"author": "selph, Selph aka zombifier",
+			"author": "selph, zombifier",
 			"id": "selph.Aquaponics",
 			"nexus": 32527,
 			"github": "zombifier/My_Stardew_Mods"
@@ -11351,6 +11445,14 @@
 			"github": null
 		},
 		{
+			"name": "Friendship Bars",
+			"author": "AvalonMFX",
+			"id": "AvalonMFX.FriendshipBars",
+			"curse": 1284650,
+			"nexus": 34774,
+			"github": "1Avalon/Avas-Stardew-Mods"
+		},
+		{
 			"name": "Friendship Booster",
 			"author": "Hills",
 			"id": "Hills.FriendshipBooster",
@@ -11439,6 +11541,13 @@
 			"id": "ApryllForever.FruitTreeFixes",
 			"nexus": 28111,
 			"github": null
+		},
+		{
+			"name": "Fruit Tree Seasons",
+			"author": "Esper89",
+			"id": "Esper89.FruitTreeSeasons",
+			"nexus": 34709,
+			"github": "Esper89/StardewValley-FruitTreeSeasons"
 		},
 		{
 			"name": "Fruit Tree Shaker",
@@ -11974,6 +12083,13 @@
 			"github": "desto-git/sdv-mods"
 		},
 		{
+			"name": "Gift Lover",
+			"author": "lauirf",
+			"id": "lauirf.GiftLover",
+			"nexus": 34641,
+			"github": null
+		},
+		{
 			"name": "Gift Money",
 			"author": "AvalonMFX",
 			"id": "AvalonMFX.GiftMoney",
@@ -12163,6 +12279,13 @@
 			"github": null
 		},
 		{
+			"name": "Gold Per Energy Display",
+			"author": "Tony Schneider",
+			"id": "TonySchneider.GoldPerEnergyDisplay",
+			"nexus": 34485,
+			"github": null
+		},
+		{
 			"name": "Goodbye American English",
 			"author": "TheMightyAmondee, MightyAmondee",
 			"id": "TheMightyAmondee.GoodbyeAmericanEnglish",
@@ -12260,6 +12383,13 @@
 			"id": "ichortower.GrandpasStardrop",
 			"nexus": 29637,
 			"github": "ichortower/GrandpasStardrop"
+		},
+		{
+			"name": "Grape Day",
+			"author": "John Peters",
+			"id": "JohnPeters.GrapeDay",
+			"nexus": 35192,
+			"github": "emurphy42/GrapeDay"
 		},
 		{
 			"name": "Grass Growth",
@@ -12450,7 +12580,7 @@
 			"author": "siliconmodding",
 			"id": "siliconmodding.GVChildrenSMAPI",
 			"nexus": 23234,
-			"github": null
+			"github": "silicon-git/GVChildrenSMAPI"
 		},
 		{
 			"name": "Grow That Giant Crop",
@@ -15081,6 +15211,13 @@
 			"github": null
 		},
 		{
+			"name": "Lenient Stashing",
+			"author": "selph, zombifier",
+			"id": "selph.LenientStashing",
+			"nexus": 34816,
+			"github": "zombifier/My_Stardew_Mods"
+		},
+		{
 			"name": "Lenient Window Resize",
 			"author": "DeLiXx",
 			"id": "DeLiXx.Lenient_Window_Resize",
@@ -15232,6 +15369,13 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Lewd Valley",
+			"author": "v5tge",
+			"id": "v5tge.LewdValley",
+			"nexus": 34958,
+			"github": null
 		},
 		{
 			"name": "Light Mod",
@@ -15777,6 +15921,14 @@
 			"id": "mushymato.MachineControlPanel",
 			"nexus": 28261,
 			"github": "Mushymato/MachineControlPanel"
+		},
+		{
+			"name": "Machine Input Return",
+			"author": "Trapyy",
+			"id": "Trapyy.MachineInputReturn",
+			"curse": 1291348,
+			"nexus": 35013,
+			"github": "Caua-Oliveira/StardewMods"
 		},
 		{
 			"name": "Machine Progression System, Machine Progression System Extras",
@@ -16365,7 +16517,7 @@
 		{
 			"name": "Mine For More",
 			"author": "Darkmushu",
-			"id": "Darkmushu.MineForMore",
+			"id": "Darkmushu1.MineForMore, Darkmushu.MineForMore", // changed in 1.1.4
 			"nexus": 31259,
 			"github": "jessevang/MineforMore"
 		},
@@ -17219,6 +17371,13 @@
 			"github": "KhloeLeclair/StardewMods"
 		},
 		{
+			"name": "More Profit Margins, 0 Profit margins", // renamed in 1.1.0
+			"author": "Ytloe",
+			"id": "Ytloe.MoreProfitMargins, Ytloe.0_Profit_margins", // changed in 1.1.0
+			"nexus": 33496,
+			"github": null
+		},
+		{
 			"name": "More Rain",
 			"author": "Omegasis, Alpha_Omegasis",
 			"id": "Omegasis.MoreRain",
@@ -17694,6 +17853,14 @@
 			"id": "lolmaj.MultiplayerTime",
 			"nexus": 2543,
 			"github": "MaciejMarkuszewski/StardewValleyMultiplayerTime"
+		},
+		{
+			"name": "Multiple Actions On Purchase, Muti - Actions On Purchase",
+			"author": "MoorTarPetal",
+			"id": "MoorTarPetal.MultipleActionsOnPurchase",
+			"moddrop": 1700008,
+			"nexus": 34882,
+			"github": null
 		},
 		{
 			"name": "Multiple Farms For Multiplayer, Multiplayer Farms Code",
@@ -18778,7 +18945,7 @@
 		},
 		{
 			"name": "NPC Nametags",
-			"author": "John Peters, John Peters (you know, the farmer?)",
+			"author": "John Peters",
 			"id": "JohnPeters.NPCNametags",
 			"nexus": 34092,
 			"github": "emurphy42/NPCNametags"
@@ -19005,6 +19172,14 @@
 			"github": null,
 
 			"brokeIn": "Harmony 2.0.0"
+		},
+		{
+			"name": "Only When It Counts",
+			"author": "Trapyy",
+			"id": "Trapyy.OnlyWhenItCounts",
+			"curse": 1287666,
+			"nexus": 34886,
+			"github": "Caua-Oliveira/StardewMods"
 		},
 		{
 			"name": "Open Hearts",
@@ -19455,6 +19630,13 @@
 			*/
 		},
 		{
+			"name": "Pelican Town Stock Exchange",
+			"author": "arizoenna, Arizona Adi Pradana",
+			"id": "Arizoenna.PelicanTownStockExchange",
+			"nexus": 34524,
+			"github": null
+		},
+		{
 			"name": "Pelican TTS",
 			"author": "Platonymous",
 			"id": "Platonymous.PelicanTTS",
@@ -19666,6 +19848,13 @@
 			"github": "ceruleandeep/CeruleanStardewMods",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Personal Effects Redux Updated",
+			"author": "LynnxFall",
+			"id": "lynnxfall.personaleffects",
+			"nexus": 34764,
+			"github": null
 		},
 		{
 			"name": "Personal Indoor Farm",
@@ -20800,6 +20989,13 @@
 			"github": null
 		},
 		{
+			"name": "Prismatic SnS",
+			"author": "fw007",
+			"id": "fw007.Prismatic_SnS",
+			"nexus": 35030,
+			"github": null
+		},
+		{
 			"name": "Prismatic Statue",
 			"author": "Achtuur",
 			"id": "Achtuur.PrismaticStatue",
@@ -20884,6 +21080,13 @@
 			"id": "tlitookilakin.ProfessionBooks",
 			"nexus": 30767,
 			"github": "tlitookilakin/ProfessionBooks"
+		},
+		{
+			"name": "Professions Modify Animal Sell Value",
+			"author": "Silver",
+			"id": "Silver.PMASV",
+			"nexus": 34411,
+			"github": null
 		},
 		{
 			"name": "Profiler",
@@ -22714,6 +22917,13 @@
 			"github": "MindMeltMax/SAML"
 		},
 		{
+			"name": "Sandglass, Sandglass Artifact of Legit Time Control",
+			"author": "Kedidili",
+			"id": "KediDili.Sandglass",
+			"nexus": 34442,
+			"github": null
+		},
+		{
 			"name": "Sandwich",
 			"author": "LeFauxMatt",
 			"id": "furyx639.Sandwich",
@@ -23068,6 +23278,13 @@
 			"github": null
 		},
 		{
+			"name": "Second Wind",
+			"author": "CreativeCoder35",
+			"id": "CreativeCoder35.SecondWind",
+			"nexus": 34382,
+			"github": null
+		},
+		{
 			"name": "Secretariat (Faster Horse)",
 			"author": "Janglinator",
 			"id": "jangles.secretariat",
@@ -23130,11 +23347,7 @@
 			"id": "aedenthorn.SeedInfo",
 			"curse": 868677,
 			"nexus": 15754,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Seed Info - Continued](#) instead."
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Seed Machines",
@@ -24079,6 +24292,13 @@
 			"github": "chiccenDev/StardewValleyMods"
 		},
 		{
+			"name": "Skell's Wild Haven Farm, (C#) Wild Haven",
+			"author": "skellady and sophiesalacia, sophie",
+			"id": "sophie.WHF",
+			"nexus": 34784,
+			"github": null
+		},
+		{
 			"name": "Skillful Clothes",
 			"author": "LunaticShade",
 			"id": "LunaticShade.SkillfulClothes",
@@ -24825,6 +25045,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Soundboard",
+			"author": "Spiderbuttons",
+			"id": "Spiderbuttons.Soundboard",
+			"nexus": 34968,
+			"github": "Spiderbuttons/Soundboard"
+		},
+		{
 			"name": "Sound Effect Replacement",
 			"author": "aedenthorn, Erinthe",
 			"id": "aedenthorn.SoundEffectReplacement",
@@ -25363,6 +25590,13 @@
 			"github": "Imogen599/StackableBuffs"
 		},
 		{
+			"name": "Stackable Monster Musk Effects",
+			"author": "gellingly",
+			"id": "gellingly.StackableMonsterMuskEffects",
+			"nexus": 34845,
+			"github": "gellingly/stardewmods"
+		},
+		{
 			"name": "Stack Check Fix",
 			"author": "punyo, yakminepunyo",
 			"id": "punyo.StackCheckFix",
@@ -25590,6 +25824,13 @@
 			"github": "agilbert1412/StardewArchipelago"
 		},
 		{
+			"name": "Stardew Audio Captions",
+			"author": "BarleyZP",
+			"id": "BarleyZP.StardewAudioCaptions",
+			"nexus": 33544,
+			"github": "lisyce/StardewValleyMods"
+		},
+		{
 			"name": "Stardew Auto GC",
 			"author": "Lake1059, 1059Studio",
 			"id": "Lake1059.StardewAutoGC_NET5, Lake1059.StardewAutoGC", // changed in 1.3.0
@@ -25606,6 +25847,13 @@
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
 			"summary": "use [Stardew Brewery - Unofficial 1.3 Port](https://www.nexusmods.com/stardewvalley/mods/4604) instead."
+		},
+		{
+			"name": "Stardew CG Events",
+			"author": "Pets && Willow, Pets and Willow",
+			"id": "PetsWillow.CGEvents",
+			"nexus": 35027,
+			"github": null
 		},
 		{
 			"name": "Stardew Config Menu",
@@ -25857,6 +26105,13 @@
 			"github": "theghost99/StardewUnattendedServer"
 		},
 		{
+			"name": "Stardew Unattended Server Mod Fixed, Stardew Valley Multiplayer Unattended Server Mod",
+			"author": "starry",
+			"id": "starry.stardewunattendedserverfixed",
+			"nexus": 34403,
+			"github": null
+		},
+		{
 			"name": "StardewValley AI: Living NPCs",
 			"author": "juneqin",
 			"id": "juneqin.StardewValleyAI",
@@ -25868,7 +26123,10 @@
 			"author": "Alvadea & Jaksha & Theoddon",
 			"id": "Theoddon.SVBOBundlesLoader",
 			"nexus": 13426,
-			"github": null
+			"github": null,
+
+			"status": "abandoned",
+			"abandonedReason": "hidden"
 		},
 		{
 			"name": "Stardew Valley Barber, Stardew Barber",
@@ -25907,6 +26165,7 @@
 			"name": "Stardew Valley - Grind Mode",
 			"author": "MoorTarPetal",
 			"id": "MoorTarPetal.GrindySDVCode",
+			"moddrop": 1699982,
 			"nexus": 34032,
 			"github": null
 		},
@@ -25988,6 +26247,13 @@
 			"id": "zunderscore.StardewWebApi",
 			"nexus": 22540,
 			"github": "zunderscore/StardewWebApi"
+		},
+		{
+			"name": "Stardew YouTube Chat, Stardew YT Chat",
+			"author": "Tine",
+			"id": "Tine.StarDewYTChat",
+			"nexus": 34443,
+			"github": null
 		},
 		{
 			"name": "Stardio",
@@ -26234,6 +26500,13 @@
 			"github": null
 		},
 		{
+			"name": "Store Entrance Doorbells",
+			"author": "Dylan James",
+			"id": "dylanjames.storebells",
+			"nexus": 34540,
+			"github": null
+		},
+		{
 			"name": "Stronger You",
 			"author": "Krutonium",
 			"id": "Krutonium.StrongerYou",
@@ -26275,6 +26548,13 @@
 			"status": "abandoned",
 			"abandonedReason": "author", // post-1.6 updates moved to new mod page
 			"summary": "remove this mod (no longer maintained; use [Dwarven Expansion](https://www.nexusmods.com/stardewvalley/mods/22021) instead)."
+		},
+		{
+			"name": "Summer Paintings",
+			"author": "Zexu2K",
+			"id": "Zexu2K.Summer_Paintings_by_Zexu2K_C",
+			"nexus": 34727,
+			"github": null
 		},
 		{
 			"name": "Summit Reborn",
@@ -26756,6 +27036,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "The Farmer's Children, 1oxnes and Talkohlooey's Artstyle Portrait - The Farmer's Children, Appearance Tokens",
+			"author": "DreamWolf",
+			"id": "Dreamwolf.Appearance",
+			"nexus": 28207,
+			"github": null
+		},
+		{
 			"name": "The Farmer That Stared at Rocks",
 			"author": "ItsLittany",
 			"id": "itslittany.RockBreaker",
@@ -27214,7 +27501,16 @@
 			"moddrop": 771913,
 			"github": "Platonymous/Stardew-Valley-Mods",
 
-			"brokeIn": "Stardew Valley 1.6.9"
+			"brokeIn": "Stardew Valley 1.6.9",
+			"status": "workaround",
+			"summary": "use [TMXL Map Toolkit (Unofficial Update)](#) instead."
+		},
+		{
+			"name": "TMXL Map Toolkit (Unofficial Update), TMXL Map Toolkit (Updated)",
+			"author": "Smapifan",
+			"id": "Smapifan.TMXLoader",
+			"nexus": 34376,
+			"github": "Smapifan/TMXLoader"
 		},
 		{
 			"name": "To-Dew",
@@ -27638,7 +27934,7 @@
 			"author": "TheShwamp",
 			"id": "TheShwamp.TravelingCartReminder",
 			"nexus": 25209,
-			"github": null
+			"github": "Swampen/stardew-valley-mods"
 		},
 		{
 			"name": "Traveling Cart Visit Everyday",
@@ -27807,6 +28103,13 @@
 			"author": "lilico/atelier99",
 			"id": "lilico.TrueRandomGeodes",
 			"nexus": 11371,
+			"github": null
+		},
+		{
+			"name": "Truffle and Doors Auto-Grabber for 1.6, Auto-Grabber Collects Truffle and Doors",
+			"author": "Astral, AstralFSK",
+			"id": "Astral.AutoCollectTruffle",
+			"nexus": 34653,
 			"github": null
 		},
 		{
@@ -28775,6 +29078,13 @@
 			"github": "Croutonic-Creations/SDV-WastelessWatering"
 		},
 		{
+			"name": "Watch TV",
+			"author": "Esoterick",
+			"id": "Esoterick.WatchTV",
+			"nexus": 34820,
+			"github": null
+		},
+		{
 			"name": "Water Balloon",
 			"author": "HaulinOats",
 			"id": "HaulinOats.WaterBalloon",
@@ -29061,6 +29371,13 @@
 			"github": null
 		},
 		{
+			"name": "Werewolf in the Valley (Unofficial Update), Werewolf in the Valley (Updated)",
+			"author": "Smapifan",
+			"id": "Smapifan.WerewolfInTheValley",
+			"nexus": 34095,
+			"github": "Smapifan/Werewolf-in-the-Valley"
+		},
+		{
 			"name": "Wetland Cultivation",
 			"author": "QiuFengTanoka",
 			"id": "QiuFengTanoka.WetlandCultivation",
@@ -29085,7 +29402,7 @@
 		},
 		{
 			"name": "What Do You Want",
-			"author": "John Peters, John Peters (you know, the farmer?)",
+			"author": "John Peters",
 			"id": "JohnPeters.WhatDoYouWant",
 			"nexus": 24689,
 			"github": "emurphy42/WhatDoYouWant"
@@ -29373,11 +29690,25 @@
 			"github": null
 		},
 		{
+			"name": "World Navigator",
+			"author": "pneuma163",
+			"id": "pneuma163.WorldNavigator",
+			"nexus": 28256,
+			"github": null
+		},
+		{
 			"name": "Write Down Your Plan",
 			"author": "SevenDespised",
 			"id": "SevenDespised.WritedownYourPlan",
 			"nexus": 31009,
 			"github": "SevenDespised/WriteDownYourPlan"
+		},
+		{
+			"name": "WSF's Mod, WSF",
+			"author": "leejohnkt11",
+			"id": "leejohnkt11.WSF",
+			"nexus": 34663,
+			"github": "leejohnkt11/WSF"
 		},
 		{
 			"name": "X",
@@ -29552,6 +29883,13 @@
 			"author": "PositiveVegan",
 			"id": "PositiveVegan.ZenMod",
 			"nexus": 12899,
+			"github": null
+		},
+		{
+			"name": "Zexu Catalog, Zexu Catalog C",
+			"author": "Zexu2K",
+			"id": "Zexu2K.Zexu_Catalog_C",
+			"nexus": 34457,
 			"github": null
 		},
 		{
