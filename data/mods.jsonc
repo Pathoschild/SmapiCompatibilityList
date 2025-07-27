@@ -15296,9 +15296,9 @@
 		{
 			"name": "Level Extender",
 			"author": "unidarkshin, Devin Lematty",
-			"id": "Devin_Lematty.Level_Extender, DevinLematty.LevelExtender, Devin Lematty.Level Extender, Unidarkshin.LevelExtender", // changed in 1.5, 1.3
+			"id": "Unidarkshin.LevelExtender, Devin_Lematty.Level_Extender, DevinLematty.LevelExtender, Devin Lematty.Level Extender", // changed in 2.0.0, 1.5.0, 1.3.0
 			"nexus": 1471,
-			"github": "F1r3w477/level-extender",
+			"github": "F1r3w477/level-extender"
 		},
 		{
 			"name": "Level Forever",
@@ -17041,8 +17041,7 @@
 			"nexus": 2830,
 			"github": "F1r3w477/TheseModsAintLoyal",
 
-			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "Level Extender" ] // dependency
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Moolah 1.6 Fix",
