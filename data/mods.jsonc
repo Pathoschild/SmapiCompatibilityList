@@ -753,17 +753,6 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
-			"name": "Ancient Fruit Won't Die in Winter",
-			"author": "cindyexe",
-			"id": "cindyexe.afddiw",
-			"nexus": 8823,
-			"github": null,
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "abandoned",
-			"abandonedReason": "hidden"
-		},
-		{
 			"name": "Ancient Seed Expended, More Ancient Seeds C",
 			"author": "Zexu2K",
 			"id": "Zeux2K.More_Ancient_Seeds_C",
@@ -3511,13 +3500,7 @@
 			"id": "Aedenthorn.BossCreatures",
 			"curse": 868905,
 			"nexus": 5864,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "1.5.1-unofficial.4-mouahrara",
-				"url": "https://github.com/mouahrara/aedenthorn#BossCreatures"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Bow",
@@ -5565,7 +5548,7 @@
 			"author": "SummerFleur",
 			"id": "SummerFleur.ConvenientChests",
 			"nexus": 32558,
-			"github": "SummerFleur2997/ConvenientChests"
+			"github": "SummerFleur2997/StardewMods"
 		},
 		{
 			"name": "Convenient Inventory",
@@ -5695,9 +5678,7 @@
 			"nexus": 5093,
 			"curse": 368028,
 			"moddrop": 755868,
-			"github": "CompSciLauren/stardew-valley-cozy-clothing-mod",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "CompSciLauren/stardew-valley-cozy-clothing-mod"
 		},
 		{
 			"name": "Crab Net",
@@ -6509,9 +6490,7 @@
 			"id": "Aedenthorn.CustomMonsterFloors",
 			"curse": 868904,
 			"nexus": 5894,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Custom Egg Amount to Win the Egg Festival, Egg Festival Custom Egg Amount",
@@ -8411,9 +8390,7 @@
 			"id": "aedenthorn.DungeonMerchants",
 			"curse": 868698,
 			"nexus": 14630,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Durable Fences",
@@ -8677,7 +8654,7 @@
 		{
 			"name": "Dynamic Windows",
 			"author": "Esoterick",
-			"id": "Esoterick.WeatherOutside",
+			"id": "Esoterick.DynamicWindows, Esoterick.WeatherOutside", // changed in 0.7.0
 			"nexus": 35690,
 			"github": null
 		},
@@ -10358,12 +10335,10 @@
 		},
 		{
 			"name": "Fast Travel",
-			"author": "Death, DeathGameDev",
-			"id": "DeathGameDev.FastTravel",
+			"author": "MckenonDev, Death, DeathGameDev", // changed in 1.3.1
+			"id": "Mckenon.FastTravel, DeathGameDev.FastTravel", // changed in 1.3.1
 			"nexus": 1529,
-			"github": "DeathGameDev/SDV-FastTravel",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "DeathGameDev/SDV-FastTravel"
 		},
 		{
 			"name": "Fattening Farmer Framework",
@@ -10674,6 +10649,13 @@
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
 			"abandonedReason": "hidden"
+		},
+		{
+			"name": "Fishbot",
+			"author": "AdroSlice",
+			"id": "AdroSlice.Fishbot",
+			"nexus": 36115,
+			"github": null
 		},
 		{
 			"name": "FishDex",
@@ -14025,6 +14007,13 @@
 			"author": "OnlyWords",
 			"id": "OnlyWords.InfiniteWateringCan",
 			"nexus": 35937,
+			"github": null
+		},
+		{
+			"name": "Infinite Watering Can Rework, Infinite Water Can Rework",
+			"author": "1F1XDRAGO",
+			"id": "1f1xdrago.InfiniteWaterCanRework",
+			"nexus": 36012,
 			"github": null
 		},
 		{
@@ -20223,6 +20212,14 @@
 			*/
 		},
 		{
+			"name": "Pet Clothes",
+			"author": "aedenthorn, Erinthe",
+			"id": "aedenthorn.PetClothes",
+			"curse": 1316459,
+			"nexus": 36122,
+			"github": null
+		},
+		{
 			"name": "Pet Enhancement Mod",
 			"author": "Jfulmer, Consillium",
 			"id": "JfulmerPetEnhancementMod",
@@ -21963,6 +21960,13 @@
 			"github": "kakashigr/stardew-radioactivetools",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Radio (Audio Play), Radio (Play Audio File)",
+			"author": "1F1XDRAGO",
+			"id": "1F1XDRAGO.Radio",
+			"nexus": 36141,
+			"github": null
 		},
 		{
 			"name": "Ragundah Fishing",
@@ -24010,6 +24014,13 @@
 			"id": "BarleyZP.ShareableModLists",
 			"nexus": 32609,
 			"github": "lisyce/StardewValleyMods"
+		},
+		{
+			"name": "Shared Community Center Rewards",
+			"author": "MindMeltMax",
+			"id": "MindMeltMax.SharedCCRewards",
+			"nexus": 36138,
+			"github": "MindMeltMax/Stardew-Valley-Mods"
 		},
 		{
 			"name": "Shared Exp, Shared Xp",
@@ -27287,11 +27298,8 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.2",
-			"retestWhenCompatible": [ "Fast Travel" ] // workaround
-			/*
 			"status": "workaround",
 			"summary": "use [Fast Travel](#) instead."
-			*/
 		},
 		{
 			"name": "Teleport Mod",
@@ -28515,6 +28523,13 @@
 			"id": "kithplana.trulyinvincible",
 			"nexus": 25281,
 			"github": null
+		},
+		{
+			"name": "Tune Bobbers",
+			"author": "wrongcoder",
+			"id": "wrongcoder.TuneBobbers",
+			"nexus": 36097,
+			"github": "wrongcoder/SDV-TuneBobbers"
 		},
 		{
 			"name": "Turbo",
