@@ -22546,7 +22546,13 @@
 			"author": "Annosz",
 			"id": "Annosz.RememberFacedDirection",
 			"nexus": 6946,
-			"github": "Annosz/StardewValleyModding"
+			"github": "Annosz/StardewValleyModding",
+
+			"brokeIn": "Stardew Valley 1.6.9",
+			"unofficialUpdate": {
+				"version": "1.1.2-unofficial.1-adro",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-179378"
+			}
 		},
 		{
 			"name": "Remember Your Umbrella",
