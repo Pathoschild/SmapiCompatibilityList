@@ -1395,10 +1395,10 @@
 		},
 		{
 			"name": "Audio Devices",
-			"author": "Max Vollmer, SVProtector",
+			"author": "Max Makes Mods",
 			"id": "maxvollmer.audiodevices",
 			"nexus": 2838,
-			"github": "maxvollmer/AudioDevices",
+			"github": "maxmakesmods/AudioDevices",
 
 			"brokeIn": "Stardew Valley 1.5.5",
 			"status": "obsolete",
@@ -2870,12 +2870,14 @@
 		},
 		{
 			"name": "Better Skull Cavern Falling",
-			"author": "Max Vollmer, SVProtector",
+			"author": "Max Makes Mods",
 			"id": "maxvollmer.betterskullcavernfalling",
 			"nexus": 2558,
-			"github": "maxvollmer/BetterSkullCavernFalling",
+			"github": "maxmakesmods/BetterSkullCavernFalling",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "obsolete",
+			"summary": "use [Holes and Falling](#) instead."
 		},
 		{
 			"name": "Better Slingshots",
@@ -7707,10 +7709,10 @@
 		},
 		{
 			"name": "Deep Woods",
-			"author": "Max Vollmer, SVProtector",
+			"author": "Max Makes Mods",
 			"id": "maxvollmer.deepwoodsmod",
 			"nexus": 2571,
-			"github": "maxvollmer/DeepWoodsMod"
+			"github": "maxmakesmods/DeepWoodsMod"
 		},
 		{
 			"name": "Deep Woods Seasonal Obelisk",
@@ -9837,7 +9839,7 @@
 		},
 		{
 			"name": "Farmageddon",
-			"author": "Max Vollmer, SVProtector",
+			"author": "Max Makes Mods",
 			"id": "maxvollmer.farmageddon",
 			"nexus": 2618,
 			"github": null,
@@ -13375,6 +13377,13 @@
 			"github": "jltaylor-us/StardewHoldToProcessGeodes"
 		},
 		{
+			"name": "Holes and Falling",
+			"author": "bungus",
+			"id": "bungus.HolesAndFalling",
+			"nexus": 36455,
+			"github": "BussinBungus/BungusSDVMods"
+		},		
+		{
 			"name": "Holiday Sales",
 			"author": "atravita",
 			"id": "atravita.HolidaySales",
@@ -15381,10 +15390,10 @@
 		},
 		{
 			"name": "Lefty Mode",
-			"author": "Max Vollmer, SVProtector",
+			"author": "Max Makes Mods",
 			"id": "maxvollmer.leftymode",
 			"nexus": 6199,
-			"github": "maxvollmer/LeftyMode",
+			"github": "maxmakesmods/LeftyMode",
 
 			"brokeIn": "Harmony 2.0.0"
 		},
@@ -20337,10 +20346,10 @@
 		},
 		{
 			"name": "Pick Up Clutter",
-			"author": "Max Vollmer",
+			"author": "Max Makes Mods",
 			"id": "de.maxmakesmods.pickupclutter",
 			"nexus": 28279,
-			"github": "maxvollmer/pickupclutter"
+			"github": "maxmakesmods/pickupclutter"
 		},
 		{
 			"name": "Pick Your Enchantment, Forge Menu Choice",
