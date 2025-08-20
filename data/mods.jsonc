@@ -20614,9 +20614,7 @@
 			"id": "aedenthorn.TwoPlayerPrairieKing",
 			"curse": 868747,
 			"nexus": 12750,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Please Fix Error",
