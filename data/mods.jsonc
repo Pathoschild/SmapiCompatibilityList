@@ -23697,9 +23697,7 @@
 			"author": "Veress",
 			"id": "Veress.SeedMachines",
 			"nexus": 6265,
-			"github": "mrveress/SDVMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "mrveress/SDVMods"
 		},
 		{
 			"name": "Seed Maker - Better Quality More Seeds",
