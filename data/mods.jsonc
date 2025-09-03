@@ -615,6 +615,13 @@
 			"github": "cantorsdust/StardewMods"
 		},
 		{
+			"name": "All Your Powers Revealed",
+			"author": "John Peters",
+			"id": "JohnPeters.AllYourPowersRevealed",
+			"nexus": 36342,
+			"github": "emurphy42/AllYourPowersRevealed"
+		},
+		{
 			"name": "Almanac",
 			"author": "Khloe Leclair",
 			"id": "leclair.almanac",
@@ -1769,6 +1776,13 @@
 			"github": "DespairScent-SDV/Autonomals"
 		},
 		{
+			"name": "Auto Ok After Day",
+			"author": "liyaan-pravesh nema",
+			"id": "Liyaan.AutoOkAfterDay",
+			"nexus": 36811,
+			"github": null
+		},
+		{
 			"name": "Auto Pet Care",
 			"author": "roseboyShinji",
 			"id": "roseboyShinji.AutoPetCare",
@@ -1831,6 +1845,13 @@
 			"id": "NatureTao.AutoSleep",
 			"nexus": 35573,
 			"github": null
+		},
+		{
+			"name": "Auto-Sorter Building",
+			"author": "AtlasV, Spiderbuttons",
+			"id": "AtlasV.AutoSorterBuildingCore",
+			"nexus": 36568,
+			"github": "Spiderbuttons/AutoSorterBuilding"
 		},
 		{
 			"name": "Auto Sorting Chest, Automated Sorting System For Multiple Chests",
@@ -2148,13 +2169,7 @@
 			"id": "aedenthorn.BatForm",
 			"curse": 868667,
 			"nexus": 16825,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "0.3.4-unofficial.4-mouahrara",
-				"url": "https://github.com/mouahrara/aedenthorn#BatForm"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Battery Warning Mod",
@@ -2201,6 +2216,13 @@
 			"id": "Dragoon23.BeatableLuckyShortsMonster",
 			"nexus": 25095,
 			"github": null
+		},
+		{
+			"name": "Bebber Bobbers",
+			"author": "Spiderbuttons",
+			"id": "Spiderbuttons.BebberBobbers",
+			"nexus": 36655,
+			"github": "Spiderbuttons/BebberBobbers"
 		},
 		{
 			"name": "Become Ethereal",
@@ -3229,13 +3251,7 @@
 			"author": "aedenthorn, Erinthe",
 			"id": "aedenthorn.BirthdayKnowledgeFriendship, aedenthorn.BirthdayFriendship", // changed in 0.1.1-unofficial.1
 			"nexus": 17974,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "0.1.1-unofficial.1-mouahrara",
-				"url": "https://github.com/mouahrara/aedenthorn#BirthdayKnowledgeFriendship"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Birthday Mail",
@@ -3605,13 +3621,7 @@
 			"author": "aedenthorn, Erinthe",
 			"id": "aedenthorn.BuffFramework",
 			"nexus": 17746,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "0.6.1-unofficial.10-mouahrara",
-				"url": "https://github.com/mouahrara/aedenthorn#BuffFramework"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Buff Movement Speed",
@@ -4067,6 +4077,13 @@
 			"github": "spacechase0/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Capybara Friendship, Em and Harry's Capybara",
+			"author": "Em and HarrisonGrey",
+			"id": "HarrisonGrey.CapybaraFriendship",
+			"nexus": 36362,
+			"github": "HarrisonGrey/StardewCapybara"
 		},
 		{
 			"name": "Carry Chest",
@@ -4621,9 +4638,7 @@
 			"author": "sergiomadd",
 			"id": "sergiomadd.ChestPreview",
 			"nexus": 13946,
-			"github": "sergiomadd/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "sergiomadd/StardewValleyMods"
 		},
 		{
 			"name": "Chests Anywhere",
@@ -5322,6 +5337,13 @@
 			"github": null
 		},
 		{
+			"name": "Configurable Ore Drops",
+			"author": "krasanko0",
+			"id": "krasanko0.ConfigurableOreDrops",
+			"nexus": 36736,
+			"github": null
+		},
+		{
 			"name": "Configurable Shipping Dates",
 			"author": "Nishtra",
 			"id": "ConfigurableShippingDates",
@@ -6007,15 +6029,7 @@
 			"author": "aedenthorn, Erinthe",
 			"id": "aedenthorn.CropHarvestBubbles",
 			"nexus": 17761,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Crop Harvest Bubbles Revamped](#) or [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-119392) instead.",
-			"unofficialUpdate": {
-				"version": "0.3.1-unofficial.1-logophile",
-				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-119392"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Crop Harvest Bubbles Revamped, Crop Harvest Bubbles",
@@ -6030,13 +6044,7 @@
 			"id": "aedenthorn.CropHat",
 			"curse": 868754,
 			"nexus": 11787,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "0.1.4-unofficial.1-mouahrara",
-				"url": "https://github.com/mouahrara/aedenthorn#CropHat"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Crop Markers",
@@ -6065,6 +6073,13 @@
 			"nexus": 3000,
 			"moddrop": 606647,
 			"github": "Pathoschild/StardewMods"
+		},
+		{
+			"name": "C.R.O.P.S. ATM Mod",
+			"author": "Beetlejuice20",
+			"id": "CROPS.ATMLogic",
+			"nexus": 36463,
+			"github": null
 		},
 		{
 			"name": "Crops Need Light",
@@ -6646,11 +6661,7 @@
 			"id": "aedenthorn.CustomGiftLimits",
 			"curse": 868725,
 			"nexus": 13964,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Custom Gift Limits - Continued](#) instead."
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Custom Gift Limits - Continued",
@@ -6869,7 +6880,10 @@
 			"author": "weizinai",
 			"id": "weizinai.CustomMachineExperience",
 			"nexus": 25455,
-			"github": "weizinai/StardewValleyMods"
+			"github": "weizinai/StardewValleyMods",
+
+			"status": "abandoned",
+			"abandonedReason": "deleted"
 		},
 		{
 			"name": "Custom Mine Cart Steam",
@@ -6981,6 +6995,13 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Custom NPC Shig, Shig NPC Patch",
+			"author": "AgeBdeR",
+			"id": "AgeBdeR.ShigNPC.Patch",
+			"nexus": 36895,
+			"github": null
 		},
 		{
 			"name": "Custom Obelisks",
@@ -7587,6 +7608,14 @@
 			"github": "Prism-99/DailyTaskReportPlus"
 		},
 		{
+			"name": "Daldongri Days, Daldongri's Logic",
+			"author": "Lunar Ninja, LunarNinja",
+			"id": "LunarNinja.Daldongri",
+			"curse": 1330714,
+			"nexus": 36796,
+			"github": null
+		},
+		{
 			"name": "DaLionheart",
 			"author": "DaLion",
 			"id": "DaLion.Core",
@@ -7639,6 +7668,13 @@
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
 			"summary": "use [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714) instead."
+		},
+		{
+			"name": "Dating Reversed",
+			"author": "Beldavid",
+			"id": "DatingReversed",
+			"nexus": 36672,
+			"github": null
 		},
 		{
 			"name": "Daulton and Maple, Daulton - Lighting Effects",
@@ -7994,6 +8030,13 @@
 			"id": "PokeBenji.DialogueKeys",
 			"curse": 1022342,
 			"nexus": 24325,
+			"github": null
+		},
+		{
+			"name": "Dialogue Log",
+			"author": "Lyhsayin",
+			"id": "Lyhsayin.DialogueLog",
+			"nexus": 36901,
 			"github": null
 		},
 		{
@@ -9597,6 +9640,13 @@
 			*/
 		},
 		{
+			"name": "Extended Loot Tables",
+			"author": "EchoHarbor",
+			"id": "EchoHarbor.ExtendedLootTables",
+			"nexus": 36431,
+			"github": null
+		},
+		{
 			"name": "Extended Minecart",
 			"author": "Entoarox",
 			"id": "Entoarox.ExtendedMinecart",
@@ -10403,6 +10453,13 @@
 			"author": "UNA",
 			"id": "UNA.FashionFestivalSMAPI",
 			"nexus": 17404,
+			"github": null
+		},
+		{
+			"name": "Ferngill Forest",
+			"author": "deathbygin",
+			"id": "dbg.FerngillForest.SMAPI",
+			"nexus": 37103,
 			"github": null
 		},
 		{
@@ -11342,9 +11399,7 @@
 			"id": "aedenthorn.FoodOnTheTable",
 			"curse": 868794,
 			"nexus": 10886,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Food Poisoning",
@@ -11631,7 +11686,10 @@
 			"author": "ThisIsCad",
 			"id": "ThisIsCad.FriendshipTotems",
 			"nexus": 25969,
-			"github": "brandonwamboldt/FriendshipTotems"
+			"github": "brandonwamboldt/FriendshipTotems",
+
+			"status": "abandoned",
+			"abandonedReason": "hidden"
 		},
 		{
 			"name": "Friendship Tweaks",
@@ -11802,11 +11860,7 @@
 			"id": "aedenthorn.FurnitureDisplayFramework",
 			"curse": 868797,
 			"nexus": 10855,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Furniture Display Framework for 1.6](#) instead."
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Furniture Display Framework for 1.6",
@@ -12246,13 +12300,7 @@
 			"id": "aedenthorn.GiftRejection",
 			"curse": 868712,
 			"nexus": 14273,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "0.1.1-unofficial.1-logophile",
-				"url": "https://github.com/Rogue-Toast/Aedenthorn-StardewValleyMods/releases"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Gift Taste Helper",
@@ -12290,9 +12338,7 @@
 			"author": "blueberry",
 			"id": "blueberry.GiftWrapper",
 			"nexus": 4721,
-			"github": "b-b-blueberry/GiftWrapper",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "b-b-blueberry/GiftWrapper"
 		},
 		{
 			"name": "Ginger Island Extra Locations",
@@ -12406,6 +12452,13 @@
 			"author": "Sean M Garcia",
 			"id": "seanmgarcia.godmode16",
 			"nexus": 21208,
+			"github": null
+		},
+		{
+			"name": "Go Home Quickly",
+			"author": "hanyang",
+			"id": "hanyang.GoHomeQuickly",
+			"nexus": 36722,
 			"github": null
 		},
 		{
@@ -12590,9 +12643,7 @@
 			"author": "bblueberry, blueberry",
 			"id": "blueberry.GreenhouseEntryBegone",
 			"nexus": 8203,
-			"github": "b-b-blueberry/GreenhouseEntryPatch",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "b-b-blueberry/GreenhouseEntryPatch"
 		},
 		{
 			"name": "Greenhouse Entry Mod",
@@ -12709,6 +12760,20 @@
 			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
+			"name": "Growable Fiber",
+			"author": "ChillsEmporium, Markchill And Eros",
+			"id": "ChillsEmporiumEros.GrowableFiber",
+			"nexus": 5786,
+			"github": null
+		},
+		{
+			"name": "Growable Gems",
+			"author": "Chills Emporium, Markchill And Eros",
+			"id": "chillsemporium.GrowableGems",
+			"nexus": 36996,
+			"github": null
+		},
+		{
 			"name": "Growable Giant Crops",
 			"author": "atravita",
 			"id": "atravita.GrowableGiantCrops",
@@ -12718,6 +12783,34 @@
 			"github": "atravita-mods/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Growable Hardwood",
+			"author": "Chills Emporium, Markchill And Eros",
+			"id": "ChillsEmporiumEros.GrowableHardwood",
+			"nexus": 36992,
+			"github": null
+		},
+		{
+			"name": "Growable Ores",
+			"author": "ChillsEmporium, Markchill And Eros",
+			"id": "chillsemporium.GrowableOres",
+			"nexus": 5640,
+			"github": null
+		},
+		{
+			"name": "Growable Stone",
+			"author": "ChillsEmporium, Markchill And Eros",
+			"id": "chillsemporium.GrowableStone",
+			"nexus": 5748,
+			"github": null
+		},
+		{
+			"name": "Growable Wood",
+			"author": "Chills Emporium And Eros, ChillsEmporium",
+			"id": "ChillsEmporiumEros.GrowableWood",
+			"nexus": 36437,
+			"github": null
 		},
 		{
 			"name": "Growing Valley - Child NPCs",
@@ -12851,8 +12944,9 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.3",
-			"status": "workaround",
-			"summary": "use [Happy Birthday](#) by Omegasis instead."
+			"status": "abandoned",
+			"abandonedReason": "deleted",
+			"summary": "remove this mod (no longer maintained; use [Happy Birthday](#) by Omegasis instead)."
 		},
 		{
 			"name": "Happy Fish Jump",
@@ -13002,6 +13096,13 @@
 			"summary": "use [Yet Another Harvest With Scythe Mod](#) instead."
 		},
 		{
+			"name": "Harvey Sell All Items",
+			"author": "rainyxin",
+			"id": "rainyxin.rainyxinmain",
+			"nexus": 36374,
+			"github": null
+		},
+		{
 			"name": "Hat Buffs",
 			"author": "popska",
 			"id": "popska.HatBuffs",
@@ -13064,6 +13165,13 @@
 			"moddrop": 1555056,
 			"nexus": 21008,
 			"github": "MindMeltMax/Stardew-Valley-Mods"
+		},
+		{
+			"name": "Hay Subscription",
+			"author": "TechnicalityCreations",
+			"id": "TechnicalityCreations.HaySubscription",
+			"nexus": 36718,
+			"github": "TechnicalityCreations/StardewMods"
 		},
 		{
 			"name": "HD Portraits",
@@ -13382,7 +13490,7 @@
 			"id": "bungus.HolesAndFalling",
 			"nexus": 36455,
 			"github": "BussinBungus/BungusSDVMods"
-		},		
+		},
 		{
 			"name": "Holiday Sales",
 			"author": "atravita",
@@ -13797,6 +13905,13 @@
 			"github": "mus-candidus/ImagEd"
 		},
 		{
+			"name": "Imagical Animal Theme Music Framework, Imagical Animal Theme Music",
+			"author": "Imagical Fantasy",
+			"id": "Imagical.ImagicalAnimalThemeMusic",
+			"nexus": 36940,
+			"github": null
+		},
+		{
 			"name": "Immersive Grandpa, Misc Introduction Fixes",
 			"author": "mistyspring",
 			"id": "mistyspring.immersivegrandpa",
@@ -14083,6 +14198,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "In-Place Real Time",
+			"author": "Lyhsayin",
+			"id": "Lyhsayin.RealTime",
+			"nexus": 36466,
+			"github": null
+		},
+		{
 			"name": "Input Fix",
 			"author": "Windmill_City",
 			"id": "Windmill_City.InputFix",
@@ -14143,9 +14265,7 @@
 			"author": "Jolyone",
 			"id": "Me.InstantBreak",
 			"nexus": 15526,
-			"github": null,
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": null
 		},
 		{
 			"name": "Instant Building Construction and Upgrade, Instant Building Construction",
@@ -14269,6 +14389,14 @@
 			"github": "b-b-blueberry/InstantPets",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Instant Shipping",
+			"author": "Trapyy",
+			"id": "Trapyy.InstantShipping",
+			"curse": 1323340,
+			"nexus": 36442,
+			"github": "Caua-Oliveira/StardewMods"
 		},
 		{
 			"name": "Instant Tool Upgrades",
@@ -14970,6 +15098,13 @@
 			"abandonedReason": "hidden"
 		},
 		{
+			"name": "Junimo Hut Fairies",
+			"author": "Abelard the Bard",
+			"id": "AbelardTheBard.JunimoHutFairies",
+			"nexus": 36332,
+			"github": null
+		},
+		{
 			"name": "Junimo Hut Resize and Retexture, Junimo Hut Size",
 			"author": "Fernass354",
 			"id": "Fernass354.JunimoHutSize",
@@ -15068,6 +15203,13 @@
 			"abandonedReason": "hidden"
 		},
 		{
+			"name": "Just Buy Buildings",
+			"author": "Lehasan",
+			"id": "Lehasan.JustBuyBuildings",
+			"nexus": 36805,
+			"github": null
+		},
+		{
 			"name": "Just Relax",
 			"author": "Goldenrevolver",
 			"id": "Goldenrevolver.JustRelax",
@@ -15161,6 +15303,13 @@
 			"brokeIn": "SMAPI 3.0",
 			"status": "abandoned",
 			"abandonedReason": "hidden"
+		},
+		{
+			"name": "Keyboard Only, Keyboard Only Mode",
+			"author": "GhostGoesBinted",
+			"id": "GhostGoesBinted.KeyboardOnlyMode",
+			"nexus": 36948,
+			"github": "GhostGoesBinted/KeyboardOnlyMod"
 		},
 		{
 			"name": "Key Suppressor",
@@ -15495,6 +15644,13 @@
 			"github": null
 		},
 		{
+			"name": "Level Experience Settings",
+			"author": "AlanBF",
+			"id": "AlanBF.LevelExpSettings",
+			"nexus": 36914,
+			"github": null
+		},
+		{
 			"name": "Level Extender",
 			"author": "unidarkshin, Devin Lematty",
 			"id": "Unidarkshin.LevelExtender, Devin_Lematty.Level_Extender, DevinLematty.LevelExtender, Devin Lematty.Level Extender", // changed in 2.0.0, 1.5.0, 1.3.0
@@ -15507,6 +15663,13 @@
 			"id": "GoldstoneBosonMeadows.LevelForever",
 			"nexus": 22920,
 			"github": null
+		},
+		{
+			"name": "Level For More, Mine For More", // changed in 2.0.0
+			"author": "Darkmushu",
+			"id": "Darkmushu1.LevelForMore, Darkmushu1.MineForMore, Darkmushu.MineForMore", // changed in 2.0.0, 1.1.4
+			"nexus": 31259,
+			"github": "jessevang/MineforMore"
 		},
 		{
 			"name": "Leveling Adjustment",
@@ -15760,6 +15923,20 @@
 			"github": "Bouhm/stardew-valley-mods"
 		},
 		{
+			"name": "Location-Specific Experience Gain Mod",
+			"author": "casualcozy",
+			"id": "casualcozy.LocationSpecificExperienceGain",
+			"nexus": 36597,
+			"github": "casualcozy/SDVMods"
+		},
+		{
+			"name": "Location Tuner",
+			"author": "Prism 99",
+			"id": "prism99.locTuner",
+			"nexus": 30114,
+			"github": "Prism-99/SDV-Location-Tuner"
+		},
+		{
 			"name": "Location Voice Chat, LVC",
 			"author": "Greem",
 			"id": "Greem.LVC",
@@ -15772,7 +15949,10 @@
 			"author": "ThisIsCad",
 			"id": "ThisIsCad.LockableThings",
 			"nexus": 26281,
-			"github": "brandonwamboldt/LockableThings"
+			"github": "brandonwamboldt/LockableThings",
+
+			"status": "abandoned",
+			"abandonedReason": "hidden"
 		},
 		{
 			"name": "Locked Chests",
@@ -16101,6 +16281,13 @@
 			"github": null
 		},
 		{
+			"name": "Luremaster B Gone",
+			"author": "selph, zombifier",
+			"id": "selph.LuremasterBGone",
+			"nexus": 36922,
+			"github": "zombifier/My_Stardew_Mods"
+		},
+		{
 			"name": "Machine Augmentors",
 			"author": "SlayerDharok",
 			"id": "SlayerDharok.MachineAugmentors",
@@ -16218,6 +16405,13 @@
 			"author": "not4bene",
 			"id": "not4bene.MagicScepter",
 			"nexus": 8169,
+			"github": null
+		},
+		{
+			"name": "Magic Stardew",
+			"author": "Zexu2K",
+			"id": "Zexu2K.MagicStardew.C",
+			"nexus": 36609,
 			"github": null
 		},
 		{
@@ -16587,6 +16781,13 @@
 			"author": "EmuEngine",
 			"id": "EmuEngine.MayorMod",
 			"nexus": 33104,
+			"github": "emuengine/StardewValleyMayorMod"
+		},
+		{
+			"name": "Mayor's Town",
+			"author": "ThatKingKai",
+			"id": "MayorsTown.Mod",
+			"nexus": 36855,
 			"github": null
 		},
 		{
@@ -16726,13 +16927,6 @@
 			"github": "JPANv2/Stardew-Valley-Mine-Changes",
 
 			"brokeIn": "Stardew Valley 1.6"
-		},
-		{
-			"name": "Mine For More",
-			"author": "Darkmushu",
-			"id": "Darkmushu1.MineForMore, Darkmushu.MineForMore", // changed in 1.1.4
-			"nexus": 31259,
-			"github": "jessevang/MineforMore"
 		},
 		{
 			"name": "Mine On Day 1",
@@ -18225,14 +18419,7 @@
 			"id": "aedenthorn.MultiSave",
 			"curse": 868681,
 			"nexus": 15402,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"summary": "use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123241) or [Multi Save - Continued](#) instead.",
-			"unofficialUpdate": {
-				"version": "0.1.9-unofficial.1-GrimatGaming",
-				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123241"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Multi Save - Continued",
@@ -18397,23 +18584,18 @@
 			"github": "lisyce/StardewValleyMods"
 		},
 		{
-			"name": "Mushroom Propagator Automation",
-			"author": "blueberry and Oddshot",
-			"id": "blueberry.BlueberryMushroomAutomation",
-			"nexus": 4637,
-			"github": "b-b-blueberry/BlueberryMushroomMachine",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "Mushroom Propagator Automation" ] // dependency
-		},
-		{
-			"name": "Mushroom Propagator - Grow More Mushrooms",
+			"name": "Mushroom Propagator",
 			"author": "blueberry, blueberry and Oddshot",
 			"id": "blueberry.MushroomPropagator, blueberry.BlueberryMushroomMachine", // changed in 1.50
 			"nexus": 4637,
-			"github": "b-b-blueberry/BlueberryMushroomMachine",
-
-			"brokeIn": "Stardew Valley 1.6" // retest linked
+			"github": "b-b-blueberry/BlueberryMushroomMachine"
+		},
+		{
+			"name": "Mushroom Propagator [Automate], Mushroom Propagator Automation", // changed in 2.3.0
+			"author": "blueberry and Oddshot",
+			"id": "blueberry.MushroomPropagator.Automate, blueberry.BlueberryMushroomAutomation", // changed in 2.3.0
+			"nexus": 4637,
+			"github": "b-b-blueberry/BlueberryMushroomMachine"
 		},
 		{
 			"name": "Mushroom Rancher",
@@ -19167,9 +19349,7 @@
 			"id": "aedenthorn.NPCClothing",
 			"curse": 868727,
 			"nexus": 13940,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "NPC Dialogues",
@@ -19949,6 +20129,13 @@
 			"github": "Mushymato/PeliQ"
 		},
 		{
+			"name": "Pending Secret Notes",
+			"author": "John Peters",
+			"id": "JohnPeters.PendingSecretNotes",
+			"nexus": 36265,
+			"github": "emurphy42/PendingSecretNotes"
+		},
+		{
 			"name": "Penny Ever After",
 			"author": "RacingRabbit",
 			"id": "RacingRabbit.FarmQueries",
@@ -20507,9 +20694,7 @@
 			"id": "aedenthorn.PlanterTrees",
 			"curse": 868758,
 			"nexus": 11687,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Plant on Grass",
@@ -20623,9 +20808,7 @@
 			"id": "aedenthorn.TwoPlayerPrairieKing",
 			"curse": 868747,
 			"nexus": 12750,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Please Fix Error",
@@ -21782,11 +21965,7 @@
 			"id": "aedenthorn.QuestTimeLimits",
 			"curse": 868671,
 			"nexus": 16403,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Quest Time Limits - Continued](#) instead."
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Quest Time Limits - Continued",
@@ -21810,11 +21989,25 @@
 			"github": "jessevang/QuickCastHotkeys"
 		},
 		{
+			"name": "Quick Chest Color",
+			"author": "aedenthorn",
+			"id": "aedenthorn.QuickChestColor",
+			"nexus": 36289,
+			"github": "aedenthorn/StardewValleyMods"
+		},
+		{
 			"name": "Quick Descend by Using Staircase",
 			"author": "kun2331",
 			"id": "kun2331.QuickDescendByUsingStaircase",
 			"nexus": 25161,
 			"github": null
+		},
+		{
+			"name": "Quick Eat",
+			"author": "hankan1918",
+			"id": "hankan1918.QuickEat",
+			"nexus": 36502,
+			"github": "hankan1918/QuickEat1"
 		},
 		{
 			"name": "Quick Eat Keybinds",
@@ -21975,7 +22168,14 @@
 			"author": "1F1XDRAGO",
 			"id": "1F1XDRAGO.Radio",
 			"nexus": 36141,
-			"github": null
+			"github": "1F1XDRAGO/Radio-Stardew-valley-Mod-"
+		},
+		{
+			"name": "Rage Bait",
+			"author": "selph, zombifier",
+			"id": "selph.RageBait",
+			"nexus": 36611,
+			"github": "zombifier/My_Stardew_Mods"
 		},
 		{
 			"name": "Ragundah Fishing",
@@ -22053,9 +22253,7 @@
 			"author": "blueberry",
 			"id": "blueberry.RaisedGardenBeds",
 			"nexus": 5305,
-			"github": "b-b-blueberry/RaisedGardenBeds",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "b-b-blueberry/RaisedGardenBeds"
 		},
 		{
 			"name": "Ranch Helper Mod",
@@ -22246,11 +22444,7 @@
 			"id": "aedenthorn.RealNames",
 			"curse": 868898,
 			"nexus": 6269,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Realistic Random Names Redux](#) instead."
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Realistic Random Names Redux",
@@ -22971,6 +23165,13 @@
 			"github": null
 		},
 		{
+			"name": "Roasting Marshmallows",
+			"author": "aedenthorn",
+			"id": "aedenthorn.RoastingMarshmallows",
+			"nexus": 36368,
+			"github": "aedenthorn/StardewValleyMods"
+		},
+		{
 			"name": "Robin Build Position",
 			"author": "rokugin",
 			"id": "rokugin.robinbuildposition",
@@ -23052,6 +23253,13 @@
 			}
 		},
 		{
+			"name": "Rotatable Hoppers",
+			"author": "Sabatorg",
+			"id": "Sabatorg.RotatableHoppers",
+			"nexus": 36876,
+			"github": null
+		},
+		{
 			"name": "Rotate Toolbar",
 			"author": "Pathoschild",
 			"id": "Pathoschild.RotateToolbar",
@@ -23068,6 +23276,13 @@
 			"id": "Stardew.AIRPGMod, RPGGO.StardewAIMod", // changed in 2.0.0
 			"nexus": 29450,
 			"github": "RPGGO-AI/stardewAIRPG"
+		},
+		{
+			"name": "Ruanmei, Ruan_Mei_s Domesticated Monster",
+			"author": "Yuyu-z23mua, z23mua",
+			"id": "RuanMei_DM",
+			"nexus": 36795,
+			"github": null
 		},
 		{
 			"name": "Rummage - The Thievery Mod",
@@ -23232,15 +23447,6 @@
 			"github": null
 		},
 		{
-			"name": "Sailor Moon Hairstyles and Clothing, Sailor Styles",
-			"author": "blueberry",
-			"id": "blueberry.SailorStyles, blueberry.SailorStyles.Clothing, blueberry.SailorStyles.Hair, blueberry.SailorStylesHairstyles", // clothing + hair mods merged in 4.0; hair mod ID changed in 3.0
-			"nexus": 4154,
-			"github": "b-b-blueberry/SailorStyles",
-
-			"brokeIn": "Stardew Valley 1.6"
-		},
-		{
 			"name": "Saiyan, Super Saiyan",
 			"author": "AlexDevilish",
 			"id": "alexDevilish.saiyan",
@@ -23365,9 +23571,7 @@
 			"author": "WretchedPenguin",
 			"id": "WretchedPenguin.ScarecrowHighlighter",
 			"nexus": 3579,
-			"github": null,
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": null
 		},
 		{
 			"name": "Scaring - Thieving Skill",
@@ -23484,6 +23688,13 @@
 			"github": "gzhynko/StardewMods"
 		},
 		{
+			"name": "Scythes For Flowers (Bee Houses), Scythe Flowers",
+			"author": "Astralyra",
+			"id": "Astralyra.ScytheFlowers",
+			"nexus": 36671,
+			"github": null
+		},
+		{
 			"name": "Scythe Tool Enchantments",
 			"author": "mushymato",
 			"id": "mushymato.ScytheToolEnchantments",
@@ -23540,7 +23751,9 @@
 			"nexus": 25736,
 			"github": "brandonwamboldt/SearchableChests",
 
-			"brokeIn": "Stardew Valley 1.6.9"
+			"brokeIn": "Stardew Valley 1.6.9",
+			"status": "abandoned",
+			"abandonedReason": "hidden"
 		},
 		{
 			"name": "Searchable Collections Page",
@@ -23706,9 +23919,7 @@
 			"author": "Veress",
 			"id": "Veress.SeedMachines",
 			"nexus": 6265,
-			"github": "mrveress/SDVMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "mrveress/SDVMods"
 		},
 		{
 			"name": "Seed Maker - Better Quality More Seeds",
@@ -23773,9 +23984,7 @@
 			"author": "blueberry",
 			"id": "blueberry.SeedsUnpacked",
 			"nexus": 7215,
-			"github": "b-b-blueberry/SeedsUnboxed",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "b-b-blueberry/SeedsUnboxed"
 		},
 		{
 			"name": "See Me Rollin'",
@@ -24343,10 +24552,7 @@
 			"id": "aedenthorn.ShowPlayerBehind",
 			"curse": 868887,
 			"nexus": 6540,
-			"github": "aedenthorn/stardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6.9",
-			"retestWhenCompatible": [ "Tile Transparency" ]
+			"github": "aedenthorn/stardewValleyMods"
 		},
 		{
 			"name": "Show Players, 显示玩家",
@@ -24990,6 +25196,13 @@
 			"github": null
 		},
 		{
+			"name": "Sleepy Host",
+			"author": "Bagel",
+			"id": "bagel.sv.sleepyhost",
+			"nexus": 36741,
+			"github": "otterbagel/sleepyhost"
+		},
+		{
 			"name": "Slime Hutch Resize and Retexture, Slime Hutch Resize",
 			"author": "fernass354",
 			"id": "fernass354.SlimeHutchResize",
@@ -25240,6 +25453,13 @@
 			"github": null
 		},
 		{
+			"name": "Smelly Vase Bong Shop Mod, Smelly Vase Shop Mod",
+			"author": "JoyTheBardlock",
+			"id": "JoyTheBardlock.SmellyVaseShopMod",
+			"nexus": 36343,
+			"github": null
+		},
+		{
 			"name": "Smith yourself",
 			"author": "NamelessTo",
 			"id": "NamelessTo.SmithYourself",
@@ -25339,6 +25559,14 @@
 			"author": "funny-snek",
 			"id": "funnysnek.socialtabpatch",
 			"nexus": 2981,
+			"github": null
+		},
+		{
+			"name": "Social Valley",
+			"author": "Gerik Uylerk",
+			"id": "SocialValley",
+			"curse": 1323281,
+			"nexus": 36338,
 			"github": null
 		},
 		{
@@ -25570,7 +25798,7 @@
 			"author": "Kantrip",
 			"id": "Kantrip.SpecialSpouseDialogue",
 			"nexus": 33353,
-			"github": "Kantrip-Mods/StardewMods"
+			"github": "Kantrip-Mods/SDV"
 		},
 		{
 			"name": "Specify Gift Taste Portraits",
@@ -25587,6 +25815,13 @@
 			"id": "weizinai.SpectatorMode",
 			"nexus": 25339,
 			"github": "weizinai/StardewValleyMods"
+		},
+		{
+			"name": "Speed Bobber",
+			"author": "John Peters",
+			"id": "JohnPeters.SpeedBobber",
+			"nexus": 36742,
+			"github": "emurphy42/SpeedBobber"
 		},
 		{
 			"name": "Speed Boots",
@@ -25752,6 +25987,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Spoiler-Free Gift Indicator",
+			"author": "TechnicalityCreations",
+			"id": "TechnicalityCreations.NoSpoilersGiftIndicator",
+			"nexus": 37052,
+			"github": "TechnicalityCreations/StardewMods"
+		},
+		{
 			"name": "Spooky Big Pumkin, Spooky_pumkin",
 			"author": "Dounat2201, Sasara",
 			"id": "Sasara.pumkin",
@@ -25759,6 +26001,13 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Spouse House Unlocker",
+			"author": "chelin00",
+			"id": "chelin00.SpouseHomeUnlocker",
+			"nexus": 37090,
+			"github": null
 		},
 		{
 			"name": "Spouse Outdoor Area",
@@ -26005,7 +26254,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [Stack Everything Redux](#) instead."
+			"summary": "use [Stack Everything Redux (Unofficial)](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "3.0.3-unofficial.1-strobe",
@@ -26018,7 +26267,11 @@
 			"author": "thimadera",
 			"id": "thimadera.StackEverythingRedux",
 			"nexus": 22381,
-			"github": "thimadera/StardewMods"
+			"github": "thimadera/StardewMods",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Stack Everything Redux (Unofficial)](#) instead)."
 		},
 		{
 			"name": "Stack Everything Redux (Unofficial)",
@@ -26029,7 +26282,14 @@
 
 			"status": "abandoned",
 			"abandonedReason": "hidden",
-			"summary": "remove this mod (no longer maintained; use [Stack Everything Redux](#) instead)."
+			"summary": "remove this mod (no longer maintained; use [Stack Everything Redux (Unofficial)](#) instead)."
+		},
+		{
+			"name": "Stack Everything Redux (Unofficial)",
+			"author": "BurntChow",
+			"id": "BurntChow.StackEverythingReduxUnofficial",
+			"nexus": 36808,
+			"github": "thimadera/StardewMods"
 		},
 		{
 			"name": "Stack More Things",
@@ -26067,7 +26327,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [Stack Everything Redux](#) instead."
+			"summary": "use [Stack Everything Redux (Unofficial)](#) instead."
 		},
 		{
 			"name": "StackSplitX",
@@ -26078,7 +26338,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [Stack Everything Redux](#) instead."
+			"summary": "use [Stack Everything Redux (Unofficial)](#) instead."
 		},
 		{
 			"name": "Stack to Nearby Chests",
@@ -26233,7 +26493,7 @@
 			"author": "Pets && Willow, Pets and Willow",
 			"id": "PetsWillow.CGEvents",
 			"nexus": 35027,
-			"github": null
+			"github": "WDEvanson/CGEvents"
 		},
 		{
 			"name": "Stardew Config Menu",
@@ -26397,6 +26657,13 @@
 			"github": "Sakorona/SDVMods"
 		},
 		{
+			"name": "Stardew Open World",
+			"author": "aedenthorn",
+			"id": "aedenthorn.StardewOpenWorld",
+			"nexus": 36906,
+			"github": "aedenthorn/StardewValleyMods"
+		},
+		{
 			"name": "STardew Overview",
 			"author": "Sto13",
 			"id": "Sto13.STardewOverview",
@@ -26497,16 +26764,6 @@
 			"id": "juneqin.StardewValleyAI",
 			"nexus": 32658,
 			"github": null
-		},
-		{
-			"name": "Stardew Valley Balance Overhaul, Stardew Valley Balance Overhaul Bundles",
-			"author": "Alvadea & Jaksha & Theoddon",
-			"id": "Theoddon.SVBOBundlesLoader",
-			"nexus": 13426,
-			"github": null,
-
-			"status": "abandoned",
-			"abandonedReason": "hidden"
 		},
 		{
 			"name": "Stardew Valley Barber, Stardew Barber",
@@ -26662,6 +26919,13 @@
 			"id": "FenrirAsonda.Starksouls",
 			"nexus": 10915,
 			"github": "OhWellMikell/Starksouls"
+		},
+		{
+			"name": "Starting Hat",
+			"author": "ImSaier",
+			"id": "ImSaier.StartingHat",
+			"nexus": 36275,
+			"github": null
 		},
 		{
 			"name": "Start in Ginger Island",
@@ -26894,6 +27158,13 @@
 			"github": null
 		},
 		{
+			"name": "Streamlined Item Quality",
+			"author": "drgeppo",
+			"id": "drgeppo.StreamlinedQuality",
+			"nexus": 36894,
+			"github": "mttdr/sdv-streamlined-quality"
+		},
+		{
 			"name": "Stronger You",
 			"author": "Krutonium",
 			"id": "Krutonium.StrongerYou",
@@ -26982,6 +27253,13 @@
 			"summary": "use [Filtered Chest Hopper](#) instead."
 		},
 		{
+			"name": "Super Magnet Powers",
+			"author": "Darkmushu1",
+			"id": "Darkmushu.SuperMagnetPowers",
+			"nexus": 37002,
+			"github": null
+		},
+		{
 			"name": "Super Sleeper",
 			"author": "spoocky123",
 			"id": "spoocky123.SuperSleeper",
@@ -27042,6 +27320,13 @@
 			"nexus": 21473,
 			"github": null,
 			"source": "https://gitlab.com/hbc-mods/stardew-valley/sv-notepad"
+		},
+		{
+			"name": "SV Player Stats",
+			"author": "BeetleJuice20",
+			"id": "BeetleJuice20.SVPlayerStats",
+			"nexus": 36835,
+			"github": null
 		},
 		{
 			"name": "Swap Rings",
@@ -27605,6 +27890,13 @@
 			"github": null
 		},
 		{
+			"name": "They Deserve It Too, Portraits For All",
+			"author": "cresolyn and Dolphin Is Not a Fish, mushymato",
+			"id": "mushymato.PortraitsForAll",
+			"nexus": 35358,
+			"github": "Mushymato/PortraitsForAll"
+		},
+		{
 			"name": "They Deserve It Too - Portraits for Vendors, TDIT - Dialogue Box for Mariner",
 			"author": "Dolphin Is Not a Fish",
 			"id": "DolphINaF.Kedi.MarinerDialogue, Dolphin.Kedi.OldMarinerDialogue", // changed in 1.1.0
@@ -27737,9 +28029,7 @@
 			"author": "aedenthorn, Erinthe",
 			"id": "aedenthorn.TileTransparency",
 			"nexus": 17288,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6.9"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Tillable Ground",
@@ -27915,16 +28205,17 @@
 			"moddrop": 771913,
 			"github": "Platonymous/Stardew-Valley-Mods",
 
-			"brokeIn": "Stardew Valley 1.6.9",
-			"status": "workaround",
-			"summary": "use [TMXL Map Toolkit (Unofficial Update)](#) instead."
+			"brokeIn": "Stardew Valley 1.6.9"
 		},
 		{
 			"name": "TMXL Map Toolkit (Unofficial Update), TMXL Map Toolkit (Updated)",
 			"author": "Smapifan",
 			"id": "Smapifan.TMXLoader",
 			"nexus": 34376,
-			"github": "Smapifan/TMXLoader"
+			"github": "Smapifan/TMXLoader",
+
+			"status": "abandoned",
+			"abandonedReason": "hidden"
 		},
 		{
 			"name": "To-Dew",
@@ -29122,6 +29413,13 @@
 			"github": null
 		},
 		{
+			"name": "Vampire Sebastian, Immersive Vampire Sebby",
+			"author": "Juppa, Juppa612",
+			"id": "Juppa.VampireSebbyCode",
+			"nexus": 36341,
+			"github": null
+		},
+		{
 			"name": "Vanilla Plus Professions",
 			"author": "KediDili and Airyn",
 			"id": "KediDili.VanillaPlusProfessions",
@@ -29148,6 +29446,13 @@
 			"id": "calebstein1.StardewVariableSeasons",
 			"nexus": 19904,
 			"github": "calebstein1/StardewVariableSeasons"
+		},
+		{
+			"name": "Vegas' Mega Modded Bundles, Challenging Community Center Bundles",
+			"author": "VegasOctober",
+			"id": "VegasOctober.CCCBMegaModdedBundles",
+			"nexus": 36858,
+			"github": null
 		},
 		{
 			"name": "Vending Machine, NPC Vending Machine",
@@ -29255,6 +29560,13 @@
 			"moddrop": 1521421,
 			"nexus": 19009,
 			"github": null
+		},
+		{
+			"name": "Vocab Valley",
+			"author": "Haha Gaming, HahaGaming",
+			"id": "HahaGaming.VocabValley",
+			"nexus": 36259,
+			"github": "SocietyNiu/VocabValley"
 		},
 		{
 			"name": "Voice Chat",
@@ -29759,7 +30071,7 @@
 			"author": "Kantrip",
 			"id": "Kantrip.WeddingAnniversaries",
 			"nexus": 32078,
-			"github": "Kantrip-Mods/StardewMods"
+			"github": "Kantrip-Mods/SDV"
 		},
 		{
 			"name": "Wedding Mod",
@@ -29772,14 +30084,19 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Wedding Reminder",
+			"author": "handwrittenhello",
+			"id": "handwrittenhello.weddingReminder",
+			"nexus": 37040,
+			"github": null
+		},
+		{
 			"name": "Wedding Tweaks",
 			"author": "aedenthorn, Erinthe",
 			"id": "aedenthorn.WeddingTweaks",
 			"curse": 868829,
 			"nexus": 10117,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Weeds",
@@ -29871,8 +30188,9 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.3",
-			"status": "workaround",
-			"summary": "use [Which Farm Cave Redux](https://www.nexusmods.com/stardewvalley/mods/3740) instead."
+			"status": "abandoned",
+			"abandonedReason": "hidden",
+			"summary": "remove this mod (no longer maintained; use [Which Farm Cave Redux](https://www.nexusmods.com/stardewvalley/mods/3740) instead)."
 		},
 		{
 			"name": "wHats Up",
@@ -29881,7 +30199,9 @@
 			"nexus": 1082,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.3"
+			"brokeIn": "Stardew Valley 1.3",
+			"status": "abandoned",
+			"abandonedReason": "hidden"
 		},
 		{
 			"name": "Where Are They",
@@ -29911,6 +30231,13 @@
 			"id": "pneuma163.WhereTheSpreadingWeedsAre",
 			"nexus": 25450,
 			"github": "pneuma163/StardewMods"
+		},
+		{
+			"name": "Whip",
+			"author": "kun",
+			"id": "lyx.Whip",
+			"nexus": 37048,
+			"github": null
 		},
 		{
 			"name": "White Turnip",
@@ -30094,6 +30421,13 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "WoL Prestige Level Settings",
+			"author": "AlanBF",
+			"id": "AlanBF.WoLPrestigeLevelSettings",
+			"nexus": 36949,
+			"github": null
 		},
 		{
 			"name": "Womp Crop, wompsfx",
@@ -30354,13 +30688,7 @@
 			"id": "aedenthorn.ZombieOutbreak",
 			"curse": 868873,
 			"nexus": 6743,
-			"github": "aedenthorn/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "0.2.4-unofficial.2-mouahrara",
-				"url": "https://github.com/mouahrara/aedenthorn#ZombieOutbreak"
-			}
+			"github": "aedenthorn/StardewValleyMods"
 		},
 		{
 			"name": "Zoom Level",
