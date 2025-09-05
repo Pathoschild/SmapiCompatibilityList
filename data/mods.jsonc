@@ -2898,7 +2898,8 @@
 			"github": "maxmakesmods/BetterSkullCavernFalling",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"status": "obsolete",
+			"status": "abandoned",
+			"abandonedReason": "author",
 			"summary": "use [Holes and Falling](#) instead."
 		},
 		{
