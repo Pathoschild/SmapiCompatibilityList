@@ -1402,7 +1402,7 @@
 		},
 		{
 			"name": "Audio Devices",
-			"author": "Max Vollmer, SVProtector",
+			"author": "Max Makes Mods",
 			"id": "maxvollmer.audiodevices",
 			"nexus": 2838,
 			"github": "maxmakesmods/AudioDevices",
@@ -2892,12 +2892,15 @@
 		},
 		{
 			"name": "Better Skull Cavern Falling",
-			"author": "Max Vollmer, SVProtector",
+			"author": "Max Makes Mods",
 			"id": "maxvollmer.betterskullcavernfalling",
 			"nexus": 2558,
 			"github": "maxmakesmods/BetterSkullCavernFalling",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "abandoned",
+			"abandonedReason": "author",
+			"summary": "use [Holes and Falling](#) instead."
 		},
 		{
 			"name": "Better Slingshots",
@@ -7743,7 +7746,7 @@
 		},
 		{
 			"name": "Deep Woods",
-			"author": "Max Vollmer, SVProtector",
+			"author": "Max Makes Mods",
 			"id": "maxvollmer.deepwoodsmod",
 			"nexus": 2571,
 			"github": "maxmakesmods/DeepWoodsMod"
@@ -9887,7 +9890,7 @@
 		},
 		{
 			"name": "Farmageddon",
-			"author": "Max Vollmer, SVProtector",
+			"author": "Max Makes Mods",
 			"id": "maxvollmer.farmageddon",
 			"nexus": 2618,
 			"github": null,
@@ -15537,7 +15540,7 @@
 		},
 		{
 			"name": "Lefty Mode",
-			"author": "Max Vollmer, SVProtector",
+			"author": "Max Makes Mods",
 			"id": "maxvollmer.leftymode",
 			"nexus": 6199,
 			"github": "maxmakesmods/LeftyMode",
@@ -20531,7 +20534,7 @@
 		},
 		{
 			"name": "Pick Up Clutter",
-			"author": "Max Vollmer",
+			"author": "Max Makes Mods",
 			"id": "de.maxmakesmods.pickupclutter",
 			"nexus": 28279,
 			"github": "maxmakesmods/pickupclutter"
