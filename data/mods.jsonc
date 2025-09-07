@@ -3182,7 +3182,7 @@
 
 			"brokeIn": "SMAPI 3.12.0",
 			"status": "workaround",
-			"summary": "use [Equivalent Silo](#) instead."
+			"summary": "use [Equivalent Silo](#) instead.",
 
 			"overrideModData": [
 				{
