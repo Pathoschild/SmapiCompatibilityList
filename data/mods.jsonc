@@ -3016,7 +3016,7 @@
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "abandoned",
 			"abandonedReason": "hidden",
-			"summary": "remove this mod (no longer maintained; use [More Bar Transmutation](https://www.nexusmods.com/stardewvalley/mods/5996)  instead)."
+			"summary": "remove this mod (no longer maintained; use [More Bar Transmutation](https://www.nexusmods.com/stardewvalley/mods/5996) instead)."
 		},
 		{
 			"name": "Better Trash Can",
@@ -3182,7 +3182,7 @@
 
 			"brokeIn": "SMAPI 3.12.0",
 			"status": "workaround",
-			"summary": "use [Equivalent Silo](#) instead.",
+			"summary": "use [Equivalent Silo](https://www.nexusmods.com/stardewvalley/mods/21242) instead."
 
 			"overrideModData": [
 				{
