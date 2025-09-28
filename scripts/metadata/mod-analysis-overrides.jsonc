@@ -105,9 +105,11 @@
 			36750, // Arcanian Animal Reserve (zh)
 			32017, // Auto Forager (zh)
 			23323, // Better Crafting (id)
-			16289, // Better Juninos (fr)
-			18968, // Better Juninos (uk)
-			20406, // Better Juninos (vi)
+			37200, // Better Elevator (pt)
+			16289, // Better Junimos (fr)
+			37375, // Better Junimos (ru)
+			18968, // Better Junimos (uk)
+			20406, // Better Junimos (vi)
 			20767, // Bigger Backpack (es)
 			21548, // Bigger Backpack (vi)
 			36444, // Bigger Backpack (zh)
@@ -115,6 +117,7 @@
 			19337, // Buff Framework - Better Together - SVE Spouse Buffs (vi)
 			11417, // Bug Net (fr)
 			14960, // Bus Locations (fr)
+			37380, // Button's Extra Books (ru)
 			15665, // Cape Stardew (es)
 			14724, // Child Age Up (id)
 			5879,  // Child Age Up (zh)
@@ -127,6 +130,7 @@
 			34214, // Cobold AI Valley (en)
 			4197,  // Companion NPCs (pt)
 			15932, // Convenient Inventory (pt)
+			37371, // Convenient Inventory (ru)
 			14723, // Cooking Skill (ru)
 			31852, // Cook Showdown (en)
 			9920,  // Crop Regrowth and Perennial Crops (pt)
@@ -137,6 +141,7 @@
 			18353, // Custom Spouse Patio Redux (es)
 			11851, // Custom Spouse Patio Redux (zh)
 			20428, // Daily Tasks Report (ru)
+			37799, // Deluxe Grabber Redux (ko)
 			21168, // Deluxe Grabber Redux (zh)
 			15007, // Deluxe Journal (fr)
 			23825, // Deluxe Journal (ko)
@@ -157,6 +162,8 @@
 			12045, // Farmer Helper (ru)
 			12097, // Farmer Helper (tr)
 			31935, // Farmhouse Visit (id)
+			37406, // Farm Rearranger (ru)
+			37359, // Farm Type Manager (ru)
 			23394, // Fashion Sense (es)
 			18034, // Fashion Sense (fr)
 			32730, // Fast Animations (uk)
@@ -229,9 +236,11 @@
 			8767,  // NPC Adventures (tr)
 			23305, // NPC Map Locations (id)
 			19757, // NPC Map Locations (ja)
+			37356, // NPC Map Locations (ru)
 			13369, // NPC Map Locations (vi)
 			17659, // NPC Map Locations (vi)
 			14878, // Ornithologist's Guild (ru)
+			37370, // Passable Crops (ru)
 			36827, // Penny Ever After (pt)
 			8696,  // Personal Effects Redux (pt)
 			14821, // Personal Effects Redux (pt)
@@ -266,6 +275,8 @@
 			18662, // Shopping Show (vi)
 			18453, // Show Birthday (pt)
 			19242, // Socializing Skill (vi)
+			37367, // SpaceCore (ru)
+			37377, // Special Power Utilities (ru)
 			11140, // Spouses in Ginger Island (zh)
 			34388, // Stardew Debt (zh)
 			33595, // Stardew Druid (pt)
@@ -279,6 +290,7 @@
 			4206,  // Stardew Valley Expanded (pt)
 			6062,  // Stardew Valley Expanded (tr)
 			6332,  // Stardew Valley Expanded (tr)
+			37192, // Stardew Valley Expanded (vi)
 			19243, // Survivalist Skill (vi)
 			35501, // Sword & Sorcery (zh)
 			29736, // The Love of Cooking (pt)
@@ -429,6 +441,15 @@
 			"29038 @alja.CustomCCB",                  // Aurora's Custom Bundles
 			"11228 @cat.betterfruittrees",            // Better Fruit Trees
 			"8097 @Paritee.BetterFarmAnimalVariety",  // Cotton the Sweetest Shopkeeper
+			"37313 @BleakCodex.SpritesInDetail",      // Dreamy Doctor Dialogue
+			"37313 @Mangupix.DialogueDisplayFrameworkContinued", // Dreamy Doctor Dialogue
+			"37313 @mardrest.ChangeDialogues",        // Dreamy Doctor Dialogue
+			"37313 @Pathoschild.ContentPatcher",      // Dreamy Doctor Dialogue
+			"37313 @PetsWillow.CGEvents",             // Dreamy Doctor Dialogue
+			"37313 @Platonymous.ScaleUp",             // Dreamy Doctor Dialogue
+			"37313 @poohnhi.PoohCore",                // Dreamy Doctor Dialogue
+			"37313 @spacechase0.GenericModConfigMenu", // Dreamy Doctor Dialogue
+			"37313 @Spiderbuttons.BETAS",             // Dreamy Doctor Dialogue
 			"26746 @Platonymous.Portraiture",         // Expand Shane's CG events
 			"3496 @Esca.FarmTypeManager",             // Farm Extended
 			"6029 @Cherry.ToolUpgradeCosts",          // Hardew Valley
@@ -460,6 +481,9 @@
 			"19236 78568",  // Anime Catboy Portrait Mod - Wizard SVE
 			"21191 86404",  // Auto Fish - Deutsch
 			"19698 80076",  // Vanilla Portrait Frame
+
+			// mods which reuse a framework DLL
+			"37293 @DecidedlyHuman.ClownSharp", // ClownSharp included in multiple fellowclown mods
 
 			// special cases
 			"23235 95378",                     // Daily Item Randomizer (blocked by Nexus antivirus check)
@@ -595,6 +619,7 @@
 		"DLX.QuickSave": "https://gitlab.com/delixx/stardew-valley/personal-indoor-farm",            // Quick Save                     | unrelated
 		"kakashigr.RadioactiveTools": "Pathoschild/PrismaticTools",                                  // Radioactive Tools              | unrelated
 		"prism99.aedenthorn.RealNames": "aedenthorn/StardewValleyMods",                              // Realistic Random Names Redux   | older mod
+		"Kantrip.ReverseProposals": "EnderTedi/Polyamory",                                           // Reverse Proposals              | unrelated
 		"platinummyr.CustomBackpackFramework": "aedenthorn/StardewValleyMods",                       // Return of Custom Backpack Framework | older mod
 		"SixthTitan.SDVWM": "laurensarah2022/SDVWM_Example_Addon",                                   // SDVMM - Real Weather           | docs
 		"chiccen.Skateboard": "aedenthorn/StardewValleyMods",                                        // Skateboard for 1.6             | original repo
