@@ -13818,7 +13818,11 @@
 			"author": "JoXW",
 			"id": "JoXW.HugsAndKisses",
 			"nexus": 21019,
-			"github": "JoXW100/StardewValleyMods"
+			"github": "JoXW100/StardewValleyMods",
+			
+			"status": "abandoned",
+			"abandonedReason": "hidden",
+			"summary": "use [Hugs and Kisses](#) instead."
 		},
 		{
 			"name": "Hunger",
