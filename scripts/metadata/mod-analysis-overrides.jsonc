@@ -305,6 +305,7 @@
 			14398, // Tristan (es)
 			7556,  // UI Info Suite (fr)
 			13389, // UI Info Suite (vi)
+			38059, // Ultimate Guide To Clowning (zh)
 			6637,  // Underground Secrets (ru)
 			30812, // Valley Talk (ru)
 			36704, // Vampire Sebastian (en)
@@ -366,7 +367,6 @@
 			"28712 @aedenthorn.RobinWorkHours",      // Robin Work Hours
 			1363,                                    // Save Anywhere
 			"8386 @Omegasis.SaveAnywhere",           // Save Anywhere
-			"36813 @Platonymous.ScaleUp",            // Scale Up
 			"29377 @Platonymous.SeedBag",            // Seed Bag
 			"22275 @Jonqora.ShowItemQuality",        // Show Item Quality
 			"30635 @alphablackwolf.skillPrestige",   // Skill Prestige
@@ -457,6 +457,7 @@
 			"6029 @jahangmar.LevelingAdjustment2",    // Hardew Valley
 			"8563 @spacechase0.CustomNPCFixes",       // Harvest Valley Farm
 			"16426 @alja.CCCB",                       // Little Harder Community Center Bundles
+			"38308 @aedenthorn.SoundTweaker",         // Longpaopao(DragonBeans) From Arknights
 			"36694 @YS.TeleportMod",                  // Luxurious Yellow Villa
 			"21954 @alja.CCCB",                       // Moonshine's Moderate Community Center Challange
 			"1692 @Platonymous.CustomElementHandler", // New NPC Alec
@@ -475,6 +476,7 @@
 			"20593 @Esca.FarmTypeManager",            // Standard Farm Expanded
 			"9509 @jahangmar.LevelingAdjustment",     // Stardew VallEasy - Easy Gold Everywhere
 			"9509 @jahangmar.LevelingAdjustment2",    // Stardew VallEasy - Easy Gold Everywhere
+			"37977 @Cherry.MultiYieldCrops",          // sijizuowuzhognzimod
 			"32992 @CF.ChangeHorseSounds",            // Wave125 Motorcycle
 
 			// downloads which replace files in other mods
@@ -484,6 +486,7 @@
 
 			// mods which reuse a framework DLL
 			"37293 @DecidedlyHuman.ClownSharp", // ClownSharp included in multiple fellowclown mods
+			"37926 @DecidedlyHuman.ClownSharp", // ClownSharp included in multiple fellowclown mods
 
 			// special cases
 			"23235 95378",                     // Daily Item Randomizer (blocked by Nexus antivirus check)
