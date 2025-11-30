@@ -97,6 +97,19 @@
 			"summary": "use [Cuter Slimes Refreshed](https://www.nexusmods.com/stardewvalley/mods/21889) instead."
 		},
 		{
+			"name": "Date Night",
+			"author": "SUPERT",
+			"id": "supert.datenight",
+			"nexus": 11459,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714) instead."
+		},
+		{
 			"name": "Don't Enable Pam",
 			"author": "Jonqora",
 			"id": "Jonqora.DontEnablePam",

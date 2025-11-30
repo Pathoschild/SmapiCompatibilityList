@@ -2865,13 +2865,6 @@
 			"retestWhenCompatible": [ "Better Panning" ] // dependency
 		},
 		{
-			"name": "Better Panning Spot",
-			"author": "ForgedBrass",
-			"id": "ForgedBrass.BetterPanningSpot",
-			"nexus": 10608,
-			"github": null
-		},
-		{
 			"name": "Better Planting",
 			"author": "Achtuur",
 			"id": "Achtuur.BetterPlanting",
@@ -3312,13 +3305,6 @@
 			"id": "desto.BillboardProfitMargin",
 			"nexus": 6948,
 			"github": "desto-git/sdv-mods"
-		},
-		{
-			"name": "Bimbo Valley",
-			"author": "OverTheBridge",
-			"id": "OverTheBridge.BimboValley",
-			"nexus": 33419,
-			"github": null
 		},
 		{
 			"name": "Binning Skill",
@@ -7833,17 +7819,6 @@
 			"nexus": 1691,
 			"moddrop": 606646,
 			"github": "Pathoschild/StardewMods"
-		},
-		{
-			"name": "Date Night",
-			"author": "SUPERT",
-			"id": "supert.datenight",
-			"nexus": 11459,
-			"github": null,
-
-			"brokeIn": "Stardew Valley 1.6",
-			"status": "workaround",
-			"summary": "use [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714) instead."
 		},
 		{
 			"name": "Dating Reversed",
@@ -13145,27 +13120,6 @@
 			"github": null
 		},
 		{
-			"name": "Growable Ores",
-			"author": "ChillsEmporium, Markchill And Eros",
-			"id": "chillsemporium.GrowableOres",
-			"nexus": 5640,
-			"github": null
-		},
-		{
-			"name": "Growable Stone",
-			"author": "ChillsEmporium, Markchill And Eros",
-			"id": "chillsemporium.GrowableStone",
-			"nexus": 5748,
-			"github": null
-		},
-		{
-			"name": "Growable Wood",
-			"author": "Chills Emporium And Eros, ChillsEmporium",
-			"id": "ChillsEmporiumEros.GrowableWood",
-			"nexus": 36437,
-			"github": null
-		},
-		{
 			"name": "Growing Valley - Child NPCs",
 			"author": "siliconmodding",
 			"id": "siliconmodding.GVChildrenSMAPI",
@@ -16521,13 +16475,6 @@
 			"author": "pinkxzkb",
 			"id": "pinkxzkb.Longzelanggu",
 			"nexus": 33802,
-			"github": null
-		},
-		{
-			"name": "Looking for Love REDUX",
-			"author": "mushroomhash",
-			"id": "mush.loveydovey",
-			"nexus": 21370,
 			"github": null
 		},
 		{
@@ -26301,13 +26248,6 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
-			"name": "Sonic Shoes",
-			"author": "lilico",
-			"id": "lilico.SonicShoes",
-			"nexus": 10226,
-			"github": null
-		},
-		{
 			"name": "SorryLab Core",
 			"author": "YunHikari",
 			"id": "YunHikari.SorryLabCore",
@@ -28613,13 +28553,6 @@
 			"github": "lucaskfreitas/ImmersiveSprinklers"
 		},
 		{
-			"name": "The Return of More Backpack Upgrades",
-			"author": "platinummyr",
-			"id": "platinummyr.CPMoreBackpacks",
-			"nexus": 21591,
-			"github": null
-		},
-		{
 			"name": "The Return of Smaller Fish Ponds, Smaller Fish Ponds",
 			"author": "platinummyr and wellbott",
 			"id": "platinummyr.SmallerFishPonds",
@@ -29650,13 +29583,6 @@
 			"id": "JhonnieMike.BrasilTV",
 			"nexus": 10843,
 			"github": "JhonnieRandler/TVBrasileira"
-		},
-		{
-			"name": "TV Channel - Gardening with Hisame, Gardening TV Channel",
-			"author": "hisameartwork",
-			"id": "HisameArtwork.GardeningChannel",
-			"nexus": 5485,
-			"github": null
 		},
 		{
 			"name": "TV Recipes",
@@ -31200,13 +31126,6 @@
 			"moddrop": 1443556,
 			"nexus": 16879,
 			"github": "MindMeltMax/Stardew-Valley-Mods"
-		},
-		{
-			"name": "Winter Rain",
-			"author": "idermailer",
-			"id": "idermailer.WinterRain",
-			"nexus": 13767,
-			"github": "idermailer/WinterRain"
 		},
 		{
 			"name": "Winter Star Spouse",
