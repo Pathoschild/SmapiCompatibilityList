@@ -225,13 +225,14 @@
 			16987, // More Rings (ru)
 			18252, // Multiple Spouses (th)
 			10224, // Multiple Spouses (zh)
+			24505, // Multiplayer Info (de)
+			8928,  // Multiple Spouse Dialogs (tr)
+			38997, // Multi Save Continued (zh)
+			25212, // Mutant Rings (X-Men) (vi)
 			33075, // Nature in the Valley (zh)
 			14478, // Never Ending Adventure - NPC Mateo (es)
 			28191, // Never Ending Adventure - NPC Mateo (vi)
 			6295,  // Nice Messages (ru)
-			24505, // Multiplayer Info (de)
-			8928,  // Multiple Spouse Dialogs (tr)
-			25212, // Mutant Rings (X-Men) (vi)
 			5551,  // NPC Adventures (ru)
 			8767,  // NPC Adventures (tr)
 			23305, // NPC Map Locations (id)
@@ -278,6 +279,7 @@
 			37367, // SpaceCore (ru)
 			37377, // Special Power Utilities (ru)
 			11140, // Spouses in Ginger Island (zh)
+			38998, // Star Control (zh)
 			34388, // Stardew Debt (zh)
 			33595, // Stardew Druid (pt)
 			27012, // Stardew Notifications (pt)
@@ -367,6 +369,8 @@
 			"28712 @aedenthorn.RobinWorkHours",      // Robin Work Hours
 			1363,                                    // Save Anywhere
 			"8386 @Omegasis.SaveAnywhere",           // Save Anywhere
+			"36813 @Platonymous.ScaleUp",            // Scale Up Unofficial
+			"36813 @BleakCodex.SpritesInDetail",     // Scale Up Unofficial
 			"29377 @Platonymous.SeedBag",            // Seed Bag
 			"22275 @Jonqora.ShowItemQuality",        // Show Item Quality
 			"30635 @alphablackwolf.skillPrestige",   // Skill Prestige
@@ -457,7 +461,6 @@
 			"6029 @jahangmar.LevelingAdjustment2",    // Hardew Valley
 			"8563 @spacechase0.CustomNPCFixes",       // Harvest Valley Farm
 			"16426 @alja.CCCB",                       // Little Harder Community Center Bundles
-			"38308 @aedenthorn.SoundTweaker",         // Longpaopao(DragonBeans) From Arknights
 			"36694 @YS.TeleportMod",                  // Luxurious Yellow Villa
 			"21954 @alja.CCCB",                       // Moonshine's Moderate Community Center Challange
 			"1692 @Platonymous.CustomElementHandler", // New NPC Alec
@@ -485,7 +488,6 @@
 			"19698 80076",  // Vanilla Portrait Frame
 
 			// mods which reuse a framework DLL
-			"37293 @DecidedlyHuman.ClownSharp", // ClownSharp included in multiple fellowclown mods
 			"37926 @DecidedlyHuman.ClownSharp", // ClownSharp included in multiple fellowclown mods
 
 			// special cases
