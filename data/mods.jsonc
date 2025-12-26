@@ -7306,12 +7306,14 @@
 		},
 		{
 			"name": "Custom NPC - Riley, Riley House",
-			"author": "SG",
+			"author": "SG, EssGee",
 			"id": "SG.RileyHouse",
 			"nexus": 5811,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Riley - Custom NPC for 1.6](https://www.nexusmods.com/stardewvalley/mods/36094) instead.",
 		},
 		{
 			"name": "Custom NPC Shig, Shig NPC Patch",
