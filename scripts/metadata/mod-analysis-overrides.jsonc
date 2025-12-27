@@ -28,7 +28,8 @@
 			871833, // Too Many Animals
 
 			// reposts with same mod ID
-			"1145447 @cat.betterartisangoodicons",
+			"1145447 @cat.betterartisangoodicons", // Better Artisan Good Icons
+			"1412651 @focustense.StarControl",     // Star Control ('Customization Plus' fork)
 
 			// mods which include a copy of another mod for some reason
 			"877227 @Platonymous.PlatoUI", // Plato Warp Menu
@@ -64,6 +65,7 @@
 			// reposts with the same mod ID
 			"509776 @Adeel.ObjectProgressbars", // Object Progress Bars
 			"509780 @Coll1234567.RunningLate",  // Running Late
+			"1753229 @focustense.StarControl",  // Star Control ('Customization Plus' fork)
 
 			// mods which include a copy of another mod for some reason
 			"1240025 @Cherry.ExpandedPreconditionsUtility", // Little Witch Academia Constanze NPC
@@ -96,7 +98,6 @@
 			****/
 			// mod translations
 			25959, // Advanced Fishing Treasure (zh)
-			23597, // Adventurer's Guild Expanded (es)
 			11463, // Always Raining in the Valley (es)
 			18036, // Alternate Textures (fr)
 			34056, // Alternative Textures (vi)
@@ -104,6 +105,7 @@
 			7932,  // Animals Need Water (fr)
 			36750, // Arcanian Animal Reserve (zh)
 			32017, // Auto Forager (zh)
+			39950, // Automate (id)
 			23323, // Better Crafting (id)
 			37200, // Better Elevator (pt)
 			16289, // Better Junimos (fr)
@@ -124,8 +126,10 @@
 			18168, // Child to NPC (ru/uk)
 			22514, // Chocobo Valley (es)
 			14119, // CJB Cheats Menu (es)
+			39942, // CJB Cheats Menu (id)
 			17649, // CJB Cheats Menu (vi)
 			17657, // CJB Cheats Menu (vi)
+			39946, // CJB Item Spawner (id)
 			4305,  // Climates of Ferngill (pt)
 			34214, // Cobold AI Valley (en)
 			4197,  // Companion NPCs (pt)
@@ -146,7 +150,6 @@
 			15007, // Deluxe Journal (fr)
 			23825, // Deluxe Journal (ko)
 			25825, // Distant Lands (de)
-			22509, // Distant Lands (es)
 			15908, // Downtown Zuzu (fr)
 			11090, // Downtown Zuzu (it)
 			9901,  // Downtown Zuzu (ru)
@@ -163,6 +166,7 @@
 			12097, // Farmer Helper (tr)
 			31935, // Farmhouse Visit (id)
 			37406, // Farm Rearranger (ru)
+			39941, // Farm Type Manager (id)
 			37359, // Farm Type Manager (ru)
 			23394, // Fashion Sense (es)
 			18034, // Fashion Sense (fr)
@@ -174,6 +178,7 @@
 			15286, // Fireworks Festival (zh)
 			6157,  // Garden Village Shops (ru)
 			6500,  // Garden Village Shops (ru)
+			39954, // Generic Mod Config Menu (id)
 			18721, // Generic Mod Config Menu (vi)
 			32295, // Gift Taste Helper Continued x2 (vi)
 			18722, // Greenhouse Sprinklers (vi)
@@ -184,10 +189,13 @@
 			26743, // Happy Home Designer (ru)
 			30646, // Home Barista (es)
 			6111,  // Immersive Characters - Shane (es)
+			39938, // Immersive Weather Overhaul (id)
 			12399, // Instant Tool Upgrades (tr)
+			39915, // Integrated Minecarts (id)
 			34713, // Interactive Emotes (zh)
 			26451, // Iridium Tools Patch (fr)
 			34111, // Item Extensions (vi)
+			40429, // Item Research 'n Spawn (pt)
 			17798, // Joys of Efficiency (vi)
 			10685, // Juliet and Jessie the Joja Clerks (es)
 			8946,  // Junimo Dialog (pt)
@@ -195,6 +203,7 @@
 			13866, // Line Sprinklers (fr)
 			17797, // Loan Mod (vi)
 			22518, // Lookup Anything (id)
+			39945, // Lookup Anything (id)
 			18723, // Lookup Anything (vi)
 			30431, // Lookup Anything (vi)
 			10720, // Loved Labels (pl)
@@ -214,6 +223,7 @@
 			31580, // Market Town (zh)
 			24445, // Mastery Extended (zh)
 			15183, // Mermaid Island (es)
+			39949, // Miss Coriel's Unique Courtship Response (id)
 			10804, // Mister Ginger Cat NPC (es)
 			33011, // Mob Health Bars (zh)
 			16659, // Mobile Catalogues (vi)
@@ -236,6 +246,7 @@
 			5551,  // NPC Adventures (ru)
 			8767,  // NPC Adventures (tr)
 			23305, // NPC Map Locations (id)
+			39939, // NPC Map Locations (id)
 			19757, // NPC Map Locations (ja)
 			37356, // NPC Map Locations (ru)
 			13369, // NPC Map Locations (vi)
@@ -276,12 +287,14 @@
 			18662, // Shopping Show (vi)
 			18453, // Show Birthday (pt)
 			19242, // Socializing Skill (vi)
+			39940, // SpaceCore (id)
 			37367, // SpaceCore (ru)
 			37377, // Special Power Utilities (ru)
 			11140, // Spouses in Ginger Island (zh)
 			38998, // Star Control (zh)
 			34388, // Stardew Debt (zh)
 			33595, // Stardew Druid (pt)
+			39955, // Stardew Hack (id)
 			27012, // Stardew Notifications (pt)
 			20244, // Stardew Notifications (tr)
 			18691, // Stardew Realty (pt)
@@ -302,6 +315,7 @@
 			8312,  // Town School Functions (tr)
 			6356,  // Town School Functions (zh)
 			23455, // Tractor Mod (id)
+			39952, // Tractor Mod (id)
 			17666, // Tree Transplant (vi)
 			10785, // Tristan (es)
 			14398, // Tristan (es)
@@ -313,7 +327,6 @@
 			36704, // Vampire Sebastian (en)
 			30572, // Vanilla Plus Professions (ru)
 			29832, // Visible Fish (zh)
-			22366, // Visit Mount Vapius (es)
 			36246, // Warp to Friends (zh)
 			36799, // Wedding Anniversaries (vi)
 			17684, // What Are You Missing (vi)
@@ -376,6 +389,7 @@
 			"30635 @alphablackwolf.skillPrestige",   // Skill Prestige
 			"30635 @CinderGarde.SpaceCoreSkillAdapter", // Skill Prestige (SpaceCore Skill Adapter)
 			"22167 @aedenthorn.SprinklerMod",        // Sprinkler Mod
+			"40470 @focustense.StarControl",         // Star Control ('Customization Plus' fork)
 			"24806 @MiphasGrace.SurpriseBaby1",      // Surprise Pregnancy
 			"23617 @Ophaneom.Survivalistic",         // Survivalist - Hunger and Thirst
 			"22763 @SpicyKai.Tileman",               // Tileman Challenge
@@ -468,6 +482,9 @@
 			"1692 @Platonymous.CustomFurniture",      // New NPC Alec
 			"1692 @Platonymous.CustomNPC",            // New NPC Alec
 			"1128 @Advize.GetDressed",                // New Shirts and 2 new Skirts
+			"38431 @heeya.FriendshipTokens",          // Only Shane
+			"38431 @jkysa88.DialogueGuard",           // Only Shane
+			"38431 @RacingRabbit.FarmQueries",        // Only Shane
 			"5004 @zazizu.darkUI",                    // Pathologic
 			"35333 @YS.TeleportMod",                  // Pink Sweety Amusement Park
 			"5384 @Platonymous.PlatoUI",              // Plato Warp Menu
@@ -566,6 +583,7 @@
 		"Zamiel.AutomaticScreenshotTaker": "Zamiell/image-viewer",                                   // Automatic Screenshot Taker     | related tool
 		"bGames.bGamesPointsMod": "MoisesGodoy17/sensor-steam-react",                                // bGames Points Mod              | related tool
 		"BananaFruit.BulkStaircases": "BananaFruit1492/BulkStaircases",                              // Bulk Staircases                | duplicated repo for some reason
+		"Nereithr.CategoryIngredientDisplayFix": "Traktori7/StardewValleyMods",                      // Category Ingredient Display Fix | older mod
 		"jslattery26.ChestPoolingV2": "mralbobo/stardew-chest-pooling",                              // Chest Pooling V2               | older mod
 		"Pathoschild.ChestsAnywhere": "VIspReaderUS/AccessChestAnywhere",                            // Chests Anywhere                | older mod
 		"sophie.ConfigurableBundleCosts": "dtomlinson-ga/ConfigurableBundleCosts",                   // Configurable Bundle Costs      | old repo
