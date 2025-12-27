@@ -52,29 +52,38 @@ for (const mod of mods) {
 		}
 	}
 
-	// check mod links in summary
-	for (const link of utilities.extractLocalModLinksFromMarkdown(mod.summary))	{
-		// invalid format
-		if (link.url != "#") {
-			hasErrors = utilities.logModError(mod, `has a link with custom anchor URL '${link.url}'. To link to another mod on the list, set the link text to the exact mod name and the URL to '#'.`);
-			continue;
-		}
+	// check mod links
+	const linkableFields = [
+		["summary", mod.summary],
+		["warnings", (mod.warnings ?? []).join("\n")]
+	];
+	for (const field of linkableFields) {
+		const sourceName = field[0];
+		const source = field[1];
 
-		// target not found
-		const targets = modsByName[link.modName.toLowerCase()];
-		if (!targets) {
-			hasErrors = utilities.logModError(mod, `has a summary link to mod '${link.modName}', which wasn't found.`);
-			continue;
-		}
+		for (const link of utilities.extractLocalModLinksFromMarkdown(source)) {
+			// invalid format
+			if (link.url != "#") {
+				hasErrors = utilities.logModError(mod, `has a ${sourceName} link with custom anchor URL '${link.url}'. To link to another mod on the list, set the link text to the exact mod name and the URL to '#'.`);
+				continue;
+			}
 
-		// target not compatible (so shouldn't be listed as a workaround)
-		const statuses = new Set(targets.map(target => target.status));
-		if (!statuses.has("ok") && !statuses.has("optional") && !statuses.has("unofficial")) {
-			let message = `❌ Mod '${mod.mainName}' has a summary link to mod '${link.modName}', which has status '${[... statuses].join("', '")}'.`;
-			if (statuses.has("workaround"))
-				message += " It should link directly to the working mod instead.";
-			hasErrors = utilities.logModError(mod, message);
-			continue;
+			// target not found
+			const targets = modsByName[link.modName.toLowerCase()];
+			if (!targets) {
+				hasErrors = utilities.logModError(mod, `has a ${sourceName} link to mod '${link.modName}', which wasn't found.`);
+				continue;
+			}
+
+			// target not compatible (so shouldn't be listed as a workaround)
+			const statuses = new Set(targets.map(target => target.status));
+			if (!statuses.has("ok") && !statuses.has("optional") && !statuses.has("unofficial")) {
+				let message = `❌ Mod '${mod.mainName}' has a ${sourceName} link to mod '${link.modName}', which has status '${[... statuses].join("', '")}'.`;
+				if (statuses.has("workaround"))
+					message += " It should link directly to the working mod instead.";
+				hasErrors = utilities.logModError(mod, message);
+				continue;
+			}
 		}
 	}
 
