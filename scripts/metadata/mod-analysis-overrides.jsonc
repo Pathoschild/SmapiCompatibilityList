@@ -538,25 +538,36 @@
 		"ZaneYork/SMAPI-Android-Installer",
 
 		// repos which don't exist
+		"busisd/TrackerZoomFix",                  // Foraging Tracker Profession
 		"bwdymods/SDV-Moongates",                 // Moongates
 		"bwdymods/SDV-Sleepovers",                // Sleepovers
 		"bwdymods/SDV-Starbot",                   // Starbot
+		"calebstein1/CountingSheep",              // Alarm Clock
 		"calebstein1/StardewDisableBuildingFade", // Disable Building Fade
+		"calebstein1/StardewVariableSeasons",     // Variable Seasons
 		"CreeperzEdge/ItemTweaks",                // Item Tweaks
+		"dawgeth/SDVTwitch",                      // SDV Twitch
 		"ebehar/CraftAnything",                   // Craft Anything
 		"ebehar/StardewValley-InfertileSoil",     // Infertile Soil
+		"GhostGoesBinted/KeyboardOnlyMod",        // Keyboard Only
 		"idermailer/RiverlandFarmButYouNeedToBuildBridges", // Riverland Farm But You Need To Build Bridges
+		"Imogen599/StackableBuffs",               // Stackable Buffs
+		"jjjensen65-lgtm/CommunityContracts",     // Community Contracts
 		"Kalthramis/StardewValley",               // Multiplayer Speech Bubbles
-		"LeFauxMatt/CarryChest",                  // Carry Chest                | CurseForge has wrong update key
+		"leejohnkt11/WSF",                        // WSF's Mod
+		"LeFauxMatt/CarryChest",                  // Carry Chest // CurseForge has wrong update key
 		"LeFauxMatt/SDVCustomChores",             // Custom Chores
 		"MattDeDuck/StardewValleyMods",           // Buyable Dwarf Scrolls + Trash Bear Item Helper
 		"moriczgergo/RandomTastes",               // Random Tastes
-		"dawgeth/SDVTwitch",                      // SDV Twitch
+		"Neosinf/StardewDruid",                   // Stardew Druid
 		"NolanEastburn/ProjectS",                 // ProjectS
+		"Nook001/StardewValley-BetterBuildingUpgrades", // Better Building Upgrades
 		"philosquare/SDVEnergyProtect",           // Energy Protect
-		"busisd/TrackerZoomFix",                  // Foraging Tracker Profession
+		"Prism-99/MinimizeSMAPI",                 // Minimize SMAPI
+		"Telshin/twitch-for-stardew",             // Twitch in Stardew Valley,
 		"tlitookilakin/HDPortraits",              // HD Portraits
-		"TobinWilson/PelicanPostalService"        // Pelican Postal Service
+		"TobinWilson/PelicanPostalService",       // Pelican Postal Service
+		"WhaleK233/Red-Panda-Bazaar"              // Red Panda Bazaar
 	],
 
 	/**
@@ -617,7 +628,7 @@
 		// renamed
 		"AlphaMeece/StardewSkillRings": "AlphaMeece/StardewMods",
 		"AndyCrocker/StardewMods": "Sonozuki/StardewMods",
-		"bwdy/SDVModding": "Haphestia/SDVModding",
+		"bwdy/SDVModding": "TheWitchOfNull/SDVModding",
 		"chiccenFL/StardewValleyMods": "chiccendev/StardewValleyMods",
 		"DecidedlyHuman/StardewValleyMods": "AlanDavison/StardewValleyMods",
 		"Dem1se/SDVMods": "nithssh/SDVMods",

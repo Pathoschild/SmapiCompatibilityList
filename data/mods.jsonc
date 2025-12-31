@@ -388,6 +388,13 @@
 			"brokeIn": "Stardew Valley 1.5"
 		},
 		{
+			"name": "Advanced Gift Reactions",
+			"author": "aedenthorn",
+			"id": "aedenthorn.AdvancedGiftReactions",
+			"nexus": 40588,
+			"github": "aedenthorn/StardewValleyMods"
+		},
+		{
 			"name": "Advanced Location Loader",
 			"author": "Entoarox",
 			"id": "Entoarox.AdvancedLocationLoader",
@@ -1381,7 +1388,7 @@
 			"nexus": 9023,
 			"moddrop": 979525,
 			"github": null,
-			"source": "https://sourceforge.net/p/sdvmods-artifact-fix-redux",
+			"source": "https://sourceforge.net/p/sdvmod-asdfgh",
 
 			"brokeIn": "Stardew Valley 1.6"
 		},
@@ -1698,6 +1705,13 @@
 			"github": null
 		},
 		{
+			"name": "Auto Fill Water for Pet Bowl, Daily Pet Bowl Auto-Fill",
+			"author": "ZeroXPatch",
+			"id": "ZeroXPatch.AutoFillWaterforPetBowl",
+			"nexus": 40579,
+			"github": null
+		},
+		{
 			"name": "Auto Fish",
 			"author": "WhiteMind",
 			"id": "WhiteMind.AF",
@@ -1741,7 +1755,7 @@
 			"nexus": 2783,
 			"github": null,
 
-		"status": "abandoned",
+			"status": "abandoned",
 			"abandonedReason": "deleted",
 			"summary": "remove this mod (no longer maintained; use [Deluxe Grabber Redux 1.6](#) instead)."
 		},
@@ -1795,6 +1809,13 @@
 			"github": null
 		},
 		{
+			"name": "Auto Insert and Pick Artisan Things",
+			"author": "lucas8x",
+			"id": "lucas8x.AutoInsertAndPickArtisanThings",
+			"nexus": 40671,
+			"github": "Lucas8x/AutoInsertAndPickArtisanThings"
+		},
+		{
 			"name": "Auto Load Game",
 			"author": "Caraxian",
 			"id": "caraxian.AutoLoadGame",
@@ -1802,9 +1823,9 @@
 			"github": "Caraxi/StardewValleyMods"
 		},
 		{
-			"name": "Auto Loading Keg, Loading Keg Without Button",
+			"name": "Auto Loading, Auto Loading Keg, Loading Keg Without Button", // changed in 1.1.0; separate editions in previous versions
 			"author": "SMVESJSUN",
-			"id": "SMVESJSUN.AutoLoadingKeg, SMVESJSUN.LoadingKegWithoutButton", // two versions
+			"id": "SMVESJSUN.AutoLoading, SMVESJSUN.AutoLoadingKeg, SMVESJSUN.LoadingKegWithoutButton", // changed in 1.1.0; separate editions in previous versions
 			"nexus": 35909,
 			"github": null
 		},
@@ -1830,7 +1851,7 @@
 			"id": "azah.automated-doors",
 			"nexus": null,
 			"url": "https://community.playstarbound.com/threads/smapi-2-0-automated-doors.131380",
-			"github": "azah/AutomatedDoors",
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.3",
 			"unofficialUpdate": {
@@ -2543,7 +2564,7 @@
 			"author": "Nook",
 			"id": "Nook.BetterBuildingUpgrades",
 			"nexus": 32366,
-			"github": "Nook001/StardewValley-BetterBuildingUpgrades"
+			"github": null
 		},
 		{
 			"name": "Better Butterfly Hutch",
@@ -6034,7 +6055,7 @@
 			"author": "calebstein1",
 			"id": "calebstein1.CountingSheep",
 			"nexus": 25380,
-			"github": "calebstein1/CountingSheep"
+			"github": null
 		},
 		{
 			"name": "Couple Events",
@@ -9196,6 +9217,7 @@
 			"name": "Dynamic Sprinkler - Randomized Sprinkler Personalities, Lazy Sprinkler",
 			"author": "ZeroXPatch",
 			"id": "NexusAgent.LazySprinkler",
+			"curse": 1415640,
 			"nexus": 39895,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -9373,6 +9395,13 @@
 			"github": null
 		},
 		{
+			"name": "Easy Farm",
+			"author": "Seth1dai",
+			"id": "Seth1dai.EasyFarm",
+			"nexus": 40595,
+			"github": null
+		},
+		{
 			"name": "Easy Farming",
 			"author": "MountainDewBoi",
 			"id": "MountainDewBoi.EasyFarming",
@@ -9535,6 +9564,13 @@
 			"github": "millerscout/StardewMillerMods",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Eco Score",
+			"author": "MaaikeSww",
+			"id": "MaaikeSww.EcoScore",
+			"nexus": 40581,
+			"github": null
 		},
 		{
 			"name": "Edit Stable Ownership",
@@ -9936,6 +9972,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Escape Rope",
+			"author": "stardemod",
+			"id": "stardemod.EscapeRope",
+			"nexus": 40665,
+			"github": null
+		},
+		{
 			"name": "Escargo Win Bug Fix",
 			"author": "BlackJack",
 			"id": "BlackJack.EscargoWinBugfix",
@@ -9955,6 +9998,13 @@
 			"author": "g33k, g33kidd",
 			"id": "g33k.EscDialogueMod",
 			"nexus": 21812,
+			"github": null
+		},
+		{
+			"name": "Estrogen Pills, Estrogen Mod",
+			"author": "Roabotics",
+			"id": "Roabotics.estrogenMod",
+			"nexus": 40593,
 			"github": null
 		},
 		{
@@ -12411,7 +12461,7 @@
 			"author": "ThisIsCad",
 			"id": "ThisIsCad.FriendshipTotems",
 			"nexus": 25969,
-			"github": "brandonwamboldt/FriendshipTotems",
+			"github": null,
 
 			"status": "abandoned",
 			"abandonedReason": "hidden"
@@ -12468,6 +12518,13 @@
 			"github": "jeffgillean/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Fruit Tree Accumulation",
+			"author": "Sable17",
+			"id": "Sable17.FruitTreeAccumulation",
+			"nexus": 40575,
+			"github": null
 		},
 		{
 			"name": "Fruit Tree Fixes",
@@ -14358,6 +14415,13 @@
 			"github": "Goldenrevolver/Stardew-Valley-Mods"
 		},
 		{
+			"name": "Horse Renamer",
+			"author": "John Peters",
+			"id": "JohnPeters.HorseRenamer",
+			"nexus": 40601,
+			"github": "emurphy42/HorseRenamer"
+		},
+		{
 			"name": "Horse Squeeze",
 			"author": "jorgamun",
 			"id": "jorgamun.HorseSqueeze",
@@ -15218,7 +15282,7 @@
 		{
 			"name": "Instant Sprinkler",
 			"author": "xixifu",
-			"id": "xixifu.InstantSprinkler",
+			"id": "XavierNico.InstantSprinkler, xixifu.InstantSprinkler", // changed in 1.2.0
 			"nexus": 40061,
 			"github": null
 		},
@@ -16240,6 +16304,13 @@
 			"github": null
 		},
 		{
+			"name": "kelez-transmission",
+			"author": "kelez",
+			"id": "kelez-xmod-email-plugin",
+			"nexus": 40586,
+			"github": null
+		},
+		{
 			"name": "kelez-xmod",
 			"author": "kelez",
 			"id": "kelez-xmod",
@@ -16272,7 +16343,7 @@
 			"author": "GhostGoesBinted",
 			"id": "GhostGoesBinted.KeyboardOnlyMode",
 			"nexus": 36948,
-			"github": "GhostGoesBinted/KeyboardOnlyMod"
+			"github": null
 		},
 		{
 			"name": "Key Suppressor",
@@ -16430,6 +16501,13 @@
 			"id": "ogahalo00.LadderOutline",
 			"nexus": 33976,
 			"github": "QuangBM138/LadderOutline"
+		},
+		{
+			"name": "Land Claims",
+			"author": "cosmicopal",
+			"id": "cosmicopal.LandClaims",
+			"nexus": 40589,
+			"github": null
 		},
 		{
 			"name": "Land Grants, Land Grants - Unlimited Players and Farms in Multiplayer",
@@ -16950,7 +17028,7 @@
 			"author": "ThisIsCad",
 			"id": "ThisIsCad.LockableThings",
 			"nexus": 26281,
-			"github": "brandonwamboldt/LockableThings",
+			"github": null,
 
 			"status": "abandoned",
 			"abandonedReason": "hidden"
@@ -16993,7 +17071,7 @@
 			"author": "bwdy",
 			"id": "bwdy.lockpicks",
 			"nexus": 3521,
-			"github": "Haphestia/SDV-Lockpicks"
+			"github": "TheWitchOfNull/SDV-Lockpicks"
 		},
 		{
 			"name": "Log Menu",
@@ -17270,6 +17348,13 @@
 			"github": "kiranmurmu/StardewValleyMods",
 
 			"brokeIn": "Harmony 2.0.0"
+		},
+		{
+			"name": "Lucky Tools",
+			"author": "cosmicopal",
+			"id": "YourName.LuckyTools",
+			"nexus": 40639,
+			"github": null
 		},
 		{
 			"name": "Lunar Disturbances",
@@ -17946,6 +18031,13 @@
 			"github": "mus-candidus/MiceInTheValley"
 		},
 		{
+			"name": "Migrate CP Items",
+			"author": "John Peters",
+			"id": "JohnPeters.MigrateCPItems",
+			"nexus": 40677,
+			"github": "emurphy42/MigrateCPItems"
+		},
+		{
 			"name": "Migrate DGA Items",
 			"author": "violetlizabet",
 			"id": "violetlizabet.MigrateDGAItems",
@@ -17997,7 +18089,7 @@
 			"author": "bwdy",
 			"id": "mod.kitchen.minecartpatcher, bwdymods.minecartpatcher", // before 1.0.3
 			"nexus": 11424,
-			"github": "Haphestia/SDVModding",
+			"github": "TheWitchOfNull/SDVModding",
 
 			"brokeIn": "Stardew Valley 1.6"
 		},
@@ -18057,7 +18149,7 @@
 			"author": "Prism 99",
 			"id": "prism99.minsmapi",
 			"nexus": 32453,
-			"github": "Prism-99/MinimizeSMAPI"
+			"github": null
 		},
 		{
 			"name": "Mining at the Farm",
@@ -18201,7 +18293,10 @@
 			"author": "Valorite",
 			"id": "Valorite.WeatherCyclePhone",
 			"nexus": 40379,
-			"github": null
+			"github": null,
+
+			"status": "abandoned",
+			"abandonedReason": "deleted"
 		},
 		{
 			"name": "Mobile Arcade",
@@ -20193,6 +20288,13 @@
 			"github": null
 		},
 		{
+			"name": "No Fishing Energy",
+			"author": "Twisle",
+			"id": "twisle.nofishingenergy",
+			"nexus": 40656,
+			"github": null
+		},
+		{
 			"name": "No Force Sleep",
 			"author": "Psystec",
 			"id": "Psystec.NoForceSleep",
@@ -20244,6 +20346,13 @@
 			"id": "Kumagabear.NoHatTreasureSkull",
 			"nexus": 19655,
 			"github": "DotSharkTeeth/StardewValleyMods"
+		},
+		{
+			"name": "No Hoe Energy",
+			"author": "Twisle",
+			"id": "twisle.nohoeenergy",
+			"nexus": 40654,
+			"github": null
 		},
 		{
 			"name": "No Hoof Sound",
@@ -20677,6 +20786,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "NPC Relationship Tags",
+			"author": "mushymato",
+			"id": "mushymato.NPCRelationshipTags",
+			"nexus": 40276,
+			"github": "Mushymato/NPCRelationshipTags"
+		},
+		{
 			"name": "NPC Schedulers",
 			"author": "slO",
 			"id": "slO.NPCSchedulers",
@@ -20688,7 +20804,10 @@
 			"author": "Valorite",
 			"id": "Valorite.NPCsGiftingBack",
 			"nexus": 40307,
-			"github": null
+			"github": null,
+
+			"status": "abandoned",
+			"abandonedReason": "deleted"
 		},
 		{
 			"name": "NPC Speak",
@@ -23456,6 +23575,7 @@
 			"name": "Quick Load Menu",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.QuickLoadMenu",
+			"curse": 1415641,
 			"nexus": 40173,
 			"github": null
 		},
@@ -24035,7 +24155,7 @@
 			"id": "WhaleK233.RedPandaBazaarCode",
 			"moddrop": 1656981,
 			"nexus": 30982,
-			"github": "WhaleK233/Red-Panda-Bazaar"
+			"github": null
 		},
 		{
 			"name": "Redraw Pelican Town Config",
@@ -24766,6 +24886,13 @@
 			"summary": "remove this mod (added in Stardew Valley 1.4)."
 		},
 		{
+			"name": "Rotten Tomatoes",
+			"author": "cosmicopal",
+			"id": "MyName.RottenTomatoes",
+			"nexus": 40641,
+			"github": null
+		},
+		{
 			"name": "RPGGO Stardew AI Mod, Stardew Drama-AI RPG",
 			"author": "RPGGO, Zyra",
 			"id": "Stardew.AIRPGMod, RPGGO.StardewAIMod", // changed in 2.0.0
@@ -25272,7 +25399,7 @@
 			"author": "ThisIsCad",
 			"id": "ThisIsCad.SearchableChests",
 			"nexus": 25736,
-			"github": "brandonwamboldt/SearchableChests",
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6.9",
 			"status": "abandoned",
@@ -25948,7 +26075,7 @@
 		{
 			"name": "Shop Anywhere for Android",
 			"author": "kazutopi1",
-			"id": "kazutopi1.SA",
+			"id": "kazutopi1.ShopAnywhere, kazutopi1.SA", // changed in 1.2.4
 			"nexus": 40146,
 			"github": "kazutopi1/Mobile_ShopAnywhere",
 			"warnings": [ "Only compatible with Android." ]
@@ -26107,6 +26234,13 @@
 			"author": "dvkin",
 			"id": "dvkin.ShowNPCNames",
 			"nexus": 26507,
+			"github": null
+		},
+		{
+			"name": "Show NPCs Name",
+			"author": "Samable",
+			"id": "Samable.ShowNPCsName",
+			"nexus": 40565,
 			"github": null
 		},
 		{
@@ -27927,7 +28061,7 @@
 			"author": "Immy",
 			"id": "Immy.StackableBuffs",
 			"nexus": 32055,
-			"github": "Imogen599/StackableBuffs"
+			"github": null
 		},
 		{
 			"name": "Stackable Monster Musk Effects",
@@ -27985,7 +28119,7 @@
 			"author": "ogahalo00",
 			"id": "ogahalo00.StackEverythingRedux.unofficial",
 			"nexus": 34043,
-			"github": "QuangBM138/Stack-Everything-Redux-Unofficial",
+			"github": null,
 
 			"status": "abandoned",
 			"abandonedReason": "hidden",
@@ -28266,7 +28400,7 @@
 			"author": "Neosinf",
 			"id": "neosinf.StardewDruid",
 			"nexus": 18465,
-			"github": "Neosinf/StardewDruid"
+			"github": null
 		},
 		{
 			"name": "Stardew Druid Lite",
@@ -28529,6 +28663,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Stardew Valley Discord Rich Presence, Stardew Discord RPC",
+			"author": "justrecht, recht",
+			"id": "recht.StardewDiscordRPC",
+			"nexus": 40617,
+			"github": "justrecht/stardew-valley-discord-rpc"
+		},
+		{
 			"name": "Stardew Valley ESP, sdv-helper",
 			"author": "reimu, r2h, tomdc",
 			"id": "reimu.sdv-helper",
@@ -28567,8 +28708,9 @@
 			"nexus": 38934,
 			"github": null,
 
-			"status": "broken",
-			"brokeIn": "never worked" // download only contains source code
+			"status": "abandoned",
+			"brokeIn": "never worked", // download only contained source code
+			"abandonedReason": "deleted"
 		},
 		{
 			"name": "Stardew Valley Randomizer",
@@ -29033,6 +29175,13 @@
 			"github": null
 		},
 		{
+			"name": "Super Forge",
+			"author": "po0pfart",
+			"id": "po0pfart.SuperForge",
+			"nexus": 40498,
+			"github": null
+		},
+		{
 			"name": "Super Hopper",
 			"author": "spacechase0",
 			"id": "spacechase0.SuperHopper",
@@ -29118,6 +29267,13 @@
 			"author": "BeetleJuice20",
 			"id": "BeetleJuice20.SVPlayerStats",
 			"nexus": 36835,
+			"github": null
+		},
+		{
+			"name": "SVSF (Do Not Use), Save Fix",
+			"author": "nastapolka",
+			"id": "nastapolka.save-fix",
+			"nexus": 40652,
 			"github": null
 		},
 		{
@@ -30049,7 +30205,7 @@
 			"author": "Smapifan",
 			"id": "Smapifan.TMXLoader",
 			"nexus": 34376,
-			"github": "Smapifan/TMXLoader",
+			"github": null,
 
 			"status": "abandoned",
 			"abandonedReason": "hidden"
@@ -30809,7 +30965,7 @@
 			"id": "telshin.twitch-for-stardew",
 			"curse": 306420,
 			"nexus": null,
-			"github": "telshin/twitch-for-stardew"
+			"github": null
 		},
 		{
 			"name": "Typable Books",
@@ -31372,7 +31528,7 @@
 			"author": "calebstein1",
 			"id": "calebstein1.StardewVariableSeasons",
 			"nexus": 19904,
-			"github": "calebstein1/StardewVariableSeasons"
+			"github": null
 		},
 		{
 			"name": "Vegas' Mega Modded Bundles, Challenging Community Center Bundles",
@@ -31424,7 +31580,7 @@
 		{
 			"name": "Village Gratitude, Daily Money Mod",
 			"author": "Ismael1508",
-			"id": "ismael1508.DailyMoneyMod",
+			"id": "Ismael.VillageGratitude, ismael1508.DailyMoneyMod", // changed in 1.1.0
 			"nexus": 34162,
 			"github": null
 		},
@@ -32483,7 +32639,7 @@
 			"author": "leejohnkt11",
 			"id": "leejohnkt11.WSF",
 			"nexus": 34663,
-			"github": "leejohnkt11/WSF"
+			"github": null
 		},
 		{
 			"name": "X",
