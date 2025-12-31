@@ -29489,15 +29489,18 @@
 			"brokeIn": "SMAPI 0.39.1"
 		},
 	   {
-         "name": "TehCore, Teh's Core Mod", // changed in 1.0.0-beta.20211020
-         "author": "TehPers",
-         "id": "TehPers.Core, TehPers.CoreMod", // changed in re-release
-         "nexus": 3256, // was 2150 before re-release
-         "moddrop": 1071149,
-         "github": "TehPers/StardewValleyMods",
+			"name": "TehCore, Teh's Core Mod",
+			"author": "TehPers",
+			"id": "TehPers.Core, TehPers.CoreMod",
+			"nexus": 3256,
+			"moddrop": 1071149,
+			"github": "TehPers/StardewValleyMods",
 
-         "unofficialVersion": "3.3.5",
-         "unofficialUrl": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/stable-3.3.5"
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				 "version": "3.3.5",
+				 "url": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/stable-3.3.5"
+			}
       },
 		{
 			"name": "Teh's Festive Slimes",
@@ -29509,15 +29512,18 @@
 			"brokeIn": "Stardew Valley 1.4"
 		},
 		{
-         "name": "Teh's Fishing Overhaul",
-         "author": "TehPers",
-         "id": "TehPers.FishingOverhaul",
-         "nexus": 866,
-         "moddrop": 123679,
-         "github": "TehPers/StardewValleyMods",
+			"name": "Teh's Fishing Overhaul",
+			"author": "TehPers",
+			"id": "TehPers.FishingOverhaul",
+			"nexus": 866,
+			"moddrop": 123679,
+			"github": "TehPers/StardewValleyMods",
 
-         "unofficialVersion": "3.3.5",
-         "unofficialUrl": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/stable-3.3.5"
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				 "version": "3.3.5",
+				 "url": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/stable-3.3.5"
+			}
       },
 		{
 			"name": "Telephone Purchasing",
