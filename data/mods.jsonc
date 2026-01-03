@@ -29488,20 +29488,20 @@
 			"summary": "remove this mod (no longer maintained; use [Ferngill Revenue Service](#) or [Serfdom](#) instead).",
 			"brokeIn": "SMAPI 0.39.1"
 		},
-	   {
-			"name": "TehCore, Teh's Core Mod",
+		{
+			"name": "TehCore, Teh's Core Mod", // changed in 1.0.0-beta.20211020
 			"author": "TehPers",
-			"id": "TehPers.Core, TehPers.CoreMod",
-			"nexus": 3256,
+			"id": "TehPers.Core, TehPers.CoreMod", // changed in re-release
+			"nexus": 3256, // was 2150 before re-release
 			"moddrop": 1071149,
 			"github": "TehPers/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
 			"unofficialUpdate": {
-				 "version": "1.1.2-unofficial.3-Hiztaar",
-				 "url": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/stable-3.3.5"
+				"version": "1.1.2-unofficial.3-Hiztaar",
+				"url": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/stable-3.3.5"
 			}
-      },
+		},
 		{
 			"name": "Teh's Festive Slimes",
 			"author": "TehPers",
@@ -29521,10 +29521,10 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"unofficialUpdate": {
-				 "version": "3.3.5-unofficial.3-Hiztaar",
-				 "url": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/stable-3.3.5"
+				"version": "3.3.5-unofficial.3-Hiztaar",
+				"url": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/stable-3.3.5"
 			}
-      },
+		},
 		{
 			"name": "Telephone Purchasing",
 			"author": "Stingray",
