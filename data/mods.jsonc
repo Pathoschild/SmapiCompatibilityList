@@ -29494,7 +29494,13 @@
 			"id": "TehPers.Core, TehPers.CoreMod", // changed in re-release
 			"nexus": 3256, // was 2150 before re-release
 			"moddrop": 1071149,
-			"github": "TehPers/StardewValleyMods"
+			"github": "TehPers/StardewValleyMods",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "1.1.2-unofficial.3-Hiztaar",
+				"url": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/3.3.5-unofficial.3-Hiztaar"
+			}
 		},
 		{
 			"name": "Teh's Festive Slimes",
@@ -29513,7 +29519,11 @@
 			"moddrop": 123679,
 			"github": "TehPers/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "3.3.5-unofficial.3-Hiztaar",
+				"url": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/3.3.5-unofficial.3-Hiztaar"
+			}
 		},
 		{
 			"name": "Telephone Purchasing",
