@@ -29497,10 +29497,8 @@
 			"github": "TehPers/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "1.1.2-unofficial.3-Hiztaar",
-				"url": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/3.3.5-unofficial.3-Hiztaar"
-			}
+			"status": "workaround",
+			"summary": "use the version provided in [Teh's Fishing Overhaul Revived](#) instead."
 		},
 		{
 			"name": "Teh's Festive Slimes",
@@ -29520,10 +29518,15 @@
 			"github": "TehPers/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUpdate": {
-				"version": "3.3.5-unofficial.3-Hiztaar",
-				"url": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived/releases/tag/3.3.5-unofficial.3-Hiztaar"
-			}
+			"status": "workaround",
+			"summary": "use the continuation of this mod: [Teh's Fishing Overhaul Revived](#) instead."
+		},
+		{
+			"name": "Teh's Fishing Overhaul Revived",
+			"author": "Hiztaar",
+			"id": "TehPers.FishingOverhaul",
+			"nexus": 40885,
+			"github": "https://github.com/Hiztaar/TehsStardewValleyMods_1.6Revived",
 		},
 		{
 			"name": "Telephone Purchasing",
