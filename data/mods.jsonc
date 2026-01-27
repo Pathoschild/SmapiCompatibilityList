@@ -1318,9 +1318,7 @@
 			"id": "PeacefulEnd.Archery",
 			"curse": 870921,
 			"nexus": 16767,
-			"github": "Floogen/Archery",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "Floogen/Archery"
 		},
 		{
 			"name": "Archery - Starter Pack",
@@ -1328,10 +1326,7 @@
 			"id": "PeacefulEnd.Archery.StarterPack.Code",
 			"curse": 870920,
 			"nexus": 16768,
-			"github": "Floogen/Archery",
-
-			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "Archery" ] // dependency
+			"github": "Floogen/Archery"
 		},
 		{
 			"name": "Arena Challenges Mod",
