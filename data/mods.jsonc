@@ -3197,10 +3197,7 @@
 			"author": "CaptainSully",
 			"id": "CaptainSully.BetterTappers",
 			"nexus": 9875,
-			"moddrop": 1035408,
 			"github": "CaptainSully/StardewMods",
-
-			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Better Theater",
@@ -8064,6 +8061,13 @@
 			"github": null,
 
 			"brokeIn": "SMAPI 3.0"
+		},
+		{
+			"name": "Damage Scaler",
+			"author": "CaptainSully",
+			"id": "CaptainSully.DamageScaler",
+			"nexus": 41721,
+			"github": "CaptainSully/StardewMods",
 		},
 		{
 			"name": "Dark User Interface",
@@ -15004,7 +15008,6 @@
 			"name": "Infinite Watering Cans",
 			"author": "CaptainSully",
 			"id": "CaptainSully.InfiniteWateringCan",
-			"moddrop": 1188756,
 			"nexus": 12739,
 			"github": "CaptainSully/StardewMods"
 		},
@@ -28875,7 +28878,6 @@
 			"author": "CaptainSully",
 			"id": "CaptainSully.StartWithGreenhouse",
 			"nexus": 9878,
-			"moddrop": 1035412,
 			"github": "CaptainSully/StardewMods"
 		},
 		{
