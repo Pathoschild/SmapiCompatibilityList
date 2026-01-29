@@ -8054,6 +8054,13 @@
 			"github": "daleao/sdv"
 		},
 		{
+			"name": "Damage Scaler",
+			"author": "CaptainSully",
+			"id": "CaptainSully.DamageScaler",
+			"nexus": 41721,
+			"github": "CaptainSully/StardewMods",
+		},
+		{
 			"name": "Dan Utils",
 			"author": "Danmw3",
 			"id": "danmw3.DanUtils",
@@ -8061,13 +8068,6 @@
 			"github": null,
 
 			"brokeIn": "SMAPI 3.0"
-		},
-		{
-			"name": "Damage Scaler",
-			"author": "CaptainSully",
-			"id": "CaptainSully.DamageScaler",
-			"nexus": 41721,
-			"github": "CaptainSully/StardewMods",
 		},
 		{
 			"name": "Dark User Interface",
