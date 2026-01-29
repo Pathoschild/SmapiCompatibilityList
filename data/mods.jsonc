@@ -5480,7 +5480,8 @@
 			"nexus": 3905,
 			"github": "spacechase0/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
 			"summary": "use [Damage Scaler](#) instead."
 		},
 		{
