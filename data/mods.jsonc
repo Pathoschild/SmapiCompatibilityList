@@ -391,6 +391,7 @@
 			"name": "Advanced Gift Reactions",
 			"author": "aedenthorn",
 			"id": "aedenthorn.AdvancedGiftReactions",
+			"curse": 1422906,
 			"nexus": 40588,
 			"github": "aedenthorn/StardewValleyMods"
 		},
@@ -1708,6 +1709,7 @@
 			"name": "Auto Fill Water for Pet Bowl, Daily Pet Bowl Auto-Fill",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.AutoFillWaterforPetBowl",
+			"curse": 1424692,
 			"nexus": 40579,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -4000,6 +4002,7 @@
 			"name": "Building Shift",
 			"author": "aedenthorn",
 			"id": "aedenthorn.BuildingShift",
+			"curse": 1417074,
 			"nexus": 39761,
 			"github": "aedenthorn/StardewValleyMods"
 		},
@@ -4579,6 +4582,7 @@
 			"name": "Cave Weather",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.CaveWeather",
+			"curse": 1421607,
 			"nexus": 39916,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -10712,6 +10716,7 @@
 			"name": "Farmhand Scheduler",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.FarmhandScheduler",
+			"curse": 1421610,
 			"nexus": 39862,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -10801,6 +10806,7 @@
 			"name": "Farm Plots",
 			"author": "aedenthorn",
 			"id": "aedenthorn.FarmPlots",
+			"curse": 1422900,
 			"nexus": 40026,
 			"github": "aedenthorn/StardewValleyMods"
 		},
@@ -11784,6 +11790,7 @@
 			"name": "Fish Weather - All Fish Night, Fish Weather: All Fish Day",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.FishWeatherAllFishDay",
+			"curse": 1423237,
 			"nexus": 40467,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -13265,6 +13272,7 @@
 			"name": "GMCM Quick Search",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.GMCMQuickSearch",
+			"curse": 1424683,
 			"nexus": 40282,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -14798,6 +14806,7 @@
 			"name": "Immersive Weather Overhaul",
 			"author": "ZeroXPatch",
 			"id": "ImmersiveWeatherOverhaul, ZeroXPatch.ImmersiveWeatherOverhaul", // changed in 3.0.0
+			"curse": 1420322,
 			"nexus": 39848,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -19939,6 +19948,8 @@
 			"name": "Natural Irrigation",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.NaturalIrrigation",
+			"curse": 1430248,
+			"moddrop": 1759445,
 			"nexus": 39932,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -22581,6 +22592,7 @@
 			"name": "Post Wedding Dates",
 			"author": "Blams",
 			"id": "blams.PostWeddingDates",
+			"curse": 1424108,
 			"nexus": 10708,
 			"github": "blamsart/StardewMods"
 		},
@@ -24061,6 +24073,7 @@
 			"name": "Real-Time Valley",
 			"author": "ZeroXPatch",
 			"id": "RealTimeValley.ClockSyncOnly",
+			"curse": 1423231,
 			"nexus": 40431,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -26946,6 +26959,7 @@
 			"name": "Slightly Better Panning",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.SlightlyBetterPanning",
+			"curse": 1424686,
 			"nexus": 39924,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -27341,7 +27355,7 @@
 			"author": "Gerik Uylerk",
 			"id": "SocialValley",
 			"curse": 1323281,
-			"nexus": null,
+			"nexus": 36338,
 			"github": null
 		},
 		{
@@ -28455,6 +28469,7 @@
 			"name": "Stardew High Priority",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.StardewHighPriority",
+			"curse": 1430989,
 			"nexus": 40359,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -28486,6 +28501,7 @@
 			"name": "Stardew Location Preload, Location Preload",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.LocationPreload",
+			"curse": 1441047,
 			"nexus": 40517,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -28541,6 +28557,7 @@
 			"name": "Stardew Open World",
 			"author": "aedenthorn",
 			"id": "aedenthorn.StardewOpenWorld",
+			"curse": 1336244,
 			"nexus": 36906,
 			"github": "aedenthorn/StardewValleyMods"
 		},
@@ -28601,6 +28618,7 @@
 			"name": "Stardew Stabilizer",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.StardewStabilizer",
+			"curse": 1430994,
 			"nexus": 40484,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
@@ -32146,6 +32164,7 @@
 			"name": "Weather Alert",
 			"author": "ZeroXPatch",
 			"id": "ZeroXPatch.WeatherAlert",
+			"curse": 1420327,
 			"nexus": 39843,
 			"github": "ZeroXPatch/Projects-for-Nexus-Mod"
 		},
