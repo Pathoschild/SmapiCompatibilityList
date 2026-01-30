@@ -81,7 +81,6 @@
 			// special cases
 			580803,  // PPJA Home of Abandoned Mods - CFR Conversions
 			624116,  // Sprint Sprint Sprint, replaced by Sprint Sprint
-			1034925, // Better Tappers, duplicate mod page
 
 			/****
 			** Files
@@ -98,7 +97,9 @@
 			****/
 			// mod translations
 			25959, // Advanced Fishing Treasure (zh)
+			40622, // Advanced Gift Reactions (id)
 			11463, // Always Raining in the Valley (es)
+			39966, // Alternative Textures (id)
 			18036, // Alternate Textures (fr)
 			34056, // Alternative Textures (vi)
 			17337, // Ancient History - A Museum Expansion mod (es)
@@ -106,6 +107,7 @@
 			36750, // Arcanian Animal Reserve (zh)
 			32017, // Auto Forager (zh)
 			39950, // Automate (id)
+			33085, // Baldur's Village (pt)
 			23323, // Better Crafting (id)
 			37200, // Better Elevator (pt)
 			16289, // Better Junimos (fr)
@@ -121,6 +123,7 @@
 			14960, // Bus Locations (fr)
 			37380, // Button's Extra Books (ru)
 			15665, // Cape Stardew (es)
+			39957, // Chests Anywhere (id)
 			14724, // Child Age Up (id)
 			5879,  // Child Age Up (zh)
 			18168, // Child to NPC (ru/uk)
@@ -145,6 +148,8 @@
 			18353, // Custom Spouse Patio Redux (es)
 			11851, // Custom Spouse Patio Redux (zh)
 			20428, // Daily Tasks Report (ru)
+			41427, // Debris is in the Air (zh-TW)
+			41431, // Debris is in the Air - The Night Lights (zh-TW)
 			37799, // Deluxe Grabber Redux (ko)
 			21168, // Deluxe Grabber Redux (zh)
 			15007, // Deluxe Journal (fr)
@@ -155,11 +160,15 @@
 			9901,  // Downtown Zuzu (ru)
 			18313, // Downtown Zuzu (th)
 			20556, // Dusty Overhaul - SVE (es)
+			41052, // Dynamic Dusk (id)
+			41738, // Dynamic Reflections (id)
 			5396,  // Dwarvish (pt)
 			5428,  // Dwarvish (zh)
+			40991, // East Scarp (id)
 			10626, // East Scarp (es)
 			32362, // Event Lookup (uk)
 			25952, // EXP Control (zh)
+			41730, // Experience Bars (id)
 			10967, // Extra Fish Information (fr)
 			17027, // Farm Helper (es)
 			12045, // Farmer Helper (ru)
@@ -170,6 +179,7 @@
 			37359, // Farm Type Manager (ru)
 			23394, // Fashion Sense (es)
 			18034, // Fashion Sense (fr)
+			41729, // Fast Animations (id)
 			32730, // Fast Animations (uk)
 			13106, // Festival of the Mundane (zh)
 			36854, // Fishing Info Overlays (pt)
@@ -186,7 +196,9 @@
 			4693,  // Happy Birthday (pt)
 			6693,  // Happy Birthday (pt)
 			9117,  // Happy Birthday (ru)
+			30357, // Happy Birthday (zh)
 			26743, // Happy Home Designer (ru)
+			41255, // Have More Kids (id)
 			30646, // Home Barista (es)
 			6111,  // Immersive Characters - Shane (es)
 			39938, // Immersive Weather Overhaul (id)
@@ -199,6 +211,7 @@
 			17798, // Joys of Efficiency (vi)
 			10685, // Juliet and Jessie the Joja Clerks (es)
 			8946,  // Junimo Dialog (pt)
+			41726, // Ladder Locator (id)
 			11282, // Lavril (es)
 			13866, // Line Sprinklers (fr)
 			17797, // Loan Mod (vi)
@@ -215,14 +228,17 @@
 			4265,  // Magic (pt)
 			18747, // Magic (vi)
 			36862, // Magic Stardew (pt)
+			41219, // Magic Stardew (pt)
 			35688, // Mail Services Mod (es)
 			18746, // Mana Bar (vi)
 			28680, // Maritime Secrets (zh)
 			33908, // Market Day (vi)
 			25520, // Market Town (zh)
 			31580, // Market Town (zh)
+			41679, // Mass Purchase Animals Anywhere (fr)
 			24445, // Mastery Extended (zh)
 			15183, // Mermaid Island (es)
+			40592, // MH Quest Manager (id)
 			39949, // Miss Coriel's Unique Courtship Response (id)
 			10804, // Mister Ginger Cat NPC (es)
 			33011, // Mob Health Bars (zh)
@@ -270,6 +286,7 @@
 			20395, // Prismatic Tools (multiple languages)
 			11407, // Producer Framework Mod (fr)
 			31136, // Profession Books (es)
+			41547, // Quarry Spawn Control (fr)
 			30091, // Reverse Proposal (zh)
 			18010, // Resource Storage (pt)
 			8030,  // Ridgeside Village (es)
@@ -472,16 +489,18 @@
 			"3496 @Esca.FarmTypeManager",             // Farm Extended
 			"6029 @Cherry.ToolUpgradeCosts",          // Hardew Valley
 			"6029 @jahangmar.LevelingAdjustment",     // Hardew Valley
-			"6029 @jahangmar.LevelingAdjustment2",    // Hardew Valley
 			"8563 @spacechase0.CustomNPCFixes",       // Harvest Valley Farm
 			"16426 @alja.CCCB",                       // Little Harder Community Center Bundles
 			"36694 @YS.TeleportMod",                  // Luxurious Yellow Villa
 			"21954 @alja.CCCB",                       // Moonshine's Moderate Community Center Challange
+			"41211 @DecidedlyHuman.PEEM",             // More Secret Notes
 			"1692 @Platonymous.CustomElementHandler", // New NPC Alec
 			"1692 @Platonymous.CustomFarming",        // New NPC Alec
 			"1692 @Platonymous.CustomFurniture",      // New NPC Alec
 			"1692 @Platonymous.CustomNPC",            // New NPC Alec
 			"1128 @Advize.GetDressed",                // New Shirts and 2 new Skirts
+			"40779 @ApryllForever.NuclearBomb",       // Nuclear Valley - R Rated Version
+			"40779 @ApryllForever.NuclearBombLocations", // Nuclear Valley - R Rated Version
 			"38431 @heeya.FriendshipTokens",          // Only Shane
 			"38431 @jkysa88.DialogueGuard",           // Only Shane
 			"38431 @RacingRabbit.FarmQueries",        // Only Shane
@@ -490,6 +509,7 @@
 			"5384 @Platonymous.PlatoUI",              // Plato Warp Menu
 			"19225 @Platonymous.Portraiture",         // Portraiture
 			"29369 @spacechase0.GenericModConfigMenu", // Purple Galaxy UI
+			"41050 @Platonymous.Portraiture",         // Rafayel Mod
 			"11929 @Paritee.BetterFarmAnimalVariety", // -RU- Dark Club
 			"16904 @RukaBravo.portrait.mod.vanilla",  // RukaBravo's portrait mod (actually loads Portraiture.dll)
 			"12069 @Paritee.BetterFarmAnimalVariety", // -RU- Nude Farmer and Swimsuits
@@ -511,7 +531,10 @@
 			"23235 95378",                     // Daily Item Randomizer (blocked by Nexus antivirus check)
 			"23235 95390",                     // Daily Item Randomizer (blocked by Nexus antivirus check)
 			"9052 @Kryspur.HypnoValleyMantra", // Hypno Valley - Mantra Command (example mod)
-			"12824 79850"                      // Marry Morris (pre-1.6 version is C#, but newer versions are content packs)
+			"39801 @kelez-xmod",               // kelez-bag-sort (reuses ID from kelez-xmod)
+			"12824 79850",                     // Marry Morris (pre-1.6 version is C#, but newer versions are content packs)
+			"40931 @ZeroXPatch.StardewStabilizer", // Stardew Stabilizer for Android (reuses ID from base original mod)
+			"40885 @TehPers.Core"              // includes updated version of original mod using same ID
 		]
 	},
 
@@ -560,6 +583,7 @@
 		"MattDeDuck/StardewValleyMods",           // Buyable Dwarf Scrolls + Trash Bear Item Helper
 		"moriczgergo/RandomTastes",               // Random Tastes
 		"Neosinf/StardewDruid",                   // Stardew Druid
+		"recht/stardew-valley-discord-rpc",       // Stardew Discord RPC
 		"NolanEastburn/ProjectS",                 // ProjectS
 		"Nook001/StardewValley-BetterBuildingUpgrades", // Better Building Upgrades
 		"philosquare/SDVEnergyProtect",           // Energy Protect
@@ -597,9 +621,11 @@
 		"JoXW.MobilePhone": "aedenthorn/StardewValleyMods",                                          // Mobile Phone Continued         | older mod
 		"JoXW.MobileTelevision": "aedenthorn/StardewValleyMods",                                     // Mobile Phone Continued         | older mod
 		"supergato664.Moolah": "aedenthorn/StardewValleyMods",                                       // Moola 1.6 Fix                  | older mod
+		"Xan.MoreStats": "KhloeLeclair/StardewMods",                                                 // More Stats                     | unrelated
 		"Nature.NatureInTheValley": "Xytronix/BusLocations",                                         // Nature in the Valley           | unrelated
 		"AairTheGreat.MoreBarnCoopAnimals": "AairTheGreat/StardewValleyMods",                        // More Barn & Coop Animals       | removed from repo
 		"Pickysaurus.NexusModsButton": "Dphill10827/StardewMods",                                    // Nexus Mods Button              | unrelated
+		"ZeroXPatch.GiftBack": "ZeroXPatch/Projects-for-Nexus-Mod",                                  // NPCs Gift Back                 | not in repo
 		"mishmaash.PauseInMultiplayer": "jorgamun/PauseInMultiplayer",                               // Pause Time in Multiplayer Revived | older mod
 		"Sunken_Lace.PetsEnhancedCode": "SunkenLace/Pets-Enhanced-Mod-Content-Pack-Guide",           // Pets Enhanced                  | docs
 		"ApryllForever.PolyamorySweetBed": "ApryllForever/PolyamorySweet",                           // Polyamory Sweet - Bed          | in separate repo
