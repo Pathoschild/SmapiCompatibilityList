@@ -33100,6 +33100,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Warp to Farm",
+			"author": "Exxude",
+			"id": "Exxude.WarpToFarm",
+			"nexus": 42444,
+			"github": "Exxude/SDV-WarpToFarm"
+		},
+		{
 			"name": "Warp to Friends",
 			"author": "Shalankwa",
 			"id": "Shalankwa.WarpToFriends",
