@@ -103,10 +103,12 @@
 			18036, // Alternate Textures (fr)
 			34056, // Alternative Textures (vi)
 			17337, // Ancient History - A Museum Expansion mod (es)
+			42611, // Animal Patting (zh)
 			7932,  // Animals Need Water (fr)
 			36750, // Arcanian Animal Reserve (zh)
 			32017, // Auto Forager (zh)
 			39950, // Automate (id)
+			42841, // Automate Tool Swap (es)
 			33085, // Baldur's Village (pt)
 			23323, // Better Crafting (id)
 			37200, // Better Elevator (pt)
@@ -141,6 +143,7 @@
 			14723, // Cooking Skill (ru)
 			31852, // Cook Showdown (en)
 			9920,  // Crop Regrowth and Perennial Crops (pt)
+			41535, // Custom Backpack Framework (vi)
 			18035, // Customize Anywhere (fr)
 			12968, // Custom NPC Belos (id)
 			5811,  // Custom NPC Riley (de)
@@ -302,11 +305,11 @@
 			21102, // Self Service for 1.6 (tr)
 			18378, // Shiko NPC (id)
 			18662, // Shopping Show (vi)
-			18453, // Show Birthday (pt)
 			19242, // Socializing Skill (vi)
 			39940, // SpaceCore (id)
 			37367, // SpaceCore (ru)
 			37377, // Special Power Utilities (ru)
+			42844, // Spouses in Ginger Island (pl)
 			11140, // Spouses in Ginger Island (zh)
 			38998, // Star Control (zh)
 			34388, // Stardew Debt (zh)
@@ -375,6 +378,7 @@
 			"29671 @Zamiel.EatDrinkFromInventory",   // Eat and Drink From Inventory
 			12920,                                   // Extra Map Layers (version for Android by original author)
 			"20910 @aedenthorn.FarmCaveFramework",   // Farm Cave Framework
+			"42678 @MouseyPounds.ShadowFestival",    // Festival of the Mundane Redux
 			"22201 @barteke22.FishingInfoOverlays",  // Fishing Info Overlays
 			"11297 @IsaacS.FriendsForever",          // Friends Forever
 			"28324 @aedenthorn.GemIsles",            // Gem Isles
@@ -409,6 +413,7 @@
 			"40470 @focustense.StarControl",         // Star Control ('Customization Plus' fork)
 			"24806 @MiphasGrace.SurpriseBaby1",      // Surprise Pregnancy
 			"23617 @Ophaneom.Survivalistic",         // Survivalist - Hunger and Thirst
+			"41818 @net.briankendall.SwitchControls", // Switch Controls
 			"22763 @SpicyKai.Tileman",               // Tileman Challenge
 			"28304 @Cherry.ToolUpgradeCosts",        // Tool Upgrade Costs
 			"28049 @aedenthorn.TrainTracks",         // Train Tracks
@@ -531,7 +536,6 @@
 			"23235 95378",                     // Daily Item Randomizer (blocked by Nexus antivirus check)
 			"23235 95390",                     // Daily Item Randomizer (blocked by Nexus antivirus check)
 			"9052 @Kryspur.HypnoValleyMantra", // Hypno Valley - Mantra Command (example mod)
-			"39801 @kelez-xmod",               // kelez-bag-sort (reuses ID from kelez-xmod)
 			"12824 79850",                     // Marry Morris (pre-1.6 version is C#, but newer versions are content packs)
 			"40931 @ZeroXPatch.StardewStabilizer", // Stardew Stabilizer for Android (reuses ID from base original mod)
 			"40885 @TehPers.Core"              // includes updated version of original mod using same ID
