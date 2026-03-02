@@ -22516,7 +22516,14 @@
 			"author": "Hinagiku, hinagiku1306",
 			"id": "hinagiku1306.OutfitStudio",
 			"nexus": 42090,
-			"github": null
+			"github": "hinagiku1306/Outfit-Studio"
+		},
+		{
+		    "name": "More Ores",
+		    "author": "hinagiku1306",
+		    "id": "hinagiku1306.MoreOres",
+		    "nexus": 43018,
+		    "github": "hinagiku1306/More-Ores"
 		},
 		{
 			"name": "Out of Season Bonuses, Seasonal Items",
