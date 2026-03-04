@@ -32952,6 +32952,13 @@
 			"warnings": [ "Broken on Android. See [UI Info Suite 2 for Android](#) or [UI Info Suite 2 Redux](#) for Android support." ]
 		},
 		{
+			"name": "UI Info Suite 2 Alternative",
+			"author": "dazuki",
+			"id": "DazUki.UIInfoSuite2Alt",
+			"nexus": 43127,
+			"github": "dazuki/UIInfoSuite2Alt"
+		},
+		{
 			"name": "UI Info Suite 2 for Android",
 			"author": "Priff13",
 			"id": "Priff13.UIInfoSuite2_Android",
