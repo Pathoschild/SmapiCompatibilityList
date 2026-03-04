@@ -34931,6 +34931,13 @@
 			"nexus": 6031,
 			"github": null,
 			"source": "https://gitlab.com/geko_x/stardew-mods"
+		},
+		{
+			"name": "UI Info Suite 2 Alternative",
+			"author": "dazuki",
+			"id": "DazUki.UIInfoSuite2Alt",
+			"nexus": 43127,
+			"github": "dazuki/UIInfoSuite2Alt"
 		}
 	]
 }
