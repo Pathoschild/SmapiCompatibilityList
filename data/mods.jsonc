@@ -20262,6 +20262,13 @@
 			"github": "KhloeLeclair/StardewMods"
 		},
 		{
+			"name": "More Ores",
+			"author": "Hinagiku, hinagiku1306",
+			"id": "hinagiku1306.MoreOres",
+			"nexus": 43018,
+			"github": "hinagiku1306/More-Ores"
+		},
+		{
 			"name": "More Profit Margins, 0 Profit margins", // renamed in 1.1.0
 			"author": "Ytloe",
 			"id": "Ytloe.MoreProfitMargins, Ytloe.0_Profit_margins", // changed in 1.1.0
@@ -22517,13 +22524,6 @@
 			"id": "hinagiku1306.OutfitStudio",
 			"nexus": 42090,
 			"github": "hinagiku1306/Outfit-Studio"
-		},
-		{
-		    "name": "More Ores",
-		    "author": "Hinagiku, hinagiku1306",
-		    "id": "hinagiku1306.MoreOres",
-		    "nexus": 43018,
-		    "github": "hinagiku1306/More-Ores"
 		},
 		{
 			"name": "Out of Season Bonuses, Seasonal Items",
