@@ -14945,6 +14945,14 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"retestWhenCompatible": [ "Custom Chores" ] // dependency
+			"summary": "use [Helpful Spouses and Roommates](#) instead."
+		},
+		{
+			"name": "Helpful Spouses and Roommates",
+			"author": "CaptainSully",
+			"id": "CaptainSully.HelpfulSpousesAndRoommates",
+			"nexus": 42951,
+			"github": "CaptainSully/StardewMods"
 		},
 		{
 			"name": "Help Wanted",
