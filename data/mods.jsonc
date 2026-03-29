@@ -24897,6 +24897,13 @@
 			"github": "jn84/QualitySmash"
 		},
 		{
+			"name": "Quality Tricks",
+			"author": "IamSaulC",
+			"id": "IamSaulC.QualityTricks",
+			"nexus": 43366,
+			"github": null
+		},
+		{
 			"name": "Quarry Spawn Control",
 			"author": "Ameyti, po0pfart",
 			"id": "po0pfart.QuarrySpawnControl",
