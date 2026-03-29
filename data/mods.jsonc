@@ -2430,7 +2430,7 @@
 			"author": "rsjww",
 			"id": "rsjww.BalancedAutomate",
 			"nexus": 42853,
-			"github": null
+			"github": "rsj001/StardewValleyMod"
 		},
 		{
 			"name": "Balanced Combine Many Rings",
@@ -19120,6 +19120,13 @@
 			"id": "MissAnaira.MeowmereWeapons",
 			"nexus": 31357,
 			"github": null
+		},
+      {
+			"name": "Mergable Machines",
+			"author": "rsjww",
+			"id": "rsjww.MergableMachines",
+			"nexus": 43279,
+			"github": "rsj001/StardewValleyMod"
 		},
 		{
 			"name": "Merge Fertilizer",
