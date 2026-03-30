@@ -151,6 +151,7 @@
 			18353, // Custom Spouse Patio Redux (es)
 			11851, // Custom Spouse Patio Redux (zh)
 			20428, // Daily Tasks Report (ru)
+			43664, // Data Layers (zh-TW)
 			41427, // Debris is in the Air (zh-TW)
 			41431, // Debris is in the Air - The Night Lights (zh-TW)
 			37799, // Deluxe Grabber Redux (ko)
@@ -169,13 +170,16 @@
 			5428,  // Dwarvish (zh)
 			40991, // East Scarp (id)
 			10626, // East Scarp (es)
+			43939, // East Scarp (th)
 			32362, // Event Lookup (uk)
+			43658, // Event Repeater (zh-TW)
 			25952, // EXP Control (zh)
 			41730, // Experience Bars (id)
 			10967, // Extra Fish Information (fr)
 			17027, // Farm Helper (es)
 			12045, // Farmer Helper (ru)
 			12097, // Farmer Helper (tr)
+			43200, // Farmer Helper (zh-TW)
 			31935, // Farmhouse Visit (id)
 			37406, // Farm Rearranger (ru)
 			39941, // Farm Type Manager (id)
@@ -202,6 +206,7 @@
 			30357, // Happy Birthday (zh)
 			26743, // Happy Home Designer (ru)
 			41255, // Have More Kids (id)
+			43469, // Helpful Spouses and Roommates (zh-TW)
 			30646, // Home Barista (es)
 			6111,  // Immersive Characters - Shane (es)
 			39938, // Immersive Weather Overhaul (id)
@@ -249,6 +254,7 @@
 			10307, // Mobile Phone (pt)
 			16658, // Mobile Phone (vi)
 			11844, // Mobile Phone (zh)
+			43720, // Mobile Phone (zh-TW)
 			20109, // More Lively Sewer Overhaul (ru)
 			15180, // More New Fish (es)
 			16987, // More Rings (ru)
@@ -270,6 +276,7 @@
 			37356, // NPC Map Locations (ru)
 			13369, // NPC Map Locations (vi)
 			17659, // NPC Map Locations (vi)
+			43473, // NPC Map Locations (zh-TW)
 			14878, // Ornithologist's Guild (ru)
 			37370, // Passable Crops (ru)
 			36827, // Penny Ever After (pt)
@@ -299,6 +306,7 @@
 			8170,  // Riley (de)
 			10349, // Robin Romance (es)
 			16432, // Rodney - a new NPC for East Scarp
+			43553, // Season Affixes (zh-TW)
 			16399, // Self Service (pt)
 			17658, // Self Service (vi)
 			20993, // Self Service for 1.6 (pt)
@@ -308,6 +316,7 @@
 			19242, // Socializing Skill (vi)
 			39940, // SpaceCore (id)
 			37367, // SpaceCore (ru)
+			43982, // SpaceCore (zh-TW)
 			37377, // Special Power Utilities (ru)
 			42844, // Spouses in Ginger Island (pl)
 			11140, // Spouses in Ginger Island (zh)
@@ -343,6 +352,7 @@
 			13389, // UI Info Suite (vi)
 			38059, // Ultimate Guide To Clowning (zh)
 			6637,  // Underground Secrets (ru)
+			43151, // Unique Children Talk (zh-TW)
 			30812, // Valley Talk (ru)
 			36704, // Vampire Sebastian (en)
 			30572, // Vanilla Plus Professions (ru)
@@ -367,13 +377,16 @@
 			"23271 @ChelseaBingiel.LuckyRabbitsFoot",   // Actually Lucky Rabbit's Foot
 			"19034 @jwdred.AnimalSitter",            // Animal Sitter
 			"22479 @Permamiss.AutoEat",              // Auto-Eat
+			"43692 @spacechase0.BiggerBackpack",     // Bigger Backpack 60 Slots
 			"21264 @hootless.BusLocations",          // Bus Locations
 			"36089 @hootless.BusLocations",          // Bus Locations
 			"21137 @Denifia.BuyRecipes",             // Buy Cooking Recipes
 			"28591 @funnysnek.ChangeCabinType",      // Change Cabin Type
 			"20783 @aedenthorn.CropVariation",       // Crop Variation
 			"28109 @Aedenthorn.CustomMonsterFloors", // Custom Dungeon Floors
+			"20880 @Forkmaster.CustomGreenhouse",    // Custom Greenhouse (1.6 Fix)
 			"32136 @datamancer.CustomSpouseRooms",   // Custom Spouse Rooms Continued
+			"43805 @MolsonCAD.DeluxeJournal",        // Deluxe Journal Continued
 			"27888 @aedenthorn.DynamicFlooring",     // Dynamic Flooring
 			"29671 @Zamiel.EatDrinkFromInventory",   // Eat and Drink From Inventory
 			12920,                                   // Extra Map Layers (version for Android by original author)
@@ -411,6 +424,7 @@
 			"30635 @CinderGarde.SpaceCoreSkillAdapter", // Skill Prestige (SpaceCore Skill Adapter)
 			"22167 @aedenthorn.SprinklerMod",        // Sprinkler Mod
 			"40470 @focustense.StarControl",         // Star Control ('Customization Plus' fork)
+			"43861 @focustense.StardewUI",           // StardewUI Continued
 			"24806 @MiphasGrace.SurpriseBaby1",      // Surprise Pregnancy
 			"23617 @Ophaneom.Survivalistic",         // Survivalist - Hunger and Thirst
 			"41818 @net.briankendall.SwitchControls", // Switch Controls
@@ -478,9 +492,11 @@
 			"1593 5998",  // Wax Key for ALL
 
 			// mods which include a copy of another mod for some reason
+			"43881 @Platonymous.Portraiture",         // Akaid Is the Best
 			"29038 @alja.CustomCCB",                  // Aurora's Custom Bundles
 			"11228 @cat.betterfruittrees",            // Better Fruit Trees
 			"8097 @Paritee.BetterFarmAnimalVariety",  // Cotton the Sweetest Shopkeeper
+			"17063 @DSV.Core",                        // Diverse Stardew Valley - Non-Seasonal (DSV core also included in main mod)
 			"37313 @BleakCodex.SpritesInDetail",      // Dreamy Doctor Dialogue
 			"37313 @Mangupix.DialogueDisplayFrameworkContinued", // Dreamy Doctor Dialogue
 			"37313 @mardrest.ChangeDialogues",        // Dreamy Doctor Dialogue
@@ -630,6 +646,7 @@
 		"AairTheGreat.MoreBarnCoopAnimals": "AairTheGreat/StardewValleyMods",                        // More Barn & Coop Animals       | removed from repo
 		"Pickysaurus.NexusModsButton": "Dphill10827/StardewMods",                                    // Nexus Mods Button              | unrelated
 		"ZeroXPatch.GiftBack": "ZeroXPatch/Projects-for-Nexus-Mod",                                  // NPCs Gift Back                 | not in repo
+		"boxosoup.CustomIntroductions": "EnderTedi/Polyamory, Lake1059/ResetTerrainFeatures_NET6, void-cultist/PeiMingSDV", // NPC Pei Ming | unrelated x2, C# code not in repo
 		"mishmaash.PauseInMultiplayer": "jorgamun/PauseInMultiplayer",                               // Pause Time in Multiplayer Revived | older mod
 		"Sunken_Lace.PetsEnhancedCode": "SunkenLace/Pets-Enhanced-Mod-Content-Pack-Guide",           // Pets Enhanced                  | docs
 		"ApryllForever.PolyamorySweetBed": "ApryllForever/PolyamorySweet",                           // Polyamory Sweet - Bed          | in separate repo
