@@ -581,6 +581,8 @@
 		"ZaneYork/SMAPI-Android-Installer",
 
 		// repos which don't exist
+		"ArenKDesai/Murder-Mod",                  // Murder Mod
+		"averma5300/WorkbenchRangeIncrease",      // Worbench Range Increase
 		"busisd/TrackerZoomFix",                  // Foraging Tracker Profession
 		"bwdymods/SDV-Moongates",                 // Moongates
 		"bwdymods/SDV-Sleepovers",                // Sleepovers
@@ -600,17 +602,22 @@
 		"leejohnkt11/WSF",                        // WSF's Mod
 		"LeFauxMatt/CarryChest",                  // Carry Chest // CurseForge has wrong update key
 		"LeFauxMatt/SDVCustomChores",             // Custom Chores
+		"Mat4m0/PERU",                            // Forbidden Threads
 		"MattDeDuck/StardewValleyMods",           // Buyable Dwarf Scrolls + Trash Bear Item Helper
 		"moriczgergo/RandomTastes",               // Random Tastes
 		"Neosinf/StardewDruid",                   // Stardew Druid
+		"Nyayurin/DontStarve",                    // Don't Starve In Stardew Valley
+		"Nyayurin/MinuteTimeHelper",              // Minute Time Helper
 		"recht/stardew-valley-discord-rpc",       // Stardew Discord RPC
 		"NolanEastburn/ProjectS",                 // ProjectS
 		"Nook001/StardewValley-BetterBuildingUpgrades", // Better Building Upgrades
 		"philosquare/SDVEnergyProtect",           // Energy Protect
+		"p-holodynski/StardewValleyMods",         // More Clouds
 		"Prism-99/MinimizeSMAPI",                 // Minimize SMAPI
 		"Telshin/twitch-for-stardew",             // Twitch in Stardew Valley,
 		"tlitookilakin/HDPortraits",              // HD Portraits
 		"TobinWilson/PelicanPostalService",       // Pelican Postal Service
+		"truman-world/puppy-stardew-server",      // Auto Hide Host
 		"WhaleK233/Red-Panda-Bazaar"              // Red Panda Bazaar
 	],
 
@@ -620,6 +627,7 @@
 	 * Entries can be a GitHub repo name (like 'Pathoschild/StardewMods') or custom source URL.
 	 */
 	"IgnoreSourceLinksForSpecificMods": {
+		"tyr4ntx.AnimatedPortraitFramework": "FFmpeg/FFmpeg, danielgatis/rembg",                     // Animated Portrait Framework    | unrelated
 		"Zeux2K.More_Ancient_Seeds_C": "chsiao58/EvenBetterArtisanGoodIcons",                        // Ancient Seeds Expanded         | mod link
 		"pepoluan.ASDFGH": "Ilyaki/ArtifactSystemFixed",                                             // Artifact System Drop Framework & Geodes Handler | older mod
 		"macer.AuroraGSI": "antonpup/Aurora",                                                        // Aurora GSI                     | dependency
@@ -673,6 +681,7 @@
 	 */
 	"MapSourceLinks": {
 		// renamed
+		"8AwA8/Skillful-Clothes-Revamp-1.3.5": "8AwA8/StardewValley.SkillfulClothesRevamp",
 		"AlphaMeece/StardewSkillRings": "AlphaMeece/StardewMods",
 		"AndyCrocker/StardewMods": "Sonozuki/StardewMods",
 		"bwdy/SDVModding": "TheWitchOfNull/SDVModding",
