@@ -24992,6 +24992,15 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "PortraitsForAll",
+			"author": "mushymato",
+			"id": "mushymato.PortraitsForAll",
+			"nexus": null,
+			"github": "Mushymato/PortraitsForAll",
+
+			"summary": "also bundled in [They Deserve It Too - Portraits for Extras](https://www.nexusmods.com/stardewvalley/mods/35358), but the GitHub release maintains accurate versioning."
+		},
+		{
 			"name": "Portraiture",
 			"author": "Platonymous",
 			"id": "Platonymous.Portraiture",
@@ -33126,18 +33135,15 @@
 			"github": null
 		},
 		{
-			"name": "They Deserve It Too, Portraits For All",
-			"author": "cresolyn and Dolphin Is Not a Fish, mushymato",
-			"id": "mushymato.PortraitsForAll",
-			"nexus": 35358,
-			"github": "Mushymato/PortraitsForAll"
-		},
-		{
-			"name": "They Deserve It Too - Portraits for Vendors, TDIT - Dialogue Box for Mariner",
-			"author": "Dolphin Is Not a Fish",
+			"name": "They Deserve It Too - Dialogue Box for Mariner",
+			"author": "KediDili and Dolphin Is Not a Fish",
 			"id": "DolphINaF.Kedi.MarinerDialogue, Dolphin.Kedi.OldMarinerDialogue", // changed in 1.1.0
 			"nexus": 20414,
-			"github": null
+			"github": null,
+
+			"status": "abandoned",
+			"abandonedReason": "author",
+			"summary": "remove this mod (no longer maintained; use [PortraitsForAll](https://github.com/Mushymato/PortraitsForAll) instead)."
 		},
 		{
 			"name": "They Thrive",
