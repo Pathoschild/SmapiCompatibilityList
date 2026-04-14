@@ -31398,11 +31398,12 @@
 			"summary": "remove this mod (no longer maintained; use [Magic by Neosinf](#) instead)."
 		},
 		{
-			"name": "Stardew Economy, (DLL)Farming Capitalist", // site, manifest
+			"name": "Stardew Economy", // previously [DLL]FarmingCapalist
 			"author": "Cleanpup",
-			"id": "Cleanpup.FarmingCapitalist",
+			"id": "Cleanpup.StardewEconomy",
 			"nexus": 43454,
-			"github": "Cleanpup/FarmingCapitalist"
+			"github": "Cleanpup/StardewEconomy"
+			"summary": "renamed mod dll file to StardewEconomy.dll as of version 1.0.0
 		},
 		{
 			"name": "Stardew Editor",
