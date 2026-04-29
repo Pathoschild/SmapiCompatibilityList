@@ -33133,17 +33133,6 @@
 			"github": null
 		},
 		{
-			"name": "They Deserve It Too - Dialogue Box for Mariner",
-			"author": "KediDili and Dolphin Is Not a Fish",
-			"id": "DolphINaF.Kedi.MarinerDialogue, Dolphin.Kedi.OldMarinerDialogue", // changed in 1.1.0
-			"nexus": 20414,
-			"github": null,
-
-			"status": "abandoned",
-			"abandonedReason": "author",
-			"summary": "remove this mod (no longer maintained; use [PortraitsForAll](https://github.com/Mushymato/PortraitsForAll) instead)."
-		},
-		{
 			"name": "They Thrive",
 			"author": "John Peters",
 			"id": "JohnPeters.TheyThrive",
