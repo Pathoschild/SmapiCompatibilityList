@@ -24992,6 +24992,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Portraits For All",
+			"author": "mushymato",
+			"id": "mushymato.PortraitsForAll",
+			"nexus": null,
+			"github": "Mushymato/PortraitsForAll"
+		},
+		{
 			"name": "Portraiture",
 			"author": "Platonymous",
 			"id": "Platonymous.Portraiture",
@@ -33123,20 +33130,6 @@
 			"author": "Eris, AkatsukiVana, HuaGei API",
 			"id": "Eris.APICut",
 			"nexus": 8158,
-			"github": null
-		},
-		{
-			"name": "They Deserve It Too, Portraits For All",
-			"author": "cresolyn and Dolphin Is Not a Fish, mushymato",
-			"id": "mushymato.PortraitsForAll",
-			"nexus": 35358,
-			"github": "Mushymato/PortraitsForAll"
-		},
-		{
-			"name": "They Deserve It Too - Portraits for Vendors, TDIT - Dialogue Box for Mariner",
-			"author": "Dolphin Is Not a Fish",
-			"id": "DolphINaF.Kedi.MarinerDialogue, Dolphin.Kedi.OldMarinerDialogue", // changed in 1.1.0
-			"nexus": 20414,
 			"github": null
 		},
 		{
