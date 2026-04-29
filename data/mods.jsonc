@@ -21882,6 +21882,20 @@
 			"github": "recon88/Multi-Save-Continued"
 		},
 		{
+		  "name": "Multi Save Checkpoint - Standard Edition",
+		  "author": "NoobSama101",
+		  "id": "NoobSama101.MultiSaveCheckpoint",
+		  "nexus": 45258,
+		  "github": null
+		},
+		{
+		  "name": "Multi Save Checkpoint - QuickSave Edition",
+		  "author": "NoobSama101",
+		  "id": "NoobSama101.MultiSaveCheckpointQuickSaveEdition",
+		  "nexus": 45258,
+		  "github": null
+		},
+		{
 			"name": "MultiSleep",
 			"author": "Kaito Kid",
 			"id": "KaitoKid.ArchipelagoStandaloneMods.MultiSleep",
