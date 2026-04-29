@@ -24992,13 +24992,11 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
-			"name": "PortraitsForAll",
+			"name": "Portraits For All",
 			"author": "mushymato",
 			"id": "mushymato.PortraitsForAll",
 			"nexus": null,
-			"github": "Mushymato/PortraitsForAll",
-
-			"summary": "also bundled in [They Deserve It Too - Portraits for Extras](https://www.nexusmods.com/stardewvalley/mods/35358), but the GitHub release maintains accurate versioning."
+			"github": "Mushymato/PortraitsForAll"
 		},
 		{
 			"name": "Portraiture",
