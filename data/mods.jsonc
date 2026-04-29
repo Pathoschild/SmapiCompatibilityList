@@ -31400,10 +31400,9 @@
 		{
 			"name": "Stardew Economy",
 			"author": "Cleanpup",
-			"id": "Cleanpup.StardewEconomy",
+			"id": "Cleanpup.StardewEconomy, Cleanpup.FarmingCapitalist", // changed in 1.0.1
 			"nexus": 43454,
-			"github": "Cleanpup/StardewEconomy",
-			"summary": "renamed mod dll file to StardewEconomy.dll as of version 1.0.0"
+			"github": "Cleanpup/StardewEconomy"
 		},
 		{
 			"name": "Stardew Editor",
