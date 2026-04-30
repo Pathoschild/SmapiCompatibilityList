@@ -716,6 +716,13 @@
 			"summary": "remove this mod (no longer maintained; use [Crops Anytime Anywhere](#) instead)."
 		},
 		{
+			"name": "All Day Meteor",
+			"author": "Yellow_Cow, YellowCow3790", // manifest, Nexus
+			"id": "Yellow_Cow.All_Day_Meteor",
+			"nexus": 45601,
+			"github": null
+		},
+		{
 			"name": "All-in-One Friendship",
 			"author": "archseriph",
 			"id": "archseriph.AllinOneFriendship",
@@ -19255,6 +19262,13 @@
 			"github": "Prism-99/Aedenthorn-StardewValleyMods"
 		},
 		{
+			"name": "Lightning Mod",
+			"author": "Yellow_Cow, YellowCow3790", // manifest, Nexus
+			"id": "Yellow_Cow.LightningMod",
+			"nexus": 45603,
+			"github": null
+		},
+		{
 			"name": "Light Radius",
 			"author": "irocendar",
 			"id": "irocendar.LightRadius",
@@ -25005,6 +25019,13 @@
 			"github": "rokugin/PetStore"
 		},
 		{
+			"name": "Pet Waters Crops",
+			"author": "PC, HuTaoManiac", // manifest, Nexus
+			"id": "PC.PetWatersCrops",
+			"nexus": 45626,
+			"github": null
+		},
+		{
 			"name": "Pet While Sleeping",
 			"author": "Kree, Kreestijan", // manifest, Nexus
 			"id": "Kree.PetWhileSleeping",
@@ -25580,6 +25601,13 @@
 			"id": "L3ca.PortableCommunityCenter",
 			"curse": 1303757,
 			"nexus": 35520,
+			"github": null
+		},
+		{
+			"name": "Pocket Constellation",
+			"author": "BritishW",
+			"id": "BritishW.PocketConstellation",
+			"nexus": 44392,
 			"github": null
 		},
 		{
@@ -26226,6 +26254,13 @@
 			"id": "tomokisan.prizeMachineCustomPrizes",
 			"curse": 1081721,
 			"nexus": 24982,
+			"github": null
+		},
+		{
+			"name": "Prize Machine Framework",
+			"author": "WhaleK233, CosmosCetus", // manifest, Nexus
+			"id": "WhaleK233.PrizeMachineFramework",
+			"nexus": 45620,
 			"github": null
 		},
 		{
@@ -34755,6 +34790,13 @@
 			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
+			"name": "Tractor Stamina Patch",
+			"author": "verehu, huweigoodboy", // manifest, Nexus
+			"id": "verehu.TractorStaminaPatch",
+			"nexus": 45632,
+			"github": null
+		},
+		{
 			"name": "Trading",
 			"author": "MindMeltMax",
 			"id": "MindMeltMax.Trading",
@@ -35793,6 +35835,13 @@
 			"author": "Thomas Riley, tvriley",
 			"id": "tvriley.NewHotKey",
 			"nexus": 41246,
+			"github": null
+		},
+		{
+			"name": "Using Tools Using Health",
+			"author": "Yellow_Cow, YellowCow3790", // manifest, Nexus
+			"id": "Yellow_Cow.Using_Tools_Using_Health",
+			"nexus": 45604,
 			"github": null
 		},
 		{
