@@ -29,13 +29,16 @@
 
 			// reposts with same mod ID
 			"1145447 @cat.betterartisangoodicons", // Better Artisan Good Icons
+			"1521367 @Mucchan.PrairieKingMadeEasy", // Prairie King Made Easy (reupload of old incompatible version)
 			"1412651 @focustense.StarControl",     // Star Control ('Customization Plus' fork)
 
 			// mods which include a copy of another mod for some reason
 			"877227 @Platonymous.PlatoUI", // Plato Warp Menu
 
 			// special cases
-			"868753 4769761" // accidentally uploaded wrong mod
+			"868753 4769761", // accidentally uploaded wrong mod
+			"1500640",        // Stardew Casino by dwedwed1 (malware mod author)
+			"1500648"         // Stardew Ghost Pet by dwedwed1 (malware mod author)
 		],
 		"ModDrop": [
 			/****
@@ -45,7 +48,9 @@
 			1547210, // Better Chests
 			124612,  // Casks Anywhere
 			1035899, // Dialogue Tester
+			1752598, // Fish Output Config
 			1547213, // FauxCore
+			1752599, // Micro Machine Edits
 			793905,  // Notes
 
 			// mod translations
@@ -108,6 +113,7 @@
 			36750, // Arcanian Animal Reserve (zh)
 			32017, // Auto Forager (zh)
 			39950, // Automate (id)
+			44863, // Automate (zh-TW)
 			42841, // Automate Tool Swap (es)
 			33085, // Baldur's Village (pt)
 			23323, // Better Crafting (id)
@@ -166,11 +172,13 @@
 			20556, // Dusty Overhaul - SVE (es)
 			41052, // Dynamic Dusk (id)
 			41738, // Dynamic Reflections (id)
+			44480, // Dynamic Shader (vi)
 			5396,  // Dwarvish (pt)
 			5428,  // Dwarvish (zh)
 			40991, // East Scarp (id)
 			10626, // East Scarp (es)
 			43939, // East Scarp (th)
+			45269, // Event Lookup (ru)
 			32362, // Event Lookup (uk)
 			43658, // Event Repeater (zh-TW)
 			25952, // EXP Control (zh)
@@ -184,6 +192,7 @@
 			37406, // Farm Rearranger (ru)
 			39941, // Farm Type Manager (id)
 			37359, // Farm Type Manager (ru)
+			45272, // Farm Type Manager (ru)
 			23394, // Fashion Sense (es)
 			18034, // Fashion Sense (fr)
 			41729, // Fast Animations (id)
@@ -238,6 +247,7 @@
 			36862, // Magic Stardew (pt)
 			41219, // Magic Stardew (pt)
 			35688, // Mail Services Mod (es)
+			44606, // Make Love (zh)
 			18746, // Mana Bar (vi)
 			28680, // Maritime Secrets (zh)
 			33908, // Market Day (vi)
@@ -285,6 +295,7 @@
 			26441, // Polyamory Sweet (fr)
 			21029, // Polyamory Sweet (pt)
 			33083, // Polyamory Sweet (pt)
+			45275, // Polyamory Sweet (ru)
 			29247, // Polyamory Sweet (zh)
 			31727, // Polyamory Sweet (zh)
 			36577, // Polyamory Sweet (zh)
@@ -297,11 +308,13 @@
 			11407, // Producer Framework Mod (fr)
 			31136, // Profession Books (es)
 			41547, // Quarry Spawn Control (fr)
+			44696, // Range Highlight (zh-TW)
 			30091, // Reverse Proposal (zh)
 			18010, // Resource Storage (pt)
 			8030,  // Ridgeside Village (es)
 			9942,  // Ridgeside Village (fr)
 			19377, // Ridgeside Village (th)
+			45026, // Ridgeside Village (th)
 			18829, // Ridgeside Village (vi)
 			8170,  // Riley (de)
 			10349, // Robin Romance (es)
@@ -313,9 +326,11 @@
 			21102, // Self Service for 1.6 (tr)
 			18378, // Shiko NPC (id)
 			18662, // Shopping Show (vi)
+			44442, // Smart Gates (zh)
 			19242, // Socializing Skill (vi)
 			39940, // SpaceCore (id)
 			37367, // SpaceCore (ru)
+			45276, // SpaceCore (ru)
 			43982, // SpaceCore (zh-TW)
 			37377, // Special Power Utilities (ru)
 			42844, // Spouses in Ginger Island (pl)
@@ -332,10 +347,12 @@
 			5509,  // Stardew Valley Expanded (es)
 			12867, // Stardew Valley Expanded (fr)
 			4206,  // Stardew Valley Expanded (pt)
+			45278, // Stardew Valley Expanded (ru)
 			6062,  // Stardew Valley Expanded (tr)
 			6332,  // Stardew Valley Expanded (tr)
 			37192, // Stardew Valley Expanded (vi)
 			19243, // Survivalist Skill (vi)
+			45456, // Sword & Sorcery (id)
 			35501, // Sword & Sorcery (zh)
 			29736, // The Love of Cooking (pt)
 			10221, // The Ranch Expansion Marnie and Jas (es)
@@ -374,7 +391,7 @@
 			3294,  // Sprint Sprint Sprint (replaced by Sprint Sprint)
 
 			// reposts with same mod ID
-			"23271 @ChelseaBingiel.LuckyRabbitsFoot",   // Actually Lucky Rabbit's Foot
+			"23271 @ChelseaBingiel.LuckyRabbitsFoot", // Actually Lucky Rabbit's Foot
 			"19034 @jwdred.AnimalSitter",            // Animal Sitter
 			"22479 @Permamiss.AutoEat",              // Auto-Eat
 			"43692 @spacechase0.BiggerBackpack",     // Bigger Backpack 60 Slots
@@ -389,6 +406,7 @@
 			"43805 @MolsonCAD.DeluxeJournal",        // Deluxe Journal Continued
 			"27888 @aedenthorn.DynamicFlooring",     // Dynamic Flooring
 			"29671 @Zamiel.EatDrinkFromInventory",   // Eat and Drink From Inventory
+			"45064 @furyx639.ExpandedStorage",       // Expanded Storage (for Android)
 			12920,                                   // Extra Map Layers (version for Android by original author)
 			"20910 @aedenthorn.FarmCaveFramework",   // Farm Cave Framework
 			"42678 @MouseyPounds.ShadowFestival",    // Festival of the Mundane Redux
@@ -399,6 +417,7 @@
 			"21286 @Slothsoft.Informant",            // Informant
 			"21635 @spacechase0.JunimosAcceptCash",  // Junimos Accept Cash
 			"27343 @d5a1lamdtd.MarketTown",          // Market Town
+			"45074 @d5a1lamdtd.MarketTown",          // Market Town (for Android)
 			"16921 @Chikakoo.Randomizer",            // More Random Edition
 			"27953 @Akane.MotorcycleMod",            // Motorcycle Mod
 			"31365 @aedenthorn.MoveableMailbox",     // Moveable Mailbox (as optional file)
@@ -425,6 +444,7 @@
 			"22167 @aedenthorn.SprinklerMod",        // Sprinkler Mod
 			"40470 @focustense.StarControl",         // Star Control ('Customization Plus' fork)
 			"43861 @focustense.StardewUI",           // StardewUI Continued
+			"45142 @Dinotopea.StaticInventory",      // Static Inventory Redux
 			"24806 @MiphasGrace.SurpriseBaby1",      // Surprise Pregnancy
 			"23617 @Ophaneom.Survivalistic",         // Survivalist - Hunger and Thirst
 			"41818 @net.briankendall.SwitchControls", // Switch Controls
@@ -433,6 +453,7 @@
 			"28049 @aedenthorn.TrainTracks",         // Train Tracks
 			"23570 @TyoAtrosa.Treeshaker",           // Tree Shaker
 			"1077 @Demiacle.UiModSuite",             // UI Mod Suite
+			"45410 @Juppa.VampireSebbyCode",         // Vampire Sebastian
 			"27425 @VirtualKeyboard",                // Virtual Keyboard
 			"27842 @VirtualKeyboard",                // Virtual Keyboard
 			"24119 @aedenthorn.WikiLinks",           // Wiki Links
@@ -466,7 +487,6 @@
 			"366 2949",    // Siv's Marriage Mod, invalid version "0.0.0"
 			"1048 3757",   // SmartMod, invalid version "0.0.0"
 			"6284 28109",  // Upgraded Seed Maker Fantasy Crops Addon, missing comma
-			"5881 26283",  // Void Pendant Replacer, UpdateKeys has {} instead of []
 			"5558 24942",  // Zen Garden Desert Obelisk, unescaped quote in string
 
 			// utility mods that are part of a larger mod
@@ -493,6 +513,7 @@
 
 			// mods which include a copy of another mod for some reason
 			"43881 @Platonymous.Portraiture",         // Akaid Is the Best
+			"43319 @tyr4ntx.AnimatedPortraitFramework", // Animated Bachlorettes Portraits
 			"29038 @alja.CustomCCB",                  // Aurora's Custom Bundles
 			"11228 @cat.betterfruittrees",            // Better Fruit Trees
 			"8097 @Paritee.BetterFarmAnimalVariety",  // Cotton the Sweetest Shopkeeper
@@ -507,7 +528,6 @@
 			"37313 @spacechase0.GenericModConfigMenu", // Dreamy Doctor Dialogue
 			"37313 @Spiderbuttons.BETAS",             // Dreamy Doctor Dialogue
 			"26746 @Platonymous.Portraiture",         // Expand Shane's CG events
-			"3496 @Esca.FarmTypeManager",             // Farm Extended
 			"6029 @Cherry.ToolUpgradeCosts",          // Hardew Valley
 			"6029 @jahangmar.LevelingAdjustment",     // Hardew Valley
 			"8563 @spacechase0.CustomNPCFixes",       // Harvest Valley Farm
@@ -538,6 +558,7 @@
 			"9509 @jahangmar.LevelingAdjustment",     // Stardew VallEasy - Easy Gold Everywhere
 			"9509 @jahangmar.LevelingAdjustment2",    // Stardew VallEasy - Easy Gold Everywhere
 			"37977 @Cherry.MultiYieldCrops",          // sijizuowuzhognzimod
+			"35358 @mushymato.PortraitsForAll",       // They Deserve It Too - Portraits for Extras
 			"32992 @CF.ChangeHorseSounds",            // Wave125 Motorcycle
 
 			// downloads which replace files in other mods
