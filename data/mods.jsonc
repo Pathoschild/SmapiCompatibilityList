@@ -37429,6 +37429,41 @@
 			"nexus": 6031,
 			"github": null,
 			"source": "https://gitlab.com/geko_x/stardew-mods"
+		},
+		{
+			"name": "Community Center Pins",
+			"author": "Kree",
+			"id": "Kree.CommunityCenterPins",
+			"nexus": 45354,
+			"github": "Kreestijan/StardewMods"
+		},
+		{
+			"name": "Custom Chest Size",
+			"author": "Kree",
+			"id": "Kree.CustomChestSize",
+			"nexus": 45116,
+			"github": "Kreestijan/StardewMods"
+		},
+		{
+			"name": "Double Size Sprite, DSS",
+			"author": "Kree",
+			"id": "Kree.DSS",
+			"nexus": 45345,
+			"github": "Kreestijan/StardewMods"
+		},
+		{
+			"name": "Pet While Sleeping",
+			"author": "Kree",
+			"id": "Kree.PetWhileSleeping",
+			"nexus": 45143,
+			"github": "Kreestijan/StardewMods"
+		},
+		{
+			"name": "Spouse Warp",
+			"author": "Kree",
+			"id": "Kree.SpouseWarp",
+			"nexus": 45311,
+			"github": "Kreestijan/StardewMods"
 		}
 	]
 }
