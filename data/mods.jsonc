@@ -6461,7 +6461,7 @@
 			"author": "Kree, Kreestijan", // manifest, Nexus
 			"id": "Kree.CommunityCenterPins",
 			"nexus": 45354,
-			"github": null
+			"github": "Kreestijan/StardewMods"
 		},
 		{
 			"name": "Community Center Randomizer - Redux",
@@ -7785,7 +7785,7 @@
 			"author": "Kree, Kreestijan", // manifest, Nexus
 			"id": "Kree.CustomChestSize",
 			"nexus": 45116,
-			"github": null
+			"github": "Kreestijan/StardewMods"
 		},
 		{
 			"name": "Custom Chest Types",
@@ -9960,7 +9960,7 @@
 			"author": "Kree, Kreestijan", // manifest, Nexus
 			"id": "Kree.DSS",
 			"nexus": 45345,
-			"github": null
+			"github": "Kreestijan/StardewMods"
 		},
 		{
 			"name": "Double Standard Farm, Double Farm",
@@ -25030,7 +25030,7 @@
 			"author": "Kree, Kreestijan", // manifest, Nexus
 			"id": "Kree.PetWhileSleeping",
 			"nexus": 45143,
-			"github": null
+			"github": "Kreestijan/StardewMods"
 		},
 		{
 			"name": "Phantom Guard, Summon Combat Ally",
@@ -31617,7 +31617,7 @@
 			"author": "Kree, Kreestijan", // manifest, Nexus
 			"id": "Kree.SpouseWarp",
 			"nexus": 45311,
-			"github": null
+			"github": "Kreestijan/StardewMods"
 		},
 		{
 			"name": "Springmyst",
@@ -37429,6 +37429,6 @@
 			"nexus": 6031,
 			"github": null,
 			"source": "https://gitlab.com/geko_x/stardew-mods"
-		}
+		},
 	]
 }
