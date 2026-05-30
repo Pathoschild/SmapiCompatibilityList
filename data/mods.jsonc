@@ -2100,6 +2100,13 @@
 			"github": null
 		},
 		{
+			"name": "Auto-Loot Fishing Chests",
+			"author": "Jonathan Feenstra",
+			"id": "JonathanFeenstra.AutoLootFishingChests",
+			"nexus": 46949,
+			"github": "JonathanFeenstra/Auto-LootFishingChests"
+		},
+		{
 			"name": "Automate",
 			"author": "Pathoschild",
 			"id": "Pathoschild.Automate",
@@ -2293,6 +2300,13 @@
 			"id": "weizinai.AutoRefreshMineShaft",
 			"nexus": 33451,
 			"github": "weizinai/StardewValleyMods"
+		},
+        {
+			"name": "Auto-Replace Tackles&#44; Bait & Ammo",
+			"author": "Jonathan Feenstra",
+			"id": "JonathanFeenstra.AutoReplaceTacklesBaitAndAmmo",
+			"nexus": 46622,
+			"github": "JonathanFeenstra/Auto-ReplaceTacklesBaitAndAmmo"
 		},
 		{
 			"name": "Auto-Scythe",
