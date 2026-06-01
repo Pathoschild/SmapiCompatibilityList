@@ -255,6 +255,7 @@
 			31580, // Market Town (zh)
 			41679, // Mass Purchase Animals Anywhere (fr)
 			24445, // Mastery Extended (zh)
+			46752, // Merchant (tr)
 			15183, // Mermaid Island (es)
 			40592, // MH Quest Manager (id)
 			39949, // Miss Coriel's Unique Courtship Response (id)
@@ -317,6 +318,7 @@
 			45026, // Ridgeside Village (th)
 			18829, // Ridgeside Village (vi)
 			8170,  // Riley (de)
+			36377, // Roasting Marshmallows (ja)
 			10349, // Robin Romance (es)
 			16432, // Rodney - a new NPC for East Scarp
 			43553, // Season Affixes (zh-TW)
@@ -413,6 +415,7 @@
 			"22201 @barteke22.FishingInfoOverlays",  // Fishing Info Overlays
 			"11297 @IsaacS.FriendsForever",          // Friends Forever
 			"28324 @aedenthorn.GemIsles",            // Gem Isles
+			"45830 @smallfire.GMCMModNameI18n",      // GMCM Mod Name I18n Text Addition
 			"28351 @atravita.IdentifiableCombinedRings", // Identifiable Combined Rings
 			"21286 @Slothsoft.Informant",            // Informant
 			"21635 @spacechase0.JunimosAcceptCash",  // Junimos Accept Cash
@@ -435,6 +438,7 @@
 			"28712 @aedenthorn.RobinWorkHours",      // Robin Work Hours
 			1363,                                    // Save Anywhere
 			"8386 @Omegasis.SaveAnywhere",           // Save Anywhere
+			"46026 @Macroush.Scaleer",               // Scaleer Fork
 			"36813 @Platonymous.ScaleUp",            // Scale Up Unofficial
 			"36813 @BleakCodex.SpritesInDetail",     // Scale Up Unofficial
 			"29377 @Platonymous.SeedBag",            // Seed Bag
@@ -453,7 +457,6 @@
 			"28049 @aedenthorn.TrainTracks",         // Train Tracks
 			"23570 @TyoAtrosa.Treeshaker",           // Tree Shaker
 			"1077 @Demiacle.UiModSuite",             // UI Mod Suite
-			"45410 @Juppa.VampireSebbyCode",         // Vampire Sebastian
 			"27425 @VirtualKeyboard",                // Virtual Keyboard
 			"27842 @VirtualKeyboard",                // Virtual Keyboard
 			"24119 @aedenthorn.WikiLinks",           // Wiki Links
@@ -528,6 +531,7 @@
 			"37313 @spacechase0.GenericModConfigMenu", // Dreamy Doctor Dialogue
 			"37313 @Spiderbuttons.BETAS",             // Dreamy Doctor Dialogue
 			"26746 @Platonymous.Portraiture",         // Expand Shane's CG events
+			"46543 @DeLiXx.Custom_Farm_Loader",       // Ginger Island Survival
 			"6029 @Cherry.ToolUpgradeCosts",          // Hardew Valley
 			"6029 @jahangmar.LevelingAdjustment",     // Hardew Valley
 			"8563 @spacechase0.CustomNPCFixes",       // Harvest Valley Farm
@@ -559,6 +563,7 @@
 			"9509 @jahangmar.LevelingAdjustment2",    // Stardew VallEasy - Easy Gold Everywhere
 			"37977 @Cherry.MultiYieldCrops",          // sijizuowuzhognzimod
 			"35358 @mushymato.PortraitsForAll",       // They Deserve It Too - Portraits for Extras
+			"45156 @codysoasis.TotAG_SaveMigration",  // Vael's Familiars
 			"32992 @CF.ChangeHorseSounds",            // Wave125 Motorcycle
 
 			// downloads which replace files in other mods
@@ -589,6 +594,7 @@
 		"Annosz/UIInfoSuite2",
 		"cjsu/SMAPI",
 		"ClxS/SMAPI",
+		"doodlum/nexusmods-widgets",
 		"Floogen/AlternativeTextures",
 		"ModOrganizer2/modorganizer-basic_games",
 		"pardeike/Harmony",
@@ -652,6 +658,7 @@
 		"Zeux2K.More_Ancient_Seeds_C": "chsiao58/EvenBetterArtisanGoodIcons",                        // Ancient Seeds Expanded         | mod link
 		"pepoluan.ASDFGH": "Ilyaki/ArtifactSystemFixed",                                             // Artifact System Drop Framework & Geodes Handler | older mod
 		"macer.AuroraGSI": "antonpup/Aurora",                                                        // Aurora GSI                     | dependency
+		"JonathanFeenstra.AutoLootFishingChests": "Hackswell/GloryOfEfficiency",                     // Auto Loot Fishing Chests       | unrelated
 		"HedgehogTechnologies.AutoTrasher": "jag3dagster/AutoShaker",                                // Auto Trasher                   | old repo name
 		"Pathoschild.ChestsAnywhere": "VIspReaderUS/AccessChestAnywhere",                            // Chests Anywhere                | older mod
 		"Vertigon.ConfigurableSpecialOrdersUnlock": "dtomlinson-ga/ConfigurableSpecialOrdersUnlock", // Configural Special Orders Unlock | older repo
@@ -661,6 +668,7 @@
 		"pepoluan.EvenBetterRNG": "dotnet/runtime, Zoryn4163/SMAPI-Mods",                            // Even Better RNG                | unrelated
 		"CF.SMAPI.GameTables": "CyanFireUK/StardewValleyMods",                                       // Game Tables                    | unofficial update
 		"Platonymous.InkStories": "inkle/ink",                                                       // Ink Stories                    | docs
+		"bcmpinc.Internationalization": "bcmpinc/StardewHack",                                       // Internationalization           | unrelated
 		"aedenthorn.RandomNPC": "ChroniclerCherry/stardew-valley-mods, ceruleandeep/CeruleanStardewMods",// Market Day (bundles Random NPC) | unrelated
 		"alpeerkaraca.ShowMobHealthBars": "https://gitlab.com/speeder1/SMAPIHealthbarMod",           // Mob Health Bars                | older mod
 		"JoXW.Email": "aedenthorn/StardewValleyMods",                                                // Mobile Phone Continued         | older mod
@@ -677,6 +685,7 @@
 		"ZeroXPatch.GiftBack": "ZeroXPatch/Projects-for-Nexus-Mod",                                  // NPCs Gift Back                 | not in repo
 		"boxosoup.CustomIntroductions": "EnderTedi/Polyamory, Lake1059/ResetTerrainFeatures_NET6, void-cultist/PeiMingSDV", // NPC Pei Ming | unrelated x2, C# code not in repo
 		"mishmaash.PauseInMultiplayer": "jorgamun/PauseInMultiplayer",                               // Pause Time in Multiplayer Revived | older mod
+		"badboysm890.PelicanTownAI": "ggerganov/llama.cpp",                                          // Pelican Town AI                | unrelated
 		"Sunken_Lace.PetsEnhancedCode": "SunkenLace/Pets-Enhanced-Mod-Content-Pack-Guide",           // Pets Enhanced                  | docs
 		"ApryllForever.PolyamorySweetBed": "ApryllForever/PolyamorySweet",                           // Polyamory Sweet - Bed          | in separate repo
 		"ApryllForever.PolyamorySweetKiss": "ApryllForever/PolyamorySweet",                          // Polyamory Sweet - Kiss         | in separate repo
@@ -734,7 +743,9 @@
 		// duplicate repos (map to more recently updated one)
 		"BananaFruit1492/BulkStaircases": "BananaFruit476/BulkStaircases",     // Bulk Staircases
 		"MrOxity/MoreWeapons-Source-Code": "Sasara2201/More-Weapons-SDV-Mod-", // More Weapons
-		"https://sourceforge.net/projects/sdvmods-artifact-fix-redux": "https://sourceforge.net/projects/sdvmod-asdfgh" // Artifact System Drop Framework & Geodes Handler
+		"https://sourceforge.net/projects/sdvmods-artifact-fix-redux": "https://sourceforge.net/projects/sdvmod-asdfgh", // Artifact System Drop Framework & Geodes Handler
 
+		// misnamed in mod data
+		"ernfu/StardewBirthdayQuest.": "ernfu/StardewBirthdayQuest" // Birthday Quest
 	}
 }
