@@ -15246,7 +15246,15 @@
 			"github": "atravita-mods/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "AtraCore" ] // dependency
+			"status": "workaround",
+			"summary": "use [Giant Crop Fertilizer Continued](#) instead."
+		},
+		{
+			"name": "Giant Crop Fertilizer Continued",
+			"author": "atravita, 6135",
+			"id": "6135.GiantCropFertilizer",
+			"nexus": 53558,
+			"github": "6135/StardewValleyMods"
 		},
 		{
 			"name": "Giant Crop Ring",
@@ -15399,7 +15407,15 @@
 			"github": "atravita-mods/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "AtraCore" ] // dependency
+			"status": "workaround",
+			"summary": "use [Ginger Island Mainland Adjustments Continued](#) instead."
+		},
+		{
+			"name": "Ginger Island Mainland Adjustments Continued",
+			"author": "atravita, 6135",
+			"id": "6135.GingerIslandMainlandAdjustments",
+			"nexus": 53547,
+			"github": "6135/StardewValleyMods"
 		},
 		{
 			"name": "Ginger Island Survival, 姜岛求生",
@@ -16824,7 +16840,15 @@
 			"github": "atravita-mods/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "AtraCore" ] // dependency
+			"status": "workaround",
+			"summary": "use [Holiday Sales Continued](#) instead."
+		},
+		{
+			"name": "Holiday Sales Continued",
+			"author": "atravita, 6135",
+			"id": "6135.HolidaySales",
+			"nexus": 53521,
+			"github": "6135/StardewValleyMods"
 		},
 		{
 			"name": "Home Barista",
