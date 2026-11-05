@@ -8379,7 +8379,9 @@
 			"moddrop": 793932,
 			"github": "Platonymous/Stardew-Valley-Mods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "Use the [Custom Furniture 1.6 Patch](https://www.nexusmods.com/stardewvalley/mods/49109) for Stardew Valley 1.6+."
 		},
 		{
 			"name": "Custom Gatherer Chance",
