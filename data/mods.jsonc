@@ -29095,6 +29095,13 @@
 			"github": null
 		},
 		{
+			"name": "Ria's Storage Network",
+			"author": "Solariaze",
+			"id": "Ria.StorageNetwork",
+			"nexus": 55971,
+			"github": null
+		},
+		{
 			"name": "Ribeena's Vehicles, Bus Sprite Adjuster",
 			"author": "ribeena",
 			"id": "ribeena.boatspriteadjuster, ribeena.busspriteadjuster", // two separate C# mods bundled
